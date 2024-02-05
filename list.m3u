@@ -1,294 +1,294 @@
 #EXTM3U
-#EXTINF:-1 group-title="Entretenimiento" tvg-id="entretenimiento1" tvg-name="A&E HD", A&E HD
+#EXTINF:-1 tvg-chno="1" group-title="Entretenimiento" tvg-id="entretenimiento1" tvg-name="A&E HD", A&E HD
 http://181.78.22.70:8000/play/a022/index.m3u8 
 
-#EXTINF:-1 group-title="Entretenimiento" tvg-id="entretenimiento2" tvg-name="AMC HD", AMC HD
+#EXTINF:-1 tvg-chno="2" group-title="Entretenimiento" tvg-id="entretenimiento2" tvg-name="AMC HD", AMC HD
 http://181.78.22.70:8000/play/a02p/index.m3u8 
 
-#EXTINF:-1 group-title="Entretenimiento" tvg-id="entretenimiento3" tvg-name="ATRES SERIES HD", ATRES SERIES HD
+#EXTINF:-1 tvg-chno="3" group-title="Entretenimiento" tvg-id="entretenimiento3" tvg-name="ATRES SERIES HD", ATRES SERIES HD
 http://181.78.22.70:8000/play/a05f/index.m3u8
 
-#EXTINF:-1 group-title="Entretenimiento" tvg-id="entretenimiento4" tvg-name="AXN HD", AXN HD
+#EXTINF:-1 tvg-chno="4" group-title="Entretenimiento" tvg-id="entretenimiento4" tvg-name="AXN HD", AXN HD
 http://181.78.22.70:8000/play/a025/index.m3u8
 
-#EXTINF:-1 group-title="Entretenimiento" tvg-id="entretenimiento5" tvg-name="CHV HD", CHV HD
+#EXTINF:-1 tvg-chno="5" group-title="Entretenimiento" tvg-id="entretenimiento5" tvg-name="CHV HD", CHV HD
 http://181.78.22.70:8000/play/a068/index.m3u8 
 
-#EXTINF:-1 group-title="Infantil" tvg-id="infantil1" tvg-name="Cartoon Network HD", Cartoon Network HD 
+#EXTINF:-1 tvg-chno="6" group-title="Infantil" tvg-id="infantil1" tvg-name="Cartoon Network HD", Cartoon Network HD 
 http://181.78.22.70:8000/play/a02r/index.m3u8 
 
-#EXTINF:-1 group-title="Cine" tvg-id="cine1" tvg-name="Cinecanal HD", Cinecanal HD 
+#EXTINF:-1 tvg-chno="7" group-title="Cine" tvg-id="cine1" tvg-name="Cinecanal HD", Cinecanal HD 
 http://181.78.22.70:8000/play/a02o/index.m3u8 
 
-#EXTINF:-1 group-title="Cine" tvg-id="cine2" tvg-name="Cinemax HD", Cinemax HD 
+#EXTINF:-1 tvg-chno="8" group-title="Cine" tvg-id="cine2" tvg-name="Cinemax HD", Cinemax HD 
 http://181.78.22.70:8000/play/a05g/index.m3u8 
 
-#EXTINF:-1 group-title="Entretenimiento" tvg-id="entretenimiento6" tvg-name="Clover HD", Clover HD
+#EXTINF:-1 tvg-chno="9" group-title="Entretenimiento" tvg-id="entretenimiento6" tvg-name="Clover HD", Clover HD
 http://181.78.22.70:8000/play/a06f/index.m3u8
 
-#EXTINF:-1 group-title="Entretenimiento" tvg-id="entretenimiento7" tvg-name="Comedy Central HD", Comedy Central HD 
+#EXTINF:-1 tvg-chno="10" group-title="Entretenimiento" tvg-id="entretenimiento7" tvg-name="Comedy Central HD", Comedy Central HD 
 http://181.78.22.70:8000/play/a05h/index.m3u8
 
-#EXTINF:-1 group-title="Infantil" tvg-id="infantil3" tvg-name="Discovery Kids HD", Discovery Kids HD 
+#EXTINF:-1 tvg-chno="11" group-title="Infantil" tvg-id="infantil3" tvg-name="Discovery Kids HD", Discovery Kids HD 
 http://181.78.22.70:8000/play/a02d/index.m3u8 
 
-#EXTINF:-1 group-title="Documentales" tvg-id="documentales1" tvg-name="Discovery Theater HD", Discovery Theater HD 
+#EXTINF:-1 tvg-chno="12" group-title="Documentales" tvg-id="documentales1" tvg-name="Discovery Theater HD", Discovery Theater HD 
 http://181.78.22.70:8000/play/a04o/index.m3u8 
 
-#EXTINF:-1 group-title="Culturales" tvg-id="culturales1" tvg-name="Discovery World HD", Discovery World HD 
+#EXTINF:-1 tvg-chno="13" group-title="Culturales" tvg-id="culturales1" tvg-name="Discovery World HD", Discovery World HD 
 http://181.78.22.70:8000/play/a04p/index.m3u8 
 
-#EXTINF:-1 group-title="Infantil" tvg-id="infantil4" tvg-name="Disney HD", Disney HD 
+#EXTINF:-1 tvg-chno="14" group-title="Infantil" tvg-id="infantil4" tvg-name="Disney HD", Disney HD 
 http://181.78.22.70:8000/play/a058/index.m3u8 
 
-#EXTINF:-1 group-title="Deportes" tvg-id="deportes1" tvg-name="ESPN 2 HD", ESPN 2 HD 
+#EXTINF:-1 tvg-chno="15" group-title="Deportes" tvg-id="deportes1" tvg-name="ESPN 2 HD", ESPN 2 HD 
 http://181.78.22.70:8000/play/a029/index.m3u8 
 
-#EXTINF:-1 group-title="Deportes" tvg-id="deportes2" tvg-name="ESPN 3 HD", ESPN 3 HD 
+#EXTINF:-1 tvg-chno="16" group-title="Deportes" tvg-id="deportes2" tvg-name="ESPN 3 HD", ESPN 3 HD 
 http://181.78.22.70:8000/play/a05b/index.m3u8 
 
-#EXTINF:-1 group-title="Deportes" tvg-id="deportes3" tvg-name="ESPN 4 HD", ESPN 4 HD 
+#EXTINF:-1 tvg-chno="17" group-title="Deportes" tvg-id="deportes3" tvg-name="ESPN 4 HD", ESPN 4 HD 
 http://181.78.22.70:8000/play/a02h/index.m3u8 
 
-#EXTINF:-1 group-title="Deportes" tvg-id="deportes4" tvg-name="ESPN EXTRA HD", ESPN EXTRA HD 
+#EXTINF:-1 tvg-chno="18" group-title="Deportes" tvg-id="deportes4" tvg-name="ESPN EXTRA HD", ESPN EXTRA HD 
 http://181.78.22.70:8000/play/a04q/index.m3u8 
 
-#EXTINF:-1 group-title="Deportes" tvg-id="deportes5" tvg-name="ESPN HD", ESPN HD 
+#EXTINF:-1 tvg-chno="19" group-title="Deportes" tvg-id="deportes5" tvg-name="ESPN HD", ESPN HD 
 http://181.78.22.70:8000/play/a02b/index.m3u8 
 
-#EXTINF:-1 group-title="Entretenimiento" tvg-id="entretenimiento8" tvg-name="El Gourmet HD", El Gourmet HD 
+#EXTINF:-1 tvg-chno="20" group-title="Entretenimiento" tvg-id="entretenimiento8" tvg-name="El Gourmet HD", El Gourmet HD 
 http://181.78.22.70:8000/play/a05k/index.m3u8 
 
-#EXTINF:-1 group-title="Deportes" tvg-id="deportes6" tvg-name="FOX Sports 2 HD", FOX Sports 2 HD 
+#EXTINF:-1 tvg-chno="21" group-title="Deportes" tvg-id="deportes6" tvg-name="FOX Sports 2 HD", FOX Sports 2 HD 
 http://181.78.22.70:8000/play/a02i/index.m3u8
 
-#EXTINF:-1 group-title="Entretenimiento" tvg-id="entretenimiento9" tvg-name="FX HD", FX HD 
+#EXTINF:-1 tvg-chno="22" group-title="Entretenimiento" tvg-id="entretenimiento9" tvg-name="FX HD", FX HD 
 http://181.78.22.70:8000/play/a02k/index.m3u8 
 
-#EXTINF:-1 group-title="Deportes" tvg-id="deportes7" tvg-name="Fox Sports 3 HD", Fox Sports 3 HD 
+#EXTINF:-1 tvg-chno="23" group-title="Deportes" tvg-id="deportes7" tvg-name="Fox Sports 3 HD", Fox Sports 3 HD 
 http://181.78.22.70:8000/play/a05c/index.m3u8 
 
-#EXTINF:-1 group-title="Cine" tvg-id="cine3" tvg-name="HBO 2 HD", HBO 2 HD 
+#EXTINF:-1 tvg-chno="24" group-title="Cine" tvg-id="cine3" tvg-name="HBO 2 HD", HBO 2 HD 
 http://181.78.22.70:8000/play/a02t/index.m3u8 
 
-#EXTINF:-1 group-title="Cine" tvg-id="cine4" tvg-name="HBO HD", HBO HD 
+#EXTINF:-1 tvg-chno="25" group-title="Cine" tvg-id="cine4" tvg-name="HBO HD", HBO HD 
 http://181.78.22.70:8000/play/a02q/index.m3u8 
 
-#EXTINF:-1 group-title="Cine" tvg-id="cine5" tvg-name="HBO POP HD", HBO POP HD 
+#EXTINF:-1 tvg-chno="26" group-title="Cine" tvg-id="cine5" tvg-name="HBO POP HD", HBO POP HD 
 http://181.78.22.70:8000/play/a06e/index.m3u8 
 
-#EXTINF:-1 group-title="Entretenimiento" tvg-id="entretenimiento10" tvg-name="HOLA TV HD", HOLA TV HD 
+#EXTINF:-1 tvg-chno="27" group-title="Entretenimiento" tvg-id="entretenimiento10" tvg-name="HOLA TV HD", HOLA TV HD 
 http://181.78.22.70:8000/play/a059/index.m3u8 
 
-#EXTINF:-1 group-title="Documentales" tvg-id="documentales2" tvg-name="History Channel HD", History Channel HD 
+#EXTINF:-1 tvg-chno="28" group-title="Documentales" tvg-id="documentales2" tvg-name="History Channel HD", History Channel HD 
 http://181.78.22.70:8000/play/a021/index.m3u8 
 
-#EXTINF:-1 group-title="Entretenimiento" tvg-id="entretenimiento11" tvg-name="ID HD", ID HD 
+#EXTINF:-1 tvg-chno="29" group-title="Entretenimiento" tvg-id="entretenimiento11" tvg-name="ID HD", ID HD 
 http://181.78.22.70:8000/play/a05i/index.m3u8 
 
-#EXTINF:-1 group-title="Cine" tvg-id="cine6" tvg-name="Kanal D Drama HD", Kanal D Drama HD 
+#EXTINF:-1 tvg-chno="30" group-title="Cine" tvg-id="cine6" tvg-name="Kanal D Drama HD", Kanal D Drama HD 
 http://181.78.22.70:8000/play/a060/index.m3u8 
 
-#EXTINF:-1 group-title="Entretenimiento" tvg-id="entretenimiento12" tvg-name="La Red HD", La Red HD 
+#EXTINF:-1 tvg-chno="31" group-title="Entretenimiento" tvg-id="entretenimiento12" tvg-name="La Red HD", La Red HD 
 http://181.78.22.70:8000/play/a06h/index.m3u8 
 
-#EXTINF:-1 group-title="Entretenimiento" tvg-id="entretenimiento13" tvg-name="MEGA HD", MEGA HD 
+#EXTINF:-1 tvg-chno="32" group-title="Entretenimiento" tvg-id="entretenimiento13" tvg-name="MEGA HD", MEGA HD 
 http://181.78.22.70:8000/play/a05z/index.m3u8 
 
-#EXTINF:-1 group-title="Música" tvg-id="musica1" tvg-name="MTV LIVE HD", MTV LIVE HD 
+#EXTINF:-1 tvg-chno="33" group-title="Música" tvg-id="musica1" tvg-name="MTV LIVE HD", MTV LIVE HD 
 http://181.78.22.70:8000/play/a065/index.m3u8 
 
-#EXTINF:-1 group-title="Documentales" tvg-id="documentales3" tvg-name="Nat Geo HD", Nat Geo HD 
+#EXTINF:-1 tvg-chno="34" group-title="Documentales" tvg-id="documentales3" tvg-name="Nat Geo HD", Nat Geo HD 
 http://181.78.22.70:8000/play/a02n/index.m3u8 
 
-#EXTINF:-1 group-title="Infantil" tvg-id="infantil5" tvg-name="Nick HD", Nick HD 
+#EXTINF:-1 tvg-chno="35" group-title="Infantil" tvg-id="infantil5" tvg-name="Nick HD", Nick HD 
 http://181.78.22.70:8000/play/a06g/index.m3u8 
 
-#EXTINF:-1 group-title="Cine" tvg-id="cine7" tvg-name="Paramount HD", Paramount HD 
+#EXTINF:-1 tvg-chno="36" group-title="Cine" tvg-id="cine7" tvg-name="Paramount HD", Paramount HD 
 http://181.78.22.70:8000/play/a04j/index.m3u8 
 
-#EXTINF:-1 group-title="Novelas" tvg-id="novelas1" tvg-name="Pasiones HD", Pasiones HD 
+#EXTINF:-1 tvg-chno="37" group-title="Novelas" tvg-id="novelas1" tvg-name="Pasiones HD", Pasiones HD 
 http://181.78.22.70:8000/play/a057/index.m3u8 
 
-#EXTINF:-1 group-title="Entretenimiento Adulto" tvg-id="entretenimiento_adulto1" tvg-name="Playboy HD", Playboy HD 
+#EXTINF:-1 tvg-chno="38" group-title="Entretenimiento Adulto" tvg-id="entretenimiento_adulto1" tvg-name="Playboy HD", Playboy HD 
 http://181.78.22.70:8000/play/a04k/index.m3u8 
 
-#EXTINF:-1 group-title="Entretenimiento" tvg-id="entretenimiento14" tvg-name="RCN HD", RCN HD 
+#EXTINF:-1 tvg-chno="39" group-title="Nacionales" tvg-id="Nacionales1" tvg-name="RCN HD", RCN HD 
 http://181.78.22.70:8000/play/a02m/index.m3u8 
 
-#EXTINF:-1 group-title="Entretenimiento" tvg-id="entretenimiento15" tvg-name="STAR CHANNEL HD", STAR CHANNEL HD 
+#EXTINF:-1 tvg-chno="40" group-title="Entretenimiento" tvg-id="entretenimiento14" tvg-name="STAR CHANNEL HD", STAR CHANNEL HD 
 http://181.78.22.70:8000/play/a02a/index.m3u8 
 
-#EXTINF:-1 group-title="Entretenimiento" tvg-id="entretenimiento16" tvg-name="STAR TVE HD", STAR TVE HD 
+#EXTINF:-1 tvg-chno="41" group-title="Entretenimiento" tvg-id="entretenimiento15" tvg-name="STAR TVE HD", STAR TVE HD 
 http://181.78.22.70:8000/play/a061/index.m3u8 
 
-#EXTINF:-1 group-title="Entretenimiento" tvg-id="entretenimiento17" tvg-name="Sony HD", Sony HD 
+#EXTINF:-1 tvg-chno="42" group-title="Entretenimiento" tvg-id="entretenimiento16" tvg-name="Sony HD", Sony HD 
 http://181.78.22.70:8000/play/a023/index.m3u8 
 
-#EXTINF:-1 group-title="Cine" tvg-id="cine8" tvg-name="Space HD", Space HD 
+#EXTINF:-1 tvg-chno="43" group-title="Cine" tvg-id="cine8" tvg-name="Space HD", Space HD 
 http://181.78.22.70:8000/play/a026/index.m3u8 
 
-#EXTINF:-1 group-title="Cine" tvg-id="cine9" tvg-name="Studio Universal HD", Studio Universal HD 
+#EXTINF:-1 tvg-chno="44" group-title="Cine" tvg-id="cine9" tvg-name="Studio Universal HD", Studio Universal HD 
 http://181.78.22.70:8000/play/a02s/index.m3u8 
 
-#EXTINF:-1 group-title="Entretenimiento" tvg-id="entretenimiento18" tvg-name="Sun Channel HD", Sun Channel HD 
+#EXTINF:-1 tvg-chno="45" group-title="Entretenimiento" tvg-id="entretenimiento17" tvg-name="Sun Channel HD", Sun Channel HD 
 http://181.78.22.70:8000/play/a02c/index.m3u8 
 
-#EXTINF:-1 group-title="Cine" tvg-id="cine10" tvg-name="TNT HD", TNT HD 
+#EXTINF:-1 tvg-chno="46" group-title="Cine" tvg-id="cine10" tvg-name="TNT HD", TNT HD 
 http://181.78.22.70:8000/play/a05a/index.m3u8 
 
-#EXTINF:-1 group-title="Deportes" tvg-id="deportes8" tvg-name="TNT SPORTS HD", TNT SPORTS HD 
+#EXTINF:-1 tvg-chno="47" group-title="Deportes" tvg-id="deportes8" tvg-name="TNT SPORTS HD", TNT SPORTS HD 
 http://181.78.22.70:8000/play/a06d/index.m3u8 
 
-#EXTINF:-1 group-title="Cine" tvg-id="cine11" tvg-name="TNT Series HD", TNT Series HD 
+#EXTINF:-1 tvg-chno="48" group-title="Cine" tvg-id="cine11" tvg-name="TNT Series HD", TNT Series HD 
 http://181.78.22.70:8000/play/a02j/index.m3u8 
 
-#EXTINF:-1 group-title="Entretenimiento" tvg-id="entretenimiento19" tvg-name="TRUTV HD", TRUTV HD 
+#EXTINF:-1 tvg-chno="49" group-title="Entretenimiento" tvg-id="entretenimiento18" tvg-name="TRUTV HD", TRUTV HD 
 http://181.78.22.70:8000/play/a05j/index.m3u8 
 
-#EXTINF:-1 group-title="Entretenimiento" tvg-id="entretenimiento20" tvg-name="TV+ HD", TV+ HD 
+#EXTINF:-1 tvg-chno="50" group-title="Entretenimiento" tvg-id="entretenimiento19" tvg-name="TV+ HD", TV+ HD 
 http://181.78.22.70:8000/play/a05y/index.m3u8 
 
-#EXTINF:-1 group-title="Entretenimiento" tvg-id="entretenimiento21" tvg-name="TVN HD", TVN HD 
+#EXTINF:-1 tvg-chno="51" group-title="Entretenimiento" tvg-id="entretenimiento20" tvg-name="TVN HD", TVN HD 
 http://181.78.22.70:8000/play/a067/index.m3u8 
 
-#EXTINF:-1 group-title="Entretenimiento" tvg-id="entretenimiento22" tvg-name="UNIVERSAL CHANNEL HD", UNIVERSAL CHANNEL HD 
+#EXTINF:-1 tvg-chno="52" group-title="Entretenimiento" tvg-id="entretenimiento21" tvg-name="UNIVERSAL CHANNEL HD", UNIVERSAL CHANNEL HD 
 http://181.78.22.70:8000/play/a02g/index.m3u8 
 
-#EXTINF:-1 group-title="Cine" tvg-id="cine12" tvg-name="Warner Channel HD", Warner Channel HD 
+#EXTINF:-1 tvg-chno="53" group-title="Cine" tvg-id="cine12" tvg-name="Warner Channel HD", Warner Channel HD 
 http://181.78.22.70:8000/play/a024/index.m3u8 
 
-#EXTINF:-1 group-title="Deportes" tvg-id="deportes9" tvg-name="Win Sports HD", Win Sports HD 
+#EXTINF:-1 tvg-chno="54" group-title="Deportes" tvg-id="deportes9" tvg-name="Win Sports HD", Win Sports HD 
 http://181.78.22.70:8000/play/a028/index.m3u8 
 
-#EXTINF:-1 group-title="Deportes" tvg-id="deportes10" tvg-name="Win Sports+ HD OP1", Win Sports+ HD OP1
+#EXTINF:-1 tvg-chno="55" group-title="Deportes" tvg-id="deportes10" tvg-name="Win Sports+ HD OP1", Win Sports+ HD OP1
 http://181.78.22.70:8000/play/a02u/index.m3u8 
 
-#EXTINF:-1 group-title="Entretenimiento" tvg-id="entretenimiento23" tvg-name="TV+ HD", TV+ HD
-http://181.204.79.182:8202/play/a04l
+#EXTINF:-1 tvg-chno="56" group-title="Religioso" tvg-id="Religioso1" tvg-name="ENLACE", ENLACE
+http://181.78.22.70:8000/play/a04g/index.m3u8 
 
-#EXTINF:-1 group-title="Deportes" tvg-id="deportes11" tvg-name="Win Sports+ HD OP2", Win Sports+ HD OP2
+#EXTINF:-1 tvg-chno="57" group-title="Deportes" tvg-id="deportes11" tvg-name="Win Sports+ HD OP2", Win Sports+ HD OP2
 http://181.204.79.182:8202/play/a04m
 
-#EXTINF:-1 group-title="Entretenimiento" tvg-id="entretenimiento24" tvg-name="AMC HD", AMC HD
-http://190.61.57.2:1010/play/a023/index.m3u8
+#EXTINF:-1 tvg-chno="58" group-title="Religioso" tvg-id="Religioso2" tvg-name="EWTN", EWTN
+http://190.61.57.2:1010/play/a04m/index.m3u8
 
-#EXTINF:-1 group-title="Entretenimiento" tvg-id="entretenimiento25" tvg-name="Animal Planet HD", Animal Planet HD
+#EXTINF:-1 tvg-chno="59" group-title="Entretenimiento" tvg-id="entretenimiento22" tvg-name="Animal Planet HD", Animal Planet HD
 http://190.61.57.2:1010/play/a029/index.m3u8
 
-#EXTINF:-1 group-title="Entretenimiento" tvg-id="entretenimiento26" tvg-name="Canal 13 HD", Canal 13 HD
+#EXTINF:-1 tvg-chno="60" group-title="Entretenimiento" tvg-id="entretenimiento23" tvg-name="Canal 13 HD", Canal 13 HD
 http://190.61.57.2:1010/play/a02g/index.m3u8
 
-#EXTINF:-1 group-title="Infantil" tvg-id="infantil6" tvg-name="Cartoon Network HD", Cartoon Network HD
-http://190.61.57.2:1010/play/a025/index.m3u8
+#EXTINF:-1 tvg-chno="61" group-title="Regionales" tvg-id="Regionales1" tvg-name="TELEISLAS", TELEISLAS
+http://190.61.57.2:1010/play/a04y/index.m3u8
 
-#EXTINF:-1 group-title="Entretenimiento" tvg-id="entretenimiento27" tvg-name="Comedy Central HD", Comedy Central HD
+#EXTINF:-1 tvg-chno="62" group-title="Entretenimiento" tvg-id="entretenimiento24" tvg-name="Comedy Central HD", Comedy Central HD
 http://190.61.57.2:1010/play/a01s/index.m3u8
 
-#EXTINF:-1 group-title="Entretenimiento" tvg-id="entretenimiento28" tvg-name="DHE HD", DHE HD
+#EXTINF:-1 tvg-chno="63" group-title="Entretenimiento" tvg-id="entretenimiento25" tvg-name="DHE HD", DHE HD
 http://190.61.57.2:1010/play/a02l/index.m3u8
 
-#EXTINF:-1 group-title="Entretenimiento" tvg-id="entretenimiento29" tvg-name="Discovery H&H HD", Discovery H&H HD
+#EXTINF:-1 tvg-chno="64" group-title="Entretenimiento" tvg-id="entretenimiento26" tvg-name="Discovery H&H HD", Discovery H&H HD
 http://190.61.57.2:1010/play/a01x/index.m3u8
 
-#EXTINF:-1 group-title="Documentales" tvg-id="documentales4" tvg-name="Discovery HD", Discovery HD
+#EXTINF:-1 tvg-chno="65" group-title="Documentales" tvg-id="documentales4" tvg-name="Discovery HD", Discovery HD
 http://190.61.57.2:1010/play/a02T/index.m3u8
 
-#EXTINF:-1 group-title="Entretenimiento" tvg-id="entretenimiento30" tvg-name="E! HD", E! HD
+#EXTINF:-1 tvg-chno="66" group-title="Entretenimiento" tvg-id="entretenimiento27" tvg-name="E! HD", E! HD
 http://190.61.57.2:1010/play/a02d/index.m3u8
 
-#EXTINF:-1 group-title="Deportes" tvg-id="deportes12" tvg-name="ESPN 4 HD", ESPN 4 HD
+#EXTINF:-1 tvg-chno="67" group-title="Deportes" tvg-id="deportes12" tvg-name="ESPN 4 HD", ESPN 4 HD
 http://190.61.57.2:1010/play/a020/index.m3u8
 
-#EXTINF:-1 group-title="Entretenimiento" tvg-id="entretenimiento31" tvg-name="El Gourmet HD", El Gourmet HD
-http://190.61.57.2:1010/play/a01v/index.m3u8
+#EXTINF:-1 tvg-chno="68" group-title="Regionales" tvg-id="Regionales2" tvg-name="Canal Institucional", Canal Institucional
+http://190.61.57.2:1010/play/a033/index.m3u8
 
-#EXTINF:-1 group-title="Cocina" tvg-id="cocina1" tvg-name="Food Network HD", Food Network HD
+#EXTINF:-1 tvg-chno="69" group-title="Cocina" tvg-id="cocina1" tvg-name="Food Network HD", Food Network HD
 http://190.61.57.2:1010/play/a03t/index.m3u8
 
-#EXTINF:-1 group-title="Deportes" tvg-id="deportes13" tvg-name="Fox Sports 1 HD", Fox Sports 1 HD
+#EXTINF:-1 tvg-chno="70" group-title="Deportes" tvg-id="deportes13" tvg-name="Fox Sports 1 HD", Fox Sports 1 HD
 http://190.61.57.2:1010/play/a04i/index.m3u8
 
-#EXTINF:-1 group-title="Noticias" tvg-id="noticias1" tvg-name="France 24 HD", France 24 HD
+#EXTINF:-1 tvg-chno="71" group-title="Noticias" tvg-id="noticias1" tvg-name="France 24 HD", France 24 HD
 http://190.61.57.2:1010/play/a040/index.m3u8
 
-#EXTINF:-1 group-title="Deportes" tvg-id="deportes14" tvg-name="GolTv HD", GolTv HD
+#EXTINF:-1 tvg-chno="72" group-title="Deportes" tvg-id="deportes14" tvg-name="GolTv HD", GolTv HD
 http://190.61.57.2:1010/play/a02e/index.m3u8
 
-#EXTINF:-1 group-title="Cine" tvg-id="cine13" tvg-name="Golden HD", Golden HD
+#EXTINF:-1 tvg-chno="73" group-title="Cine" tvg-id="cine13" tvg-name="Golden HD", Golden HD
 http://190.61.57.2:1010/play/a02b/index.m3u8
 
-#EXTINF:-1 group-title="Documentales" tvg-id="documentales5" tvg-name="History 2 HD", History 2 HD
+#EXTINF:-1 tvg-chno="74" group-title="Documentales" tvg-id="documentales5" tvg-name="History 2 HD", History 2 HD
 http://190.61.57.2:1010/play/a02o/index.m3u8
 
-#EXTINF:-1 group-title="Entretenimiento" tvg-id="entretenimiento32" tvg-name="Las Estrellas HD", Las Estrellas HD
+#EXTINF:-1 tvg-chno="75" group-title="Entretenimiento" tvg-id="entretenimiento28" tvg-name="Las Estrellas HD", Las Estrellas HD
 http://190.61.57.2:1010/play/a03a/index.m3u8
 
-#EXTINF:-1 group-title="Entretenimiento" tvg-id="entretenimiento33" tvg-name="Latina HD", Latina HD
+#EXTINF:-1 tvg-chno="76" group-title="Entretenimiento" tvg-id="entretenimiento29" tvg-name="Latina HD", Latina HD
 http://190.61.57.2:1010/play/a042/index.m3u8
 
-#EXTINF:-1 group-title="Música" tvg-id="musica2" tvg-name="MTV HD", MTV HD
+#EXTINF:-1 tvg-chno="77" group-title="Música" tvg-id="musica2" tvg-name="MTV HD", MTV HD
 http://190.61.57.2:1010/play/a02i/index.m3u8
 
-#EXTINF:-1 group-title="Infantil" tvg-id="infantil7" tvg-name="Nick HD", Nick HD
+#EXTINF:-1 tvg-chno="78" group-title="Infantil" tvg-id="infantil7" tvg-name="Nick HD", Nick HD
 http://190.61.57.2:1010/play/a01h/index.m3u8
 
-#EXTINF:-1 group-title="Entretenimiento" tvg-id="entretenimiento34" tvg-name="TRUTV HD", TRUTV HD
+#EXTINF:-1 tvg-chno="79" group-title="Entretenimiento" tvg-id="entretenimiento30" tvg-name="TRUTV HD", TRUTV HD
 http://190.61.57.2:1010/play/a01u/index.m3u8
 
-#EXTINF:-1 group-title="Entretenimiento" tvg-id="entretenimiento35" tvg-name="TV+ HD", TV+ HD
+#EXTINF:-1 tvg-chno="80" group-title="Entretenimiento" tvg-id="entretenimiento31" tvg-name="TV+ HD", TV+ HD
 http://190.61.57.2:1010/play/a04a/index.m3u8
 
-#EXTINF:-1 group-title="Cine" tvg-id="cine14" tvg-name="Warner Channel HD", Warner Channel HD
+#EXTINF:-1 tvg-chno="81" group-title="Cine" tvg-id="cine14" tvg-name="Warner Channel HD", Warner Channel HD
 http://190.61.57.2:1010/play/a019/index.m3u8
 
-#EXTINF:-1 group-title="Novelas" tvg-id="novelas2" tvg-name="TNT Novelas HD", TNT Novelas HD
+#EXTINF:-1 tvg-chno="82" group-title="Novelas" tvg-id="novelas2" tvg-name="TNT Novelas HD", TNT Novelas HD
 http://190.61.43.118:45000/play/a06u
 
-#EXTINF:-1 group-title="Deportes" tvg-id="deportes15" tvg-name="Win Sports+ HD OP3", Win Sports+ HD OP3
+#EXTINF:-1 tvg-chno="83" group-title="Deportes" tvg-id="deportes15" tvg-name="Win Sports+ HD OP3", Win Sports+ HD OP3
 http://190.61.43.118:45000/play/a024
 
-#EXTINF:-1 group-title="Regionales" tvg-id="Regionales1" tvg-name="Canal 1 HD", Canal 1 HD
+#EXTINF:-1 tvg-chno="84" group-title="Nacionales" tvg-id="Nacionales2" tvg-name="Canal 1 HD", Canal 1 HD
 http://190.61.57.2:1010/play/a03i/index.m3u8
 
-#EXTINF:-1 group-title="Regionales" tvg-id="Regionales2" tvg-name="Caracol HD", Caracol HD
+#EXTINF:-1 tvg-chno="85" group-title="Nacionales" tvg-id="Nacionales3" tvg-name="Caracol HD", Caracol HD
 http://190.61.57.2:1010/play/a02j/index.m3u8
 
-#EXTINF:-1 group-title="Regionales" tvg-id="Regionales3" tvg-name="CARACOL HD 2", CARACOL HD 2
+#EXTINF:-1 tvg-chno="86" group-title="Nacionales" tvg-id="Nacionales4" tvg-name="CARACOL HD 2", CARACOL HD 2
 http://181.143.54.117:8000/play/a01u/index.m3u8
 
-#EXTINF:-1 group-title="Regionales" tvg-id="Regionales4" tvg-name="RCN HD", RCN HD
-http://190.61.57.2:1010/play/a022/index.m3u8
+#EXTINF:-1 tvg-chno="87" group-title="Regionales" tvg-id="Regionales6" tvg-name="TELEMEDELLIN", TELEMEDELLIN
+https://d3cglye48cl6m2.cloudfront.net/out/v1/37d85e2ab37c4873aed6849fe74e78b8/index.m3u8
 
-#EXTINF:-1 group-title="Regionales" tvg-id="Regionales5" tvg-name="Senal Colombia HD", Senal Colombia HD
+#EXTINF:-1 tvg-chno="88" group-title="Nacionales" tvg-id="Nacionales5" tvg-name="Senal Colombia HD", Senal Colombia HD
 http://190.61.57.2:1010/play/a02a/index.m3u8
 
-#EXTINF:-1 group-title="Regionales" tvg-id="Regionales6" tvg-name="TELEANTIOQUIA", TELEANTIOQUIA
+#EXTINF:-1 tvg-chno="89" group-title="Regionales" tvg-id="Regionales8" tvg-name="TELEANTIOQUIA", TELEANTIOQUIA
 http://181.78.22.70:8000/play/a03g/index.m3u8
 
-#EXTINF:-1 group-title="Regionales" tvg-id="Regionales7" tvg-name="TELECAFE", TELECAFE
+#EXTINF:-1 tvg-chno="90" group-title="Regionales" tvg-id="Regionales9" tvg-name="TELECAFE", TELECAFE
 http://181.78.22.70:8000/play/a00j/index.m3u8 
 
-#EXTINF:-1 group-title="Regionales" tvg-id="Regionales8" tvg-name="TELECARIBE", TELECARIBE
+#EXTINF:-1 tvg-chno="91" group-title="Regionales" tvg-id="Regionales10" tvg-name="TELECARIBE", TELECARIBE
 http://181.78.22.70:8000/play/a00h/index.m3u8 
 
-#EXTINF:-1 group-title="Regionales" tvg-id="Regionales9" tvg-name="TELEPACIFICO", TELEPACIFICO
+#EXTINF:-1 tvg-chno="92" group-title="Regionales" tvg-id="Regionales11" tvg-name="TELEPACIFICO", TELEPACIFICO
 http://181.78.22.70:8000/play/a03f/index.m3u8 
 
-#EXTINF:-1 group-title="Regionales" tvg-id="Regionales10" tvg-name="CABLE NOTICIAS", CABLE NOTICIAS
+#EXTINF:-1 tvg-chno="93" group-title="Regionales" tvg-id="Regionales12" tvg-name="CABLE NOTICIAS", CABLE NOTICIAS
 http://190.61.57.2:1010/play/a04e/index.m3u8
 
-#EXTINF:-1 group-title="Regionales" tvg-id="Regionales11" tvg-name="Canal Capital", Canal Capital
+#EXTINF:-1 tvg-chno="94" group-title="Regionales" tvg-id="Regionales13" tvg-name="Canal Capital", Canal Capital
 http://190.61.57.2:1010/play/a037/index.m3u8
 
-#EXTINF:-1 group-title="Regionales" tvg-id="Regionales12" tvg-name="Canal TRO", Canal TRO
+#EXTINF:-1 tvg-chno="95" group-title="Regionales" tvg-id="Regionales14" tvg-name="Canal TRO", Canal TRO
 http://190.61.57.2:1010/play/a035/index.m3u8
 
-#EXTINF:-1 group-title="Regionales" tvg-id="Regionales13" tvg-name="CityTv", CityTv
+#EXTINF:-1 tvg-chno="96" group-title="Regionales" tvg-id="Regionales15" tvg-name="CityTv", CityTv
 http://190.61.57.2:1010/play/a04l/index.m3u8
 
-#EXTINF:-1 group-title="Infantil" tvg-id="infantil8" tvg-name="Disney Junior", Disney Junior
+#EXTINF:-1 tvg-chno="97" group-title="Infantil" tvg-id="infantil8" tvg-name="Disney Junior", Disney Junior
 http://190.61.57.2:1010/play/a04r/index.m3u8
 
-#EXTINF:-1 group-title="Cine" tvg-id="cine15" tvg-name="HBO Family", HBO Family
+#EXTINF:-1 tvg-chno="98" group-title="Cine" tvg-id="cine15" tvg-name="HBO Family", HBO Family
 http://190.61.43.118:45000/play/a05y
