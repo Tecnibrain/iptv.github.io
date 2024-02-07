@@ -260,7 +260,7 @@ http://190.61.43.118:45000/play/a024
 #EXTINF:-1 tvg-chno="84" group-title="Nacionales" tvg-id="Nacionales2" tvg-name="Canal 1 HD" tvg-logo="https://images.canal1.com.co/site/images/logo_1_como_tu_color.png", Canal 1 HD
 http://190.61.57.2:1010/play/a03i/index.m3u8
 
-#EXTINF:-1 tvg-chno="85" group-title="Nacionales" tvg-id="Nacionales3" tvg-name="Caracol HD" tvg-logo="https://caracoltv.brightspotcdn.com/dims4/default/0045201/2147483647/strip/true/crop/2048x2048+0+0/resize/120x120!/quality/90/?url=http%3A%2F%2Fcaracol-brightspot.s3.amazonaws.com%2Fe0%2F4f%2Fd0ec59d74f2ba896bc9638e43b9c%2Flogo-ctv.png", Caracol HD
+#EXTINF:-1 tvg-chno="85" group-title="Nacionales" tvg-id="Nacionales3" tvg-name="Caracol HD" tvg-logo="https://caracoltv.brightspotcdn.com/dims4/default/0045201/2147483647/strip/true/crop/2048x2048+0+0/resize/120x120!/quality/90/?url=http%3A%2F%2Fcaracol-brightspot.s3.amazonaws.com%2Fe0%2F4f%2Fd0ec59d74f2ba896bc9638e43b9c%2Flogo-ctv.png" tvg-guide="https://mi.tv/co/canales/caracol", Caracol HD
 http://190.61.57.2:1010/play/a02j/index.m3u8
 http://190.61.43.118:45000/play/a02v
 
