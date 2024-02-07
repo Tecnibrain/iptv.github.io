@@ -1,21 +1,26 @@
 #EXTM3U
 #EXTINF:-1 tvg-chno="1" group-title="Entretenimiento" tvg-id="entretenimiento1" tvg-name="A&E HD", A&E HD
 http://181.78.22.70:8000/play/a022/index.m3u8 
+http://190.61.57.2:1010/play/a017/index.m3u8
 
 #EXTINF:-1 tvg-chno="2" group-title="Entretenimiento" tvg-id="entretenimiento2" tvg-name="AMC HD", AMC HD
 http://181.78.22.70:8000/play/a02p/index.m3u8 
+http://190.61.57.2:1010/play/a023/index.m3u8 
 
 #EXTINF:-1 tvg-chno="3" group-title="Entretenimiento" tvg-id="entretenimiento3" tvg-name="ATRES SERIES HD", ATRES SERIES HD
 http://181.78.22.70:8000/play/a05f/index.m3u8
 
 #EXTINF:-1 tvg-chno="4" group-title="Entretenimiento" tvg-id="entretenimiento4" tvg-name="AXN HD", AXN HD
-http://181.78.22.70:8000/play/a025/index.m3u8
+http://181.78.22.70:8000/play/a025/index.m3u8 
+http://190.61.57.2:1010/play/a01a/index.m3u8
 
 #EXTINF:-1 tvg-chno="5" group-title="Entretenimiento" tvg-id="entretenimiento5" tvg-name="CHV HD", CHV HD
 http://181.78.22.70:8000/play/a068/index.m3u8 
 
 #EXTINF:-1 tvg-chno="6" group-title="Infantil" tvg-id="infantil1" tvg-name="Cartoon Network HD", Cartoon Network HD 
 http://181.78.22.70:8000/play/a02r/index.m3u8 
+http://190.61.57.2:1010/play/a025/index.m3u8
+http://190.61.43.118:45000/play/a01y 
 
 #EXTINF:-1 tvg-chno="7" group-title="Cine" tvg-id="cine1" tvg-name="Cinecanal HD", Cinecanal HD 
 http://181.78.22.70:8000/play/a02o/index.m3u8 
@@ -70,9 +75,11 @@ http://181.78.22.70:8000/play/a05c/index.m3u8
 
 #EXTINF:-1 tvg-chno="24" group-title="Cine" tvg-id="cine3" tvg-name="HBO 2 HD", HBO 2 HD 
 http://181.78.22.70:8000/play/a02t/index.m3u8 
+http://190.61.43.118:45000/play/a023 
 
 #EXTINF:-1 tvg-chno="25" group-title="Cine" tvg-id="cine4" tvg-name="HBO HD", HBO HD 
 http://181.78.22.70:8000/play/a02q/index.m3u8 
+http://190.61.43.118:45000/play/a01w
 
 #EXTINF:-1 tvg-chno="26" group-title="Cine" tvg-id="cine5" tvg-name="HBO POP HD", HBO POP HD 
 http://181.78.22.70:8000/play/a06e/index.m3u8 
@@ -113,8 +120,10 @@ http://181.78.22.70:8000/play/a057/index.m3u8
 #EXTINF:-1 tvg-chno="38" group-title="Entretenimiento Adulto" tvg-id="entretenimiento_adulto1" tvg-name="Playboy HD", Playboy HD 
 http://181.78.22.70:8000/play/a04k/index.m3u8 
 
-#EXTINF:-1 tvg-chno="39" group-title="Nacionales" tvg-id="Nacionales1" tvg-name="RCN HD", RCN HD 
+#EXTINF:-1 tvg-chno="39" group-title="Nacionales" tvg-id="Nacionales1" tvg-name="RCN HD" tvg-logo="https://imagenes.canalrcn.com/CanalRCN/imagen-compartir-canal.jpg", RCN HD 
 http://181.78.22.70:8000/play/a02m/index.m3u8 
+http://190.61.57.2:1010/play/a022/index.m3u8
+http://190.61.43.118:45000/play/a01m
 
 #EXTINF:-1 tvg-chno="40" group-title="Entretenimiento" tvg-id="entretenimiento14" tvg-name="STAR CHANNEL HD", STAR CHANNEL HD 
 http://181.78.22.70:8000/play/a02a/index.m3u8 
@@ -251,8 +260,9 @@ http://190.61.43.118:45000/play/a024
 #EXTINF:-1 tvg-chno="84" group-title="Nacionales" tvg-id="Nacionales2" tvg-name="Canal 1 HD", Canal 1 HD
 http://190.61.57.2:1010/play/a03i/index.m3u8
 
-#EXTINF:-1 tvg-chno="85" group-title="Nacionales" tvg-id="Nacionales3" tvg-name="Caracol HD", Caracol HD
+#EXTINF:-1 tvg-chno="85" group-title="Nacionales" tvg-id="Nacionales3" tvg-name="Caracol HD" tvg-logo="https://caracoltv.brightspotcdn.com/dims4/default/0045201/2147483647/strip/true/crop/2048x2048+0+0/resize/120x120!/quality/90/?url=http%3A%2F%2Fcaracol-brightspot.s3.amazonaws.com%2Fe0%2F4f%2Fd0ec59d74f2ba896bc9638e43b9c%2Flogo-ctv.png", Caracol HD
 http://190.61.57.2:1010/play/a02j/index.m3u8
+http://190.61.43.118:45000/play/a02v
 
 #EXTINF:-1 tvg-chno="86" group-title="Nacionales" tvg-id="Nacionales4" tvg-name="CARACOL HD 2", CARACOL HD 2
 http://181.143.54.117:8000/play/a01u/index.m3u8
