@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-chno="1" group-title="Entretenimiento" tvg-id="entretenimiento1" tvg-name="A&E HD", A&E HD
-http://181.78.22.70:8000/play/a022/index.m3u8 
+http://181.78.22.70:8000/play/a022/index.m3u8
 http://190.61.57.2:1010/play/a017/index.m3u8
 
 #EXTINF:-1 tvg-chno="2" group-title="Entretenimiento" tvg-id="entretenimiento2" tvg-name="AMC HD", AMC HD
