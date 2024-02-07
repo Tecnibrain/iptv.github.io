@@ -167,16 +167,16 @@ http://181.78.22.70:8000/play/a02g/index.m3u8
 #EXTINF:-1 tvg-chno="53" group-title="Cine" tvg-id="cine12" tvg-name="Warner Channel HD", Warner Channel HD 
 http://181.78.22.70:8000/play/a024/index.m3u8 
 
-#EXTINF:-1 tvg-chno="54" group-title="Deportes" tvg-id="deportes9" tvg-name="Win Sports HD", Win Sports HD 
+#EXTINF:-1 tvg-chno="54" group-title="Deportes" tvg-id="deportes9" tvg-name="Win Sports HD" tvg-logo="https://files.winsports.co/assets/public/logo.png", Win Sports HD 
 http://181.78.22.70:8000/play/a028/index.m3u8 
 
-#EXTINF:-1 tvg-chno="55" group-title="Deportes" tvg-id="deportes10" tvg-name="Win Sports+ HD OP1", Win Sports+ HD OP1
+#EXTINF:-1 tvg-chno="55" group-title="Deportes" tvg-id="deportes10" tvg-name="Win Sports+ HD OP1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/WinSportsM%C3%A1s2022.png", Win Sports+ HD OP1
 http://181.78.22.70:8000/play/a02u/index.m3u8 
 
 #EXTINF:-1 tvg-chno="56" group-title="Religioso" tvg-id="Religioso1" tvg-name="ENLACE", ENLACE
 http://181.78.22.70:8000/play/a04g/index.m3u8 
 
-#EXTINF:-1 tvg-chno="57" group-title="Deportes" tvg-id="deportes11" tvg-name="Win Sports+ HD OP2", Win Sports+ HD OP2
+#EXTINF:-1 tvg-chno="57" group-title="Deportes" tvg-id="deportes11" tvg-name="Win Sports+ HD OP2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/WinSportsM%C3%A1s2022.png", Win Sports+ HD OP2
 http://181.204.79.182:8202/play/a04m
 
 #EXTINF:-1 tvg-chno="58" group-title="Religioso" tvg-id="Religioso2" tvg-name="EWTN", EWTN
@@ -254,7 +254,7 @@ http://190.61.57.2:1010/play/a019/index.m3u8
 #EXTINF:-1 tvg-chno="82" group-title="Novelas" tvg-id="novelas2" tvg-name="TNT Novelas HD", TNT Novelas HD
 http://190.61.43.118:45000/play/a06u
 
-#EXTINF:-1 tvg-chno="83" group-title="Deportes" tvg-id="deportes15" tvg-name="Win Sports+ HD OP3", Win Sports+ HD OP3
+#EXTINF:-1 tvg-chno="83" group-title="Deportes" tvg-id="deportes15" tvg-name="Win Sports+ HD OP3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/WinSportsM%C3%A1s2022.png", Win Sports+ HD OP3
 http://190.61.43.118:45000/play/a024
 
 #EXTINF:-1 tvg-chno="84" group-title="Nacionales" tvg-id="Nacionales2" tvg-name="Canal 1 HD" tvg-logo="https://images.canal1.com.co/site/images/logo_1_como_tu_color.png", Canal 1 HD
