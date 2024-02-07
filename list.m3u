@@ -73,11 +73,11 @@ http://181.78.22.70:8000/play/a02k/index.m3u8
 #EXTINF:-1 tvg-chno="23" group-title="Deportes" tvg-id="deportes7" tvg-name="Fox Sports 3 HD", Fox Sports 3 HD 
 http://181.78.22.70:8000/play/a05c/index.m3u8 
 
-#EXTINF:-1 tvg-chno="24" group-title="Cine" tvg-id="cine3" tvg-name="HBO 2 HD", HBO 2 HD 
+#EXTINF:-1 tvg-chno="24" group-title="Cine" tvg-id="cine3" tvg-name="HBO 2 HD" tvg-logo="https://cdn.worldvectorlogo.com/logos/hbo-2.svg", HBO 2 HD 
 http://181.78.22.70:8000/play/a02t/index.m3u8 
 http://190.61.43.118:45000/play/a023 
 
-#EXTINF:-1 tvg-chno="25" group-title="Cine" tvg-id="cine4" tvg-name="HBO HD", HBO HD 
+#EXTINF:-1 tvg-chno="25" group-title="Cine" tvg-id="cine4" tvg-name="HBO HD" tvg-logo="https://cdn.worldvectorlogo.com/logos/hbo.svg", HBO HD 
 http://181.78.22.70:8000/play/a02q/index.m3u8 
 http://190.61.43.118:45000/play/a01w
 
@@ -257,7 +257,7 @@ http://190.61.43.118:45000/play/a06u
 #EXTINF:-1 tvg-chno="83" group-title="Deportes" tvg-id="deportes15" tvg-name="Win Sports+ HD OP3", Win Sports+ HD OP3
 http://190.61.43.118:45000/play/a024
 
-#EXTINF:-1 tvg-chno="84" group-title="Nacionales" tvg-id="Nacionales2" tvg-name="Canal 1 HD", Canal 1 HD
+#EXTINF:-1 tvg-chno="84" group-title="Nacionales" tvg-id="Nacionales2" tvg-name="Canal 1 HD" tvg-logo="https://images.canal1.com.co/site/images/logo_1_como_tu_color.png", Canal 1 HD
 http://190.61.57.2:1010/play/a03i/index.m3u8
 
 #EXTINF:-1 tvg-chno="85" group-title="Nacionales" tvg-id="Nacionales3" tvg-name="Caracol HD" tvg-logo="https://caracoltv.brightspotcdn.com/dims4/default/0045201/2147483647/strip/true/crop/2048x2048+0+0/resize/120x120!/quality/90/?url=http%3A%2F%2Fcaracol-brightspot.s3.amazonaws.com%2Fe0%2F4f%2Fd0ec59d74f2ba896bc9638e43b9c%2Flogo-ctv.png", Caracol HD
@@ -300,5 +300,5 @@ http://190.61.57.2:1010/play/a04l/index.m3u8
 #EXTINF:-1 tvg-chno="97" group-title="Infantil" tvg-id="infantil8" tvg-name="Disney Junior", Disney Junior
 http://190.61.57.2:1010/play/a04r/index.m3u8
 
-#EXTINF:-1 tvg-chno="98" group-title="Cine" tvg-id="cine15" tvg-name="HBO Family", HBO Family
+#EXTINF:-1 tvg-chno="98" group-title="Cine" tvg-id="cine15" tvg-name="HBO Family" tvg-logo="https://cdn.worldvectorlogo.com/logos/hbo-family.svg", HBO Family
 http://190.61.43.118:45000/play/a05y
