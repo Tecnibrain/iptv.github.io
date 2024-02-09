@@ -136,7 +136,6 @@ http://190.90.154.73:8080/play/a02m/index.m3u8
 
 #EXTINF:-1 tvg-chno="46" group-title="Cine" tvg-id="cine10" tvg-name="TNT HD", TNT HD 
 http://190.61.57.2:1010/play/a01m/index.m3u8
-http://181.78.22.70:8000/play/a05a/index.m3u8 
 
 #EXTINF:-1 tvg-chno="47" group-title="Deportes" tvg-id="deportes8" tvg-name="TYC SPORTS HD", TYC SPORTS HD 
 http://190.90.154.73:8080/play/a062/index.m3u8 
@@ -149,7 +148,6 @@ http://190.61.43.118:45000/play/a049
 
 #EXTINF:-1 tvg-chno="50" group-title="Entretenimiento" tvg-id="entretenimiento19" tvg-name="TV+ HD", TV+ HD 
 http://190.61.57.2:1010/play/a04a/index.m3u8
-http://181.78.22.70:8000/play/a05y/index.m3u8 
 
 #EXTINF:-1 tvg-chno="51" group-title="Entretenimiento" tvg-id="entretenimiento20" tvg-name="TVN HD", TVN HD 
 http://190.90.154.73:8080/play/a01r/index.m3u8 
