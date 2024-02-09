@@ -267,7 +267,7 @@ https://d3cglye48cl6m2.cloudfront.net/out/v1/37d85e2ab37c4873aed6849fe74e78b8/in
 http://190.61.57.2:1010/play/a02a/index.m3u8
 
 #EXTINF:-1 tvg-chno="89" group-title="Regionales" tvg-id="Regionales8" tvg-name="TELEANTIOQUIA" tvg-logo="https://teleantioquia.co/Go/wp-content/uploads/2023/04/Recurso-2Go-1024x1024.png", TELEANTIOQUIA
-https:\\d1xgz5r2yxvjwj.cloudfront.net\out\v1\49d5fdc5370d4f43aab4930ec7a9cbf8\indexs.m3u8
+https:\\d1xgz5r2yxvjwj.cloudfront.net\out\v1\49d5fdc5370d4f43aab4930ec7a9cbf8\index.m3u8
 
 #EXTINF:-1 tvg-chno="90" group-title="Regionales" tvg-id="Regionales9" tvg-name="TELECAFE", TELECAFE
 http://190.61.57.2:1010/play/a036/index.m3u8
