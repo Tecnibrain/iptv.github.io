@@ -7,15 +7,15 @@ http://190.61.57.2:1010/play/a017/index.m3u8
 http://181.78.22.70:8000/play/a02p/index.m3u8 
 http://190.61.57.2:1010/play/a023/index.m3u8 
 
-#EXTINF:-1 tvg-chno="3" group-title="Entretenimiento" tvg-id="entretenimiento3" tvg-name="ATRES SERIES HD", ATRES SERIES HD
-http://181.78.22.70:8000/play/a05f/index.m3u8
+#EXTINF:-1 tvg-chno="3" group-title="Entretenimiento" tvg-id="entretenimiento3" tvg-name="REC TV", REC TV
+http://190.90.154.73:8080/play/a05l/index.m3u8
 
 #EXTINF:-1 tvg-chno="4" group-title="Entretenimiento" tvg-id="entretenimiento4" tvg-name="AXN HD", AXN HD
 http://181.78.22.70:8000/play/a025/index.m3u8 
 http://190.61.57.2:1010/play/a01a/index.m3u8
 
-#EXTINF:-1 tvg-chno="5" group-title="Entretenimiento" tvg-id="entretenimiento5" tvg-name="CHV HD", CHV HD
-http://181.78.22.70:8000/play/a068/index.m3u8 
+#EXTINF:-1 tvg-chno="5" group-title="Entretenimiento" tvg-id="entretenimiento5" tvg-name="LIFETIME", LIFETIME
+http://190.61.57.2:1010/play/a03e/index.m3u8 
 
 #EXTINF:-1 tvg-chno="6" group-title="Infantil" tvg-id="infantil1" tvg-name="Cartoon Network HD", Cartoon Network HD 
 http://181.78.22.70:8000/play/a02r/index.m3u8 
@@ -30,8 +30,8 @@ http://181.78.22.70:8000/play/a02o/index.m3u8
 http://190.61.57.2:1010/play/a01r/index.m3u8
 http://181.78.22.70:8000/play/a05g/index.m3u8 
 
-#EXTINF:-1 tvg-chno="9" group-title="Entretenimiento" tvg-id="entretenimiento6" tvg-name="Clover HD", Clover HD
-http://181.78.22.70:8000/play/a06f/index.m3u8
+#EXTINF:-1 tvg-chno="9" group-title="Entretenimiento" tvg-id="entretenimiento6" tvg-name="TLC", TLC
+http://190.61.43.118:45000/play/a042
 
 #EXTINF:-1 tvg-chno="10" group-title="Entretenimiento" tvg-id="entretenimiento7" tvg-name="TNT Novelas HD", TNT Novelas HD 
 http://190.90.154.73:8080/play/a08z/index.m3u8
@@ -72,6 +72,7 @@ http://190.61.57.2:1010/play/a02c/index.m3u8
 http://181.78.22.70:8000/play/a02b/index.m3u8 
 
 #EXTINF:-1 tvg-chno="20" group-title="Entretenimiento" tvg-id="entretenimiento8" tvg-name="El Gourmet HD", El Gourmet HD 
+http://190.61.57.2:1010/play/a01v/index.m3u8
 http://181.78.22.70:8000/play/a05k/index.m3u8 
 
 #EXTINF:-1 tvg-chno="21" group-title="Deportes" tvg-id="deportes6" tvg-name="FOX Sports 2 HD", FOX Sports 2 HD 
@@ -79,6 +80,7 @@ http://190.61.57.2:1010/play/a032/index.m3u8
 http://181.78.22.70:8000/play/a02i/index.m3u8
 
 #EXTINF:-1 tvg-chno="22" group-title="Entretenimiento" tvg-id="entretenimiento9" tvg-name="FX HD", FX HD 
+http://190.61.57.2:1010/play/a021/index.m3u8
 http://181.78.22.70:8000/play/a02k/index.m3u8 
 
 #EXTINF:-1 tvg-chno="23" group-title="Deportes" tvg-id="deportes7" tvg-name="Fox Sports 3 HD", Fox Sports 3 HD 
@@ -96,8 +98,8 @@ http://190.61.43.118:45000/play/a01w
 #EXTINF:-1 tvg-chno="26" group-title="Cine" tvg-id="cine5" tvg-name="HBO XTREME", HBO XTREME 
 http://181.204.79.182:8202/play/a02w
 
-#EXTINF:-1 tvg-chno="27" group-title="Entretenimiento" tvg-id="entretenimiento10" tvg-name="HOLA TV HD", HOLA TV HD 
-http://181.78.22.70:8000/play/a059/index.m3u8 
+#EXTINF:-1 tvg-chno="27" group-title="Musica" tvg-id="musica2" tvg-name="TRECE", TRECE 
+http://181.78.22.70:8000/play/a059/index.m3u8
 
 #EXTINF:-1 tvg-chno="28" group-title="Documentales" tvg-id="documentales2" tvg-name="History Channel HD", History Channel HD 
 http://190.61.57.2:1010/play/a02t/index.m3u8
@@ -106,13 +108,14 @@ http://181.78.22.70:8000/play/a021/index.m3u8
 #EXTINF:-1 tvg-chno="29" group-title="Entretenimiento" tvg-id="entretenimiento11" tvg-name="ID HD", ID HD 
 http://190.90.154.73:8080/play/a024/index.m3u8
 
-#EXTINF:-1 tvg-chno="30" group-title="Cine" tvg-id="cine6" tvg-name="Kanal D Drama HD", Kanal D Drama HD 
-http://181.78.22.70:8000/play/a060/index.m3u8 
+#EXTINF:-1 tvg-chno="30" group-title="Documentales" tvg-id="documentales8" tvg-name="Kanal D Drama HD", Kanal D Drama HD 
+http://190.90.154.73:8080/play/a092/index.m3u8 
 
-#EXTINF:-1 tvg-chno="31" group-title="Entretenimiento" tvg-id="entretenimiento12" tvg-name="La Red HD", La Red HD 
-http://181.78.22.70:8000/play/a06h/index.m3u8 
+#EXTINF:-1 tvg-chno="31" group-title="Entretenimiento" tvg-id="entretenimiento12" tvg-name="SYFY", SYFY 
+http://190.90.154.73:8080/play/a06z/index.m3u8 
 
 #EXTINF:-1 tvg-chno="32" group-title="Entretenimiento" tvg-id="entretenimiento13" tvg-name="MEGA HD", MEGA HD 
+http://190.90.154.73:8080/play/a03a/index.m3u8
 http://181.78.22.70:8000/play/a05z/index.m3u8 
 
 #EXTINF:-1 tvg-chno="33" group-title="Música" tvg-id="musica1" tvg-name="MTV LIVE HD", MTV LIVE HD 
@@ -133,8 +136,8 @@ http://181.78.22.70:8000/play/a04j/index.m3u8
 http://190.61.57.2:1010/play/a01k/index.m3u8
 http://181.78.22.70:8000/play/a057/index.m3u8 
 
-#EXTINF:-1 tvg-chno="38" group-title="Entretenimiento Adulto" tvg-id="entretenimiento_adulto1" tvg-name="Playboy HD", Playboy HD 
-http://181.78.22.70:8000/play/a04k/index.m3u8 
+#EXTINF:-1 tvg-chno="38" group-title="Entretenimiento Adulto" tvg-id="entretenimiento_adulto1" tvg-name="MYCAMTV", MYCAMTV
+http:\\cdn.adultiptv.net\latina.m3u8
 
 #EXTINF:-1 tvg-chno="39" group-title="Nacionales" tvg-id="Nacionales1" tvg-name="RCN HD" tvg-logo="https://imagenes.canalrcn.com/CanalRCN/imagen-compartir-canal.jpg", RCN HD 
 http://181.78.22.70:8000/play/a02m/index.m3u8 
@@ -142,14 +145,16 @@ http://190.61.57.2:1010/play/a022/index.m3u8
 http://190.61.43.118:45000/play/a01m
 
 #EXTINF:-1 tvg-chno="40" group-title="Entretenimiento" tvg-id="entretenimiento14" tvg-name="STAR CHANNEL HD", STAR CHANNEL HD 
+http://190.61.57.2:1010/play/a02r/index.m3u8
 http://181.78.22.70:8000/play/a02a/index.m3u8 
 
 #EXTINF:-1 tvg-chno="41" group-title="Entretenimiento" tvg-id="entretenimiento15" tvg-name="STAR TVE HD", STAR TVE HD 
+http://190.90.154.73:8080/play/a055/index.m3u8
 http://181.78.22.70:8000/play/a061/index.m3u8 
 
 #EXTINF:-1 tvg-chno="42" group-title="Entretenimiento" tvg-id="entretenimiento16" tvg-name="Sony HD", Sony HD 
 http://190.90.154.73:8080/play/a00p/index.m3u8
-http://181.78.22.70:8000/play/a023/index.m3u8 
+http://190.61.57.2:1010/play/a018/index.m3u8
 
 #EXTINF:-1 tvg-chno="43" group-title="Cine" tvg-id="cine8" tvg-name="Space HD", Space HD 
 http://190.61.57.2:1010/play/a01b/index.m3u8
@@ -160,6 +165,7 @@ http://190.61.57.2:1010/play/a027/index.m3u8
 http://181.78.22.70:8000/play/a02s/index.m3u8 
 
 #EXTINF:-1 tvg-chno="45" group-title="Entretenimiento" tvg-id="entretenimiento17" tvg-name="Sun Channel HD", Sun Channel HD 
+http://190.90.154.73:8080/play/a02m/index.m3u8
 http://181.78.22.70:8000/play/a02c/index.m3u8 
 
 #EXTINF:-1 tvg-chno="46" group-title="Cine" tvg-id="cine10" tvg-name="TNT HD", TNT HD 
@@ -177,9 +183,11 @@ http://181.78.22.70:8000/play/a02j/index.m3u8
 http://190.61.43.118:45000/play/a049 
 
 #EXTINF:-1 tvg-chno="50" group-title="Entretenimiento" tvg-id="entretenimiento19" tvg-name="TV+ HD", TV+ HD 
+http://190.61.57.2:1010/play/a04a/index.m3u8
 http://181.78.22.70:8000/play/a05y/index.m3u8 
 
 #EXTINF:-1 tvg-chno="51" group-title="Entretenimiento" tvg-id="entretenimiento20" tvg-name="TVN HD", TVN HD 
+http://190.90.154.73:8080/play/a01r/index.m3u8
 http://181.78.22.70:8000/play/a067/index.m3u8 
 
 #EXTINF:-1 tvg-chno="52" group-title="Entretenimiento" tvg-id="entretenimiento21" tvg-name="UNIVERSAL CHANNEL HD", UNIVERSAL CHANNEL HD 
@@ -261,7 +269,7 @@ http://190.61.57.2:1010/play/a03a/index.m3u8
 #EXTINF:-1 tvg-chno="76" group-title="Entretenimiento" tvg-id="entretenimiento28" tvg-name="Latina HD", Latina HD
 http://190.61.57.2:1010/play/a042/index.m3u8
 
-#EXTINF:-1 tvg-chno="77" group-title="Música" tvg-id="musica2" tvg-name="MTV HD", MTV HD
+#EXTINF:-1 tvg-chno="77" group-title="entretenimiento" tvg-id="entretenimiento10" tvg-name="MTV HD", MTV HD
 http://190.61.57.2:1010/play/a02i/index.m3u8
 
 #EXTINF:-1 tvg-chno="78" group-title="Infantil" tvg-id="infantil7" tvg-name="Nick HD", Nick HD
@@ -334,3 +342,6 @@ http://190.61.43.118:45000/play/a05y
 
 #EXTINF:-1 tvg-chno="99" group-title="Documentales" tvg-id="documentales6" tvg-name="Discovery TURBO", Discovery TURBO
 http://190.61.57.2:1010/play/a02T/index.m3u8
+
+#EXTINF:-1 tvg-chno="100" group-title="Cine" tvg-id="cine6" tvg-name="DE PELICULA", DE PELICULA
+http://190.90.154.73:8080/play/a084/index.m3u8
