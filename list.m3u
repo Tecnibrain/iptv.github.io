@@ -78,7 +78,7 @@ http://190.61.43.118:45000/play/a01w
 http://181.204.79.182:8202/play/a02w
 
 #EXTINF:-1 tvg-chno="27" group-title="Musica" tvg-id="Musica2" tvg-name="TRECE", TRECE 
-http://181.78.22.70:8000/play/a059/index.m3u8
+http://190.61.43.118:45000/play/a03m
 
 #EXTINF:-1 tvg-chno="28" group-title="Documentales" tvg-id="documentales2" tvg-name="History Channel HD", History Channel HD 
 http://190.61.57.2:1010/play/a02t/index.m3u8
@@ -86,7 +86,7 @@ http://190.61.57.2:1010/play/a02t/index.m3u8
 #EXTINF:-1 tvg-chno="29" group-title="Entretenimiento" tvg-id="entretenimiento11" tvg-name="ID HD", ID HD 
 http://190.90.154.73:8080/play/a024/index.m3u8
 
-#EXTINF:-1 tvg-chno="30" group-title="Documentales" tvg-id="documentales8" tvg-name="Kanal D Drama HD", Kanal D Drama HD 
+#EXTINF:-1 tvg-chno="30" group-title="Documentales" tvg-id="documentales8" tvg-name="LOVE NATURE", LOVE NATURE 
 http://190.90.154.73:8080/play/a092/index.m3u8 
 
 #EXTINF:-1 tvg-chno="31" group-title="Entretenimiento" tvg-id="entretenimiento12" tvg-name="SYFY", SYFY 
