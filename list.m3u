@@ -148,6 +148,7 @@ http://181.78.22.70:8000/play/a02a/index.m3u8
 http://181.78.22.70:8000/play/a061/index.m3u8 
 
 #EXTINF:-1 tvg-chno="42" group-title="Entretenimiento" tvg-id="entretenimiento16" tvg-name="Sony HD", Sony HD 
+http://190.90.154.73:8080/play/a00p/index.m3u8
 http://181.78.22.70:8000/play/a023/index.m3u8 
 
 #EXTINF:-1 tvg-chno="43" group-title="Cine" tvg-id="cine8" tvg-name="Space HD", Space HD 
