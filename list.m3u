@@ -95,7 +95,7 @@ http://190.90.154.73:8080/play/a06z/index.m3u8
 #EXTINF:-1 tvg-chno="32" group-title="Entretenimiento" tvg-id="entretenimiento13" tvg-name="MEGA HD", MEGA HD 
 http://190.90.154.73:8080/play/a03a/index.m3u8
 
-#EXTINF:-1 tvg-chno="33" group-title="Música" tvg-id="musica1" tvg-name="MTV LIVE HD", MTV LIVE HD 
+#EXTINF:-1 tvg-chno="33" group-title="Musica" tvg-id="musica1" tvg-name="MTV LIVE HD", MTV LIVE HD 
 http://190.90.154.73:8080/play/a02r/index.m3u8
 
 #EXTINF:-1 tvg-chno="34" group-title="Documentales" tvg-id="documentales3" tvg-name="Nat Geo HD", Nat Geo HD 
