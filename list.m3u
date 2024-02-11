@@ -110,8 +110,8 @@ http://190.61.57.2:1010/play/a026/index.m3u8
 #EXTINF:-1 tvg-chno="37" group-title="Novelas" tvg-id="novelas1" tvg-name="Pasiones HD", Pasiones HD 
 http://190.90.154.73:8080/play/a01t/index.m3u8
 
-#EXTINF:-1 tvg-chno="38" group-title="Entretenimiento Adulto" tvg-id="adulto1" tvg-name="MYCAMTV", MYCAMTV
-http://cdn.aduzlztiptv.net/latina.m3u8
+#EXTINF:-1 tvg-chno="38" group-title="Entretenimiento Adulto" tvg-id="adulto1" tvg-name="MYCAMTV PORNSTAR", MYCAMTV
+http://cdn.redtraffic.net/pornstar.m3u8
 
 #EXTINF:-1 tvg-chno="39" group-title="Nacionales" tvg-id="Nacionales1" tvg-name="RCN HD" tvg-logo="https://imagenes.canalrcn.com/CanalRCN/imagen-compartir-canal.jpg", RCN HD 
 http://190.61.57.2:1010/play/a022/index.m3u8
@@ -298,3 +298,6 @@ http://190.61.57.2:1010/play/a02T/index.m3u8
 
 #EXTINF:-1 tvg-chno="100" group-title="Cine" tvg-id="cine6" tvg-name="DE PELICULA", DE PELICULA
 http://190.90.154.73:8080/play/a084/index.m3u8
+
+#EXTINF:-1 tvg-chno="38" group-title="Entretenimiento Adulto" tvg-id="adulto2" tvg-name="MYCAMTV LATINA", MYCAMTV LATINA
+http://cdn.redtraffic.net/latina.m3u8
