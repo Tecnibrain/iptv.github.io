@@ -239,7 +239,7 @@ http://190.61.57.2:1010/play/a01u/index.m3u8
 #EXTINF:-1 tvg-chno="80" group-title="Entretenimiento" tvg-id="entretenimiento30" tvg-name="TV+ HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/TV%2B_%282018%29.png", TV+ HD
 http://190.61.57.2:1010/play/a04a/index.m3u8
 
-#EXTINF:-1 tvg-chno="81" group-title="Cine" tvg-id="cine14" tvg-name="Warner Channel HD" https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Warner_Channel.svg/1200px-Warner_Channel.svg.png, Warner Channel HD
+#EXTINF:-1 tvg-chno="81" group-title="Cine" tvg-id="cine14" tvg-name="Warner Channel HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Warner_Channel.svg/1200px-Warner_Channel.svg.png", Warner Channel HD
 http://190.61.57.2:1010/play/a019/index.m3u8
 
 #EXTINF:-1 tvg-chno="82" group-title="Novelas" tvg-id="novelas2" tvg-name="TNT Novelas HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Logo_TNT_Novelas.png", TNT Novelas HD
