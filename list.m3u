@@ -218,7 +218,7 @@ http://190.61.57.2:1010/play/a02e/index.m3u8
 #EXTINF:-1 tvg-chno="73" group-title="Cine" tvg-id="cine13" tvg-name="Golden HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Golden_logo.png", Golden HD
 http://190.61.57.2:1010/play/a02b/index.m3u8
 
-#EXTINF:-1 tvg-chno="74" group-title="Documentales" tvg-id="documentales5" tvg-name="History 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/History2_logo_%282022%29.svg", History 2 HD
+#EXTINF:-1 tvg-chno="74" group-title="Documentales" tvg-id="documentales5" tvg-name="History 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/History2Logo2019.png/640px-History2Logo2019.png", History 2 HD
 http://190.61.57.2:1010/play/a02o/index.m3u8
 
 #EXTINF:-1 tvg-chno="75" group-title="Entretenimiento" tvg-id="entretenimiento27" tvg-name="Las Estrellas HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png", Las Estrellas HD
