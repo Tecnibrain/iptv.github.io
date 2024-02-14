@@ -156,7 +156,7 @@ http://190.90.154.73:8080/play/a01r/index.m3u8
 http://190.61.57.2:1010/play/a01z/index.m3u8
 
 #EXTINF:-1 tvg-chno="53" group-title="Cine" tvg-id="cine12" tvg-name="UNIVERSAL PREMIERE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/Universal_Premiere_2021.png", UNIVERSAL PREMIERE HD 
-http://190.149.66.90:4000/play/a03w/index.m3u8
+http://190.149.66.90:4000/play/a03t/index.m3u8
 
 #EXTINF:-1 tvg-chno="54" group-title="Deportes" tvg-id="deportes9" tvg-name="Win Sports HD" tvg-logo="https://files.winsports.co/assets/public/logo.png", Win Sports HD 
 http://190.61.57.2:1010/play/a01e/index.m3u8
