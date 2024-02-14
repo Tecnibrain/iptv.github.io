@@ -155,8 +155,8 @@ http://190.90.154.73:8080/play/a01r/index.m3u8
 #EXTINF:-1 tvg-chno="52" group-title="Entretenimiento" tvg-id="entretenimiento21" tvg-name="UNIVERSAL CHANNEL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Universal_Channel_Logo_2013.svg/2560px-Universal_Channel_Logo_2013.svg.png", UNIVERSAL CHANNEL HD 
 http://190.61.57.2:1010/play/a01z/index.m3u8
 
-#EXTINF:-1 tvg-chno="53" group-title="Cine" tvg-id="cine12" tvg-name="Warner Channel HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Warner_Channel.svg/1200px-Warner_Channel.svg.png", Warner Channel HD 
-http://190.61.57.2:1010/play/a019/index.m3u8
+#EXTINF:-1 tvg-chno="53" group-title="Cine" tvg-id="cine12" tvg-name=",UNIVERSAL PREMIERE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/Universal_Premiere_2021.png", UNIVERSAL PREMIERE HD 
+http://190.149.66.90:4000/play/a03w/index.m3u8
 
 #EXTINF:-1 tvg-chno="54" group-title="Deportes" tvg-id="deportes9" tvg-name="Win Sports HD" tvg-logo="https://files.winsports.co/assets/public/logo.png", Win Sports HD 
 http://190.61.57.2:1010/play/a01e/index.m3u8
@@ -290,8 +290,8 @@ http://190.61.57.2:1010/play/a04l/index.m3u8
 #EXTINF:-1 tvg-chno="97" group-title="Infantil" tvg-id="infantil8" tvg-name="Disney Junior" tvg-logo="https://c0.klipartz.com/pngpicture/362/350/gratis-png-disney-junior-logo-disney-la-chaine-los-graficos-de-walt-disney-company-disney-junior-logo-thumbnail.png", Disney Junior
 http://190.61.57.2:1010/play/a04r/index.m3u8
 
-#EXTINF:-1 tvg-chno="98" group-title="Cine" tvg-id="cine15" tvg-name="HBO Family" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/HBO_Family_Logo.png", HBO Family
-http://190.61.43.118:45000/play/a05y
+#EXTINF:-1 tvg-chno="98" group-title="Cine" tvg-id="cine15" tvg-name="HBO Family HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/HBO_Family_Logo.png", HBO Family HD
+http://190.149.66.90:4000/play/a00f/index.m3u8
 
 #EXTINF:-1 tvg-chno="99" group-title="Documentales" tvg-id="documentales6" tvg-name="Discovery TURBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/2560px-Discovery_Turbo_logo.svg.png", Discovery TURBO
 http://190.61.57.2:1010/play/a02T/index.m3u8
@@ -301,3 +301,6 @@ http://190.90.154.73:8080/play/a084/index.m3u8
 
 #EXTINF:-1 tvg-chno="101" group-title="Entretenimiento Adulto" tvg-id="adulto2" tvg-name="MYCAMTV LATINA" tvg-logo="https://mytv.cam/upload/My-TV.png", MYCAMTV LATINA
 http://cdn.redtraffic.net/latina.m3u8
+
+#EXTINF:-1 tvg-chno="101" group-title="Entretenimiento Adulto" tvg-id="adulto3" tvg-name="PLAYBOY" tvg-logo="https://w7.pngwing.com/pngs/661/645/png-transparent-playboy-hd-logo-thumbnail.png", PLAYBOY
+http://190.149.66.90:4000/play/a00h/index.m3u8
