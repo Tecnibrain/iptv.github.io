@@ -254,7 +254,7 @@ http://190.61.57.2:1010/play/a03i/index.m3u8
 #EXTINF:-1 tvg-chno="85" group-title="Nacionales" tvg-id="Nacionales3" tvg-name="Caracol HD" tvg-logo="https://caracoltv.brightspotcdn.com/dims4/default/0045201/2147483647/strip/true/crop/2048x2048+0+0/resize/120x120!/quality/90/?url=http%3A%2F%2Fcaracol-brightspot.s3.amazonaws.com%2Fe0%2F4f%2Fd0ec59d74f2ba896bc9638e43b9c%2Flogo-ctv.png", Caracol HD
 http://190.61.57.2:1010/play/a02j/index.m3u8
 
-#EXTINF:-1 tvg-chno="86" group-title="Nacionales" tvg-id="Nacionales4" tvg-name="NTN 24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/NTN24_Logo.png", NTN 24
+#EXTINF:-1 tvg-chno="86" group-title="Noticias" tvg-id="noticias2" tvg-name="NTN 24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/NTN24_Logo.png", NTN 24
 http://190.61.57.2:1010/play/a04h/index.m3u8
 
 #EXTINF:-1 tvg-chno="87" group-title="Regionales" tvg-id="Regionales6" tvg-name="TELEMEDELLIN" tvg-logo="https://telemedellin.tv/wp-content/uploads/2022/01/Telemedellin-en-el-programa-En-Manos-de-Todos-a-traves-del-Canal-CNC.jpg", TELEMEDELLIN
@@ -319,3 +319,10 @@ http://190.149.66.90:4000/play/a03t/index.m3u8
 
 #EXTINF:-1 tvg-chno="107" group-title="Cine" tvg-id="cine19" tvg-name="UNIVERSAL PREMIERE O HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/Universal_Premiere_2021.png", UNIVERSAL PREMIERE O HD
 http://190.149.66.90:4000/play/a03u/index.m3u8
+
+#EXTINF:-1 tvg-chno="108" group-title="Entretenimiento" tvg-id="entretenimiento31" tvg-name="UNIVERSAL REALITY HD" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_03/large.1365450986_UniversalReality-Claro.png.09a5d6ee15cd580c5c1aca0cf03905b8.png", UNIVERSAL REALITY HD
+http://190.149.66.90:4000/play/a03v/index.m3u8
+
+#EXTINF:-1 tvg-chno="109" group-title="Entretenimiento" tvg-id="entretenimiento31" tvg-name="UNIVISION HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/581px-Logo_Univision_2019.svg.png", UNIVISION HD
+http://190.149.66.90:4000/play/a054/index.m3u8
+
