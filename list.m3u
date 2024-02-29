@@ -285,7 +285,7 @@ http://190.90.154.73:8080/play/a07c/index.m3u8
 http://190.61.55.186:1010/play/a028/index.m3u8
 
 #EXTINF:-1 tvg-chno="96" group-title="Regionales" tvg-id="Regionales15" tvg-name="CityTv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/CityTV_Logo_2023_Naranja.webp/768px-CityTV_Logo_2023_Naranja.webp.png", CityTv
-https://www.youtube.com/embed/biwRaSWXRnY
+http://190.61.55.186:1010/play/a02i/index.m3u8
 
 #EXTINF:-1 tvg-chno="97" group-title="Infantil" tvg-id="infantil8" tvg-name="DISNEY JUNIOR" tvg-logo="https://c0.klipartz.com/pngpicture/362/350/gratis-png-disney-junior-logo-disney-la-chaine-los-graficos-de-walt-disney-company-disney-junior-logo-thumbnail.png", DISNEY JUNIOR
 http://190.61.55.186:1010/play/458/index.m3u8
