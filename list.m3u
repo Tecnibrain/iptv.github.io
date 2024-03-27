@@ -129,7 +129,7 @@ http://190.60.33.167:8004/play/a02o/index.m3u8
 http://190.61.55.186:1010/play/a01j/index.m3u8
 
 #EXTINF:-1 tvg-chno="44" group-title="Cine" tvg-id="cine9" tvg-name="STUDIO UNIVERSAL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/2560px-Logo_Studio_Universal.svg.png", STUDIO UNIVERSAL HD 
-http://190.61.55.186:1010/play/a01j/index.m3u8
+http://181.78.73.221:8000/play/a14s/index.m3u8
 
 #EXTINF:-1 tvg-chno="45" group-title="Entretenimiento" tvg-id="entretenimiento17" tvg-name="SUN CHANNEL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Sun_Channel_logo.svg/1200px-Sun_Channel_logo.svg.png", SUN CHANNEL HD 
 http://181.78.75.83:5013/play/a0a9/index.m3u8
@@ -246,7 +246,7 @@ http://190.61.55.186:1010/play/a01h/index.m3u8
 http://190.61.43.118:45000/play/a06u
 
 #EXTINF:-1 tvg-chno="83" group-title="Deportes" tvg-id="deportes15" tvg-name="WIN SPORTS+ HD OP3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/WinSportsM%C3%A1s2022.png", WIN SPORTS+ HD OP3
-http://186.148.163.18:8000/play/a043/index.m3u8
+http://181.78.73.221:8000/play/a14u/index.m3u8
 
 #EXTINF:-1 tvg-chno="84" group-title="Nacionales" tvg-id="Nacionales2" tvg-name="CANAL 1 HD" tvg-logo="https://images.canal1.com.co/site/images/logo_1_como_tu_color.png", CANAL 1 HD
 http://190.61.55.186:1010/play/478/index.m3u8
