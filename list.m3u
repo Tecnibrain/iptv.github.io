@@ -69,7 +69,7 @@ http://190.61.55.186:1010/play/a009/index.m3u8
 http://190.61.55.186:1010/play/a01y/index.m3u8
 
 #EXTINF:-1 tvg-chno="24" group-title="Cine" tvg-id="cine3" tvg-name="HBO 2 HD" tvg-logo="https://cdn.mitvstatic.com/channels/ea714e3b-6ef4-46da-87e9-71eb71141a09_m.jpg", HBO 2 HD
-http://190.61.43.118:45000/play/a023 
+http://190.61.43.118:45000/play/a023
 
 #EXTINF:-1 tvg-chno="25" group-title="Cine" tvg-id="cine4" tvg-name="HBO HD" tvg-logo="https://cdn.mitvstatic.com/channels/co_hbo-hd-este_m.png", HBO HD
 http://190.61.43.118:45000/play/a01w
