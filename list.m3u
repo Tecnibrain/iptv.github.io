@@ -255,7 +255,7 @@ http://190.61.55.186:1010/play/478/index.m3u8
 http://190.61.43.117:45000/play/a02v
 
 #EXTINF:-1 tvg-chno="86" group-title="Noticias" tvg-id="noticias2" tvg-name="NTN 24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/NTN24_Logo.png", NTN 24
-http://190.60.33.167:8004/play/a04v/index.m3u8
+http://181.78.208.237:8000/play/a040/index.m3u8
 
 #EXTINF:-1 tvg-chno="87" group-title="Regionales" tvg-id="Regionales6" tvg-name="TELEMEDELLIN" tvg-logo="https://telemedellin.tv/wp-content/uploads/2022/01/Telemedellin-en-el-programa-En-Manos-de-Todos-a-traves-del-Canal-CNC.jpg", TELEMEDELLIN
 https://d3cglye48cl6m2.cloudfront.net/out/v1/37d85e2ab37c4873aed6849fe74e78b8/index.m3u8
@@ -328,3 +328,6 @@ http://190.149.66.90:4000/play/a054/index.m3u8
 
 #EXTINF:-1 tvg-chno="110" group-title="Cine" tvg-id="cine20" tvg-name="GOLDEN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Golden_logo.png", GOLDEN
 http://201.159.113.219:49000/play/a02l/index.m3u8
+
+#EXTINF:-1 tvg-chno="111" group-title="Musica" tvg-id="Musica3" tvg-name="HTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/1200px-Htv_logo.svg.png", HTV
+http://200.125.170.120:8000/play/a049
