@@ -291,7 +291,7 @@ http://190.61.55.186:1010/play/a02i/index.m3u8
 http://190.61.55.186:1010/play/458/index.m3u8
 
 #EXTINF:-1 tvg-chno="98" group-title="Cine" tvg-id="cine15" tvg-name="HBO FAMILY HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/HBO_Family_Logo.png", HBO FAMILY HD
-http://201.159.113.219:49000/play/a00o/index.m3u8
+http://181.78.208.237:8000/play/a02x/index.m3u8
 
 #EXTINF:-1 tvg-chno="99" group-title="Documentales" tvg-id="documentales6" tvg-name="DISCOVERY TURBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/2560px-Discovery_Turbo_logo.svg.png", DISCOVERY TURBO
 http://181.78.73.221:8000/play/a0wx/index.m3u8
