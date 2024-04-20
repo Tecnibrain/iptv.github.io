@@ -50,8 +50,8 @@ http://190.61.43.118:45000/play/a051
 #EXTINF:-1 tvg-chno="17" group-title="Deportes" tvg-id="deportes3" tvg-name="ESPN 4 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/1024px-ESPN_4_logo.svg.png", ESPN 4 HD 
 http://190.61.43.118:45000/play/a01v
 
-#EXTINF:-1 tvg-chno="18" group-title="Deportes" tvg-id="deportes4" tvg-name="ESPN EXTRA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/ESPN_Extra_Logo_2022.webp/750px-ESPN_Extra_Logo_2022.webp.png", ESPN EXTRA HD 
-http://190.61.57.2:1010/play/a031/index.m3u8
+#EXTINF:-1 tvg-chno="18" group-title="Deportes" tvg-id="deportes4" tvg-name="TIGO SPORTS" tvg-logo="https://pbs.twimg.com/media/FJBSOhBXoAgvyX9.jpg", TIGO SPORTS 
+http://170.82.37.21:8000/play/a047/index.m3u8
 
 #EXTINF:-1 tvg-chno="19" group-title="Deportes" tvg-id="deportes5" tvg-name="ESPN HD" tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png", ESPN HD 
 http://181.78.6.106:45000/play/a00y
