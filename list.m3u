@@ -138,7 +138,7 @@ http://181.78.75.83:5013/play/a0a9/index.m3u8
 http://181.78.6.106:45000/play/a019
 
 #EXTINF:-1 tvg-chno="47" group-title="Deportes" tvg-id="deportes8" tvg-name="TYC SPORTS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/2560px-TyC_Sports_logo.svg.png", TYC SPORTS HD 
-http://179.51.161.3:9009/play/a01e/index.m3u8
+http://181.78.208.237:8000/play/a02f/index.m3u8
 
 #EXTINF:-1 tvg-chno="48" group-title="Entretenimiento" tvg-id="entretenimiento7" tvg-name="TNT SERIES HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png", TNT SERIES HD 
 http://181.78.208.237:8000/play/a01i/index.m3u8
