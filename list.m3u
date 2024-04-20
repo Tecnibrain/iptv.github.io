@@ -215,7 +215,7 @@ http://181.78.71.5:4890/play/a064/index.m3u8
 #EXTINF:-1 tvg-chno="72" group-title="Deportes" tvg-id="deportes14" tvg-name="GolTv HD" tvg-logo="https://w7.pngwing.com/pngs/900/439/png-transparent-television-channel-gol-tv-cnt-sports-zee-tv-logo-television-logo-logo-vector.png", GolTv HD
 http://181.78.208.237:8000/play/a02a/index.m3u8
 
-#EXTINF:-1 tvg-chno="73" group-title="Cine" tvg-id="cine13" tvg-name="GOLDEN PLUS HD" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2017_12/large.5a3bc10e723a2_GoldenPlus.png.4a3402a383ffd14d943e86f543148147.png", GOLDEN PLUS HD
+#EXTINF:-1 tvg-chno="73" group-title="Cine" tvg-id="cine13" tvg-name="GOLDEN PLUS HD" tvg-logo="https://archive.org/download/logo.brootv_golden/GOLDEN_PLUS.png", GOLDEN PLUS HD
 http://181.78.208.237:8000/play/a026/index.m3u8
 
 #EXTINF:-1 tvg-chno="74" group-title="Documentales" tvg-id="documentales5" tvg-name="HISTORY 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/History2Logo2019.png/640px-History2Logo2019.png", HISTORY 2 HD
@@ -320,7 +320,7 @@ http://201.159.113.219:49000/play/a056/index.m3u8
 #EXTINF:-1 tvg-chno="107" group-title="Cine" tvg-id="cine19" tvg-name="UNIVERSAL PREMIERE O HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/Universal_Premiere_2021.png", UNIVERSAL PREMIERE O HD
 http://201.159.113.219:49000/play/a057/index.m3u8
 
-#EXTINF:-1 tvg-chno="108" group-title="Entretenimiento" tvg-id="entretenimiento31" tvg-name="UNIVERSAL REALITY HD" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_03/large.1365450986_UniversalReality-Claro.png.09a5d6ee15cd580c5c1aca0cf03905b8.png", UNIVERSAL REALITY HD
+#EXTINF:-1 tvg-chno="108" group-title="Entretenimiento" tvg-id="entretenimiento31" tvg-name="UNIVERSAL REALITY HD" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_03/large.1365450986_UniversalReality-Claro.png.4b8fc78cff89969ea5a888a779654e44.png", UNIVERSAL REALITY HD
 http://170.82.37.21:8000/play/a02z/index.m3u8
 
 #EXTINF:-1 tvg-chno="109" group-title="Entretenimiento" tvg-id="entretenimiento31" tvg-name="UNIVISION HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/581px-Logo_Univision_2019.svg.png", UNIVISION HD
