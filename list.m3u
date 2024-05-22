@@ -114,7 +114,7 @@ http://201.159.113.219:49000/play/a05l/index.m3u8
 http://cdn.redtraffic.net/pornstar.m3u8
 
 #EXTINF:-1 tvg-chno="39" group-title="Nacionales" tvg-id="Nacionales1" tvg-name="RCN HD" tvg-logo="https://imagenes.canalrcn.com/CanalRCN/imagen-compartir-canal.jpg", RCN HD 
-http://181.78.22.251:8090/play/a00z/index.m3u8
+http://181.78.73.221:8000/play/a15o/index.m3u8
 
 #EXTINF:-1 tvg-chno="40" group-title="Entretenimiento" tvg-id="entretenimiento14" tvg-name="STAR CHANNEL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Star_Channel_2021.png", STAR CHANNEL HD 
 http://181.78.208.237:8000/play/a00g/index.m3u8
