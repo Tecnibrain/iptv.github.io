@@ -18,7 +18,7 @@ http://181.78.71.5:4890/play/a04e/index.m3u8
 http://181.78.208.237:8000/play/a03e/index.m3u8
 
 #EXTINF:-1 tvg-chno="7" group-title="Cine" tvg-id="cine1" tvg-name="CINECANAL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png", CINECANAL HD 
-http://181.78.208.237:8000/play/a038/index.m3u8
+http://181.205.77.118:4849/play/CH33
 
 #EXTINF:-1 tvg-chno="8" group-title="Cine" tvg-id="cine2" tvg-name="CINEMAX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/1200px-Cinemax_%28Yellow%29.svg.png", CINEMAX HD 
 http://181.78.208.237:8000/play/a010/index.m3u8
