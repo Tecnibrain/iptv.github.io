@@ -27,7 +27,7 @@ http://181.78.208.237:8000/play/a010/index.m3u8
 http://201.159.113.219:49000/play/a03a/index.m3u8
 
 #EXTINF:-1 tvg-chno="10" group-title="Cine" tvg-id="Cine16" tvg-name="CLOVER HD" tvg-logo="https://digitaltv.prensariozone.com/wp-content/uploads/2022/01/Captura-de-pantalla-2022-01-13-171716.png", CLOVER HD 
-http://201.222.44.220:4227/play/a00e/index.m3u8
+http://181.205.77.118:4849/play/a0bh
 
 #EXTINF:-1 tvg-chno="11" group-title="Infantil" tvg-id="infantil3" tvg-name="DISCOVERY KIDS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Discovery_kids_logo.png", DISCOVERY KIDS HD 
 http://177.93.44.174:8900/play/a00c
@@ -108,7 +108,7 @@ http://181.204.79.182:8202/play/a02c
 http://181.78.208.237:8000/play/a03f/index.m3u8
 
 #EXTINF:-1 tvg-chno="37" group-title="Novelas" tvg-id="novelas1" tvg-name="PASIONES HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pasiones_Tv_logo.svg/2560px-Pasiones_Tv_logo.svg.png", PASIONES HD 
-http://201.159.113.219:49000/play/a05l/index.m3u8
+http://181.205.77.118:4849/play/CH111
 
 #EXTINF:-1 tvg-chno="38" group-title="Entretenimiento Adulto" tvg-id="adulto1" tvg-name="MYCAMTV PORNSTAR" tvg-logo="https://mytv.cam/upload/My-TV.png", MYCAMTV
 http://cdn.redtraffic.net/pornstar.m3u8
@@ -120,13 +120,13 @@ http://181.78.208.237:8000/play/a01l/index.m3u8
 http://181.78.208.237:8000/play/a060/index.m3u8
 
 #EXTINF:-1 tvg-chno="41" group-title="Entretenimiento" tvg-id="entretenimiento15" tvg-name="STAR TVE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Star-TVE-logo.png", STAR TVE HD 
-http://201.159.113.219:49000/play/a04v/index.m3u8
+http://181.205.77.118:4849/play/CH128
 
 #EXTINF:-1 tvg-chno="42" group-title="Entretenimiento" tvg-id="entretenimiento16" tvg-name="SONY HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png", SONY HD 
 http://177.93.44.174:8900/play/a003
 
 #EXTINF:-1 tvg-chno="43" group-title="Cine" tvg-id="cine8" tvg-name="SPACE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/1280px-SpaceLogo.svg.png", SPACE HD 
-http://201.159.113.219:49000/play/a04g/index.m3u8
+http://181.205.77.118:4849/play/CH42
 
 #EXTINF:-1 tvg-chno="44" group-title="Cine" tvg-id="cine9" tvg-name="STUDIO UNIVERSAL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/2560px-Logo_Studio_Universal.svg.png", STUDIO UNIVERSAL HD 
 http://177.93.44.174:8900/play/a00o
@@ -303,7 +303,7 @@ http://181.78.6.106:45000/play/b088
 http://cdn.redtraffic.net/latina.m3u8
 
 #EXTINF:-1 tvg-chno="102" group-title="Entretenimiento Adulto" tvg-id="adulto3" tvg-name="PLAYBOY" tvg-logo="https://w7.pngwing.com/pngs/661/645/png-transparent-playboy-hd-logo-thumbnail.png", PLAYBOY
-http://38.56.118.88:4000/play/a01v
+http://181.205.77.118:4849/play/CH53
 
 #EXTINF:-1 tvg-chno="103" group-title="Entretenimiento Adulto" tvg-id="adulto4" tvg-name="VENUS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Canal_Venus_logo_%282%29.svg/800px-Canal_Venus_logo_%282%29.svg.png", VENUS
 http://38.252.238.255:6102/play/a02o/index.m3u8
@@ -337,3 +337,12 @@ http://181.205.77.118:4849/play/CH58
 
 #EXTINF:-1 tvg-chno="113" group-title="Religioso" tvg-id="Religioso3" tvg-name="TELEVID" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/Logo_Tele_VID.png", TELEVID
 http://181.78.6.106:45000/play/b085
+
+#EXTINF:-1 tvg-chno="114" group-title="Nacionales" tvg-id="Nacionales4" tvg-name="RCN HD2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/RCN_HD2_2019.png/1200px-RCN_HD2_2019.png", RCN HD2
+http://181.205.77.118:4849/play/RCNHD2
+
+#EXTINF:-1 tvg-chno="115" group-title="Nacionales" tvg-id="Nacionales6" tvg-name="CARACOL HD2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Caracol_HD2_2017.png/714px-Caracol_HD2_2017.png", CARACOL HD2
+http://181.205.77.118:4849/play/CH142
+
+#EXTINF:-1 tvg-chno="116" group-title="Cine" tvg-id="cine22" tvg-name="ADULT SWIM HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/990px-Adult_Swim_2003_logo.svg.png", ADULT SWIM HD
+http://181.205.77.118:4849/play/CH155
