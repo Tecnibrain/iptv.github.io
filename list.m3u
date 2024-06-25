@@ -346,3 +346,75 @@ http://181.205.77.118:4849/play/CH142
 
 #EXTINF:-1 tvg-chno="116" group-title="Cine" tvg-id="cine22" tvg-name="ADULT SWIM HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/990px-Adult_Swim_2003_logo.svg.png", ADULT SWIM HD
 http://181.205.77.118:4849/play/CH155
+
+#EXTINF:-1 tvg-chno="117" group-title="Deportes" tvg-id="deportes16" tvg-name="DIRECTV SPORTS HD" tvg-logo="https://seeklogo.com/images/D/directv-sports-logo-6F86DBD521-seeklogo.com.png", DIRECTV SPORTS HD
+http://tvlatino.club:2082/diamanteda1a/S9gszuE7aujh/458638
+
+#EXTINF:-1 tvg-chno="118" group-title="Deportes" tvg-id="deportes17" tvg-name="DIRECTV SPORTS+ HD" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/1613.png", DIRECTV SPORTS+ HD
+http://tvlatino.club:2082/diamanteda1a/S9gszuE7aujh/190639
+
+#EXTINF:-1 tvg-chno="119" group-title="Deportes" tvg-id="deportes18" tvg-name="DIRECTV SPORTS 2 HD" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/1612.png", DIRECTV SPORTS 2 HD
+http://tvlatino.club:2082/diamanteda1a/S9gszuE7aujh/392056
+
+#EXTINF:-1 tvg-chno="120" tvg-id="" tvg-name="24/7 || ANIMANIACS" tvg-logo="http://tvlatino.club:2082/images/12ad795529ee8e480b9212e78152226f.png" group-title="ANIMADOS - 24/7",24/7 || ANIMANIACS
+http://tvlatino.club:2082/diamanteda1a/S9gszuE7aujh/374751
+
+#EXTINF:-1 tvg-chno="121" tvg-id="" tvg-name="24/7 || BILLY Y MANDY" tvg-logo="http://tvlatino.club:2082/images/ef2d8046f7d51b26bba990251c4d8e58.png" group-title="ANIMADOS - 24/7",24/7 || BILLY Y MANDY
+http://tvlatino.club:2082/diamanteda1a/S9gszuE7aujh/374752
+
+#EXTINF:-1 tvg-chno="122" tvg-id="" tvg-name="24/7 || CHICAS SUPERPODEROSAS" tvg-logo="http://tvlatino.club:2082/images/26051fdb94b208c2df0a859f83a10dc6.png" group-title="ANIMADOS - 24/7",24/7 || CHICAS SUPERPODEROSAS
+http://tvlatino.club:2082/diamanteda1a/S9gszuE7aujh/374753
+
+#EXTINF:-1 tvg-chno="123" tvg-id="" tvg-name="24/7 || DON GATO Y SU PANDILLA" tvg-logo="http://tvlatino.club:2082/images/5b2c7ab5d52b4032fbf174c88ad0f165.png" group-title="ANIMADOS - 24/7",24/7 || DON GATO Y SU PANDILLA
+http://tvlatino.club:2082/diamanteda1a/S9gszuE7aujh/374755
+
+#EXTINF:-1 tvg-chno="124" tvg-id="" tvg-name="EDD Y EDDY" tvg-logo="http://tvlatino.club:2082/images/d0119132004a8a269190216073349244.png" group-title="ANIMADOS - 24/7",EDD Y EDDY
+http://tvlatino.club:2082/diamanteda1a/S9gszuE7aujh/374756
+
+#EXTINF:-1 tvg-chno="125" tvg-id="" tvg-name="24/7 || EL CHAVO ANIMADO" tvg-logo="http://tvlatino.club:2082/images/729a8d7cdd02fd43dcb563d769984c3c.png" group-title="ANIMADOS - 24/7",24/7 || EL CHAVO ANIMADO
+http://tvlatino.club:2082/diamanteda1a/S9gszuE7aujh/374757
+
+#EXTINF:-1 tvg-chno="126" tvg-id="" tvg-name="24/7 || EL MUNDO DE GUMBALL" tvg-logo="http://tvlatino.club:2082/images/9e6babdbef93bddab95f8e950973f894.png" group-title="ANIMADOS - 24/7",24/7 || EL MUNDO DE GUMBALL
+http://tvlatino.club:2082/diamanteda1a/S9gszuE7aujh/374758
+
+#EXTINF:-1 tvg-chno="127" tvg-id="" tvg-name="24/7 || ESCANDALOSOS" tvg-logo="http://tvlatino.club:2082/images/6f961263c14554b06a048c6acda0ceb3.png" group-title="ANIMADOS - 24/7",24/7 || ESCANDALOSOS
+http://tvlatino.club:2082/diamanteda1a/S9gszuE7aujh/374759
+
+#EXTINF:-1 tvg-chno="128" tvg-id="" tvg-name="24/7 || JIMMY NEUTRON" tvg-logo="http://tvlatino.club:2082/images/5fccfa22212dce033bff57408ce92239.png" group-title="ANIMADOS - 24/7",24/7 || JIMMY NEUTRON
+http://tvlatino.club:2082/diamanteda1a/S9gszuE7aujh/374760
+
+#EXTINF:-1 tvg-chno="129" tvg-id="" tvg-name="24/7 || JHONNY BRAVO" tvg-logo="http://tvlatino.club:2082/images/1bd4d42ae179d8ea13bb18192185419a.png" group-title="ANIMADOS - 24/7",24/7 || JHONNY BRAVO
+http://tvlatino.club:2082/diamanteda1a/S9gszuE7aujh/374761
+
+#EXTINF:-1 tvg-chno="130" tvg-id="" tvg-name="24/7 || JORGE EL CURIOSO" tvg-logo="http://tvlatino.club:2082/images/0b1484455437fdd3e40a51612ee9d990.png" group-title="ANIMADOS - 24/7",24/7 || JORGE EL CURIOSO
+http://tvlatino.club:2082/diamanteda1a/S9gszuE7aujh/374762
+
+#EXTINF:-1 tvg-chno="131" tvg-id="" tvg-name="24/7 || KID VS KAT" tvg-logo="http://tvlatino.club:2082/images/87e19731db27e6167bb0574a37da1f4c.png" group-title="ANIMADOS - 24/7",24/7 || KID VS KAT
+http://tvlatino.club:2082/diamanteda1a/S9gszuE7aujh/374763
+
+#EXTINF:-1 tvg-chno="132" tvg-id="" tvg-name="24/7 || KND CHICOS DEL BARRIO" tvg-logo="http://tvlatino.club:2082/images/a3ad9b5e3d4fd5f0831cfb638bc3b2ff.png" group-title="ANIMADOS - 24/7",24/7 || KND CHICOS DEL BARRIO
+http://tvlatino.club:2082/diamanteda1a/S9gszuE7aujh/374764
+
+#EXTINF:-1 tvg-chno="133" tvg-id="" tvg-name="24/7 || LABORATORIO DE DEXTER" tvg-logo="http://tvlatino.club:2082/images/2b0d18c21bba3b86ab4fdc20b54e389c.png" group-title="ANIMADOS - 24/7",24/7 || LABORATORIO DE DEXTER
+http://tvlatino.club:2082/diamanteda1a/S9gszuE7aujh/374765
+
+#EXTINF:-1 tvg-chno="134" tvg-id="" tvg-name="24/7 || LOUD HOUSE" tvg-logo="http://tvlatino.club:2082/images/fff6cdd4a6d3d52c9d0c39cbb742318e.png" group-title="ANIMADOS - 24/7",24/7 || LOUD HOUSE
+http://tvlatino.club:2082/diamanteda1a/S9gszuE7aujh/374766
+
+#EXTINF:-1 tvg-chno="135" tvg-id="" tvg-name="24/7 || PHINEAS Y FERB" tvg-logo="http://tvlatino.club:2082/images/9b050c857dd042fc476e696601403d65.png" group-title="ANIMADOS - 24/7",24/7 || PHINEAS Y FERB
+http://tvlatino.club:2082/diamanteda1a/S9gszuE7aujh/374767
+
+#EXTINF:-1 tvg-chno="136" tvg-id="" tvg-name="24/7 || LOS PICAPIEDRA" tvg-logo="http://tvlatino.club:2082/images/9a761db39e240cfbec7f8a91d7cf8651.png" group-title="ANIMADOS - 24/7",24/7 || LOS PICAPIEDRA
+http://tvlatino.club:2082/diamanteda1a/S9gszuE7aujh/374768
+
+#EXTINF:-1 tvg-chno="137" tvg-id="" tvg-name="24/7 || TOM Y JERRY" tvg-logo="http://tvlatino.club:2082/images/e3995b9e412bc561726e50882e2db939.png" group-title="ANIMADOS - 24/7",24/7 || TOM Y JERRY
+http://tvlatino.club:2082/diamanteda1a/S9gszuE7aujh/374769
+
+#EXTINF:-1 tvg-chno="138" tvg-id="" tvg-name="24/7 || VACA Y POLLITO" tvg-logo="http://tvlatino.club:2082/images/a53dd25ecdd0a3ca1992f8c4944e51c4.png" group-title="ANIMADOS - 24/7",24/7 || VACA Y POLLITO
+http://tvlatino.club:2082/diamanteda1a/S9gszuE7aujh/374770
+
+#EXTINF:-1 tvg-chno="139" group-title="Cine" tvg-id="cine23" tvg-name="HBO MUNDI HD" tvg-logo="https://seeklogo.com/images/H/hbo-mundi-logo-236F04C9B4-seeklogo.com.png", HBO MUNDI HD
+http://tvlatino.club:2082/diamanteda1a/S9gszuE7aujh/432520
+
+#EXTINF:-1 tvg-chno="140" group-title="Cine" tvg-id="cine23" tvg-name="HBO SIGNATURE HD" tvg-logo="https://www.nicepng.com/png/full/233-2333073_hbo-signature-latin-atlansia-hbo-signature-logo-png.png", HBO SIGNATURE HD
+http://tvlatino.club:2082/diamanteda1a/S9gszuE7aujh/432523
