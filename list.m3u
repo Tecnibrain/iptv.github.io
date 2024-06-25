@@ -416,5 +416,20 @@ http://tvlatino.club:2082/diamanteda1a/S9gszuE7aujh/374770
 #EXTINF:-1 tvg-chno="139" group-title="Cine" tvg-id="cine23" tvg-name="HBO MUNDI HD" tvg-logo="https://seeklogo.com/images/H/hbo-mundi-logo-236F04C9B4-seeklogo.com.png", HBO MUNDI HD
 http://tvlatino.club:2082/diamanteda1a/S9gszuE7aujh/432520
 
-#EXTINF:-1 tvg-chno="140" group-title="Cine" tvg-id="cine23" tvg-name="HBO SIGNATURE HD" tvg-logo="https://www.nicepng.com/png/full/233-2333073_hbo-signature-latin-atlansia-hbo-signature-logo-png.png", HBO SIGNATURE HD
+#EXTINF:-1 tvg-chno="140" group-title="Cine" tvg-id="cine24" tvg-name="HBO SIGNATURE HD" tvg-logo="https://www.nicepng.com/png/full/233-2333073_hbo-signature-latin-atlansia-hbo-signature-logo-png.png", HBO SIGNATURE HD
 http://tvlatino.club:2082/diamanteda1a/S9gszuE7aujh/432523
+
+#EXTINF:-1 tvg-chno="141" group-title="Cine" tvg-id="cine25" tvg-name="AMAZON PRIME FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Amazon_Prime_Video_logo.svg/1200px-Amazon_Prime_Video_logo.svg.png", AMAZON PRIME FHD
+http://tvlatino.club:2082/diamanteda1a/S9gszuE7aujh/405854
+
+#EXTINF:-1 tvg-chno="142" group-title="Cine" tvg-id="cine26" tvg-name="DISNEY+ FHD" tvg-logo="https://www.infobae.com/new-resizer/hZHRrFLk_7kdTnHfT4bwu-kq-T8=/992x441/filters:format(webp):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/CH7VJ2UAYJGIRAEMF2VLF5XKBU.png", DISNEY+ FHD
+http://tvlatino.club:2082/diamanteda1a/S9gszuE7aujh/405855
+
+#EXTINF:-1 tvg-chno="143" group-title="Cine" tvg-id="cine27" tvg-name="NETFLIX FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Logonetflix.png/1200px-Logonetflix.png", NETFLIX FHD
+http://tvlatino.club:2082/diamanteda1a/S9gszuE7aujh/405856
+
+#EXTINF:-1 tvg-chno="144" group-title="Cine" tvg-id="cine28" tvg-name="PARAMOUNT+ FHD" tvg-logo="https://seeklogo.com/images/P/paramount-logo-D0604AF7D3-seeklogo.com.png", PARAMOUNT+ FHD
+http://tvlatino.club:2082/diamanteda1a/S9gszuE7aujh/405857
+
+#EXTINF:-1 tvg-chno="145" group-title="Cine" tvg-id="cine29" tvg-name="STAR+ FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Star%2B_logo.svg/1200px-Star%2B_logo.svg.png", STAR+ FHD
+http://tvlatino.club:2082/diamanteda1a/S9gszuE7aujh/405858
