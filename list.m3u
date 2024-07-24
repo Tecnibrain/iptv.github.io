@@ -222,7 +222,7 @@ http://181.78.208.237:8000/play/a0bh/index.m3u8
 http://181.78.208.237:8000/play/a0c7/index.m3u8
 
 #EXTINF:-1 tvg-chno="75" group-title="Entretenimiento" tvg-id="entretenimiento27" tvg-name="LAS ESTRELLAS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png", LAS ESTRELLAS HD
-http://181.78.208.237:8000/play/a0c3/index.m3u8
+http://170.82.37.21:8000/play/a03b/index.m3u8
 
 #EXTINF:-1 tvg-chno="76" group-title="Entretenimiento" tvg-id="entretenimiento28" tvg-name="LATINA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logotipo_de_Latina_Televisi%C3%B3n.svg/2048px-Logotipo_de_Latina_Televisi%C3%B3n.svg.png", LATINA HD
 http://181.78.208.237:8000/play/a0bq/index.m3u8
