@@ -192,7 +192,7 @@ http://181.78.208.237:8000/play/a0c4/index.m3u8
 http://181.78.208.254:8008/play/a08v
 
 #EXTINF:-1 tvg-chno="65" group-title="Documentales" tvg-id="documentales4" tvg-name="DISCOVERY CHANNEL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Discovery_Channel_-_Logo_2019.svg/1200px-Discovery_Channel_-_Logo_2019.svg.png", DISCOVERY CHANNEL HD
-http://181.78.208.237:8000/play/a0c5/index.m3u8
+http://181.78.208.237:8000/play/a0aj/index.m3u8
 
 #EXTINF:-1 tvg-chno="66" group-title="Entretenimiento" tvg-id="entretenimiento26" tvg-name="E! HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/E%21_Logo.svg/1200px-E%21_Logo.svg.png", E! HD
 http://181.78.208.237:8000/play/a0bl/index.m3u8
@@ -234,7 +234,7 @@ http://181.78.208.237:8000/play/a0c1/index.m3u8
 http://181.78.208.237:8000/play/a09x/index.m3u8
 
 #EXTINF:-1 tvg-chno="79" group-title="Entretenimiento" tvg-id="entretenimiento29" tvg-name="TRUTV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/TruTV_logo_2014.png", TRUTV HD
-http://181.78.208.237:8000/play/a013/index.m3u8
+http://170.82.37.21:8000/play/a034/index.m3u8
 
 #EXTINF:-1 tvg-chno="80" group-title="Entretenimiento" tvg-id="entretenimiento30" tvg-name="UNIVERSAL COMEDY HD" tvg-logo="https://c0.klipartz.com/pngpicture/571/428/gratis-png-universal-s-universal-channel-universal-tv-tv-channel.png", UNIVERSAL COMEDY HD
 http://170.82.37.21:8000/play/a03g/index.m3u8
@@ -252,7 +252,7 @@ http://181.78.6.106:45000/play/a014
 http://181.78.208.237:8000/play/a0bk/index.m3u8
 
 #EXTINF:-1 tvg-chno="85" group-title="Nacionales" tvg-id="Nacionales3" tvg-name="CARACOL HD" tvg-logo="https://caracoltv.brightspotcdn.com/dims4/default/0045201/2147483647/strip/true/crop/2048x2048+0+0/resize/120x120!/quality/90/?url=http%3A%2F%2Fcaracol-brightspot.s3.amazonaws.com%2Fe0%2F4f%2Fd0ec59d74f2ba896bc9638e43b9c%2Flogo-ctv.png", CARACOL HD
-http://181.78.208.254:8008/play/a05q
+http://181.78.208.237:8000/play/a0c2/index.m3u8
 
 #EXTINF:-1 tvg-chno="86" group-title="Noticias" tvg-id="noticias2" tvg-name="NTN 24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/NTN24_Logo.png", NTN 24
 http://181.78.208.237:8000/play/a07z/index.m3u8
@@ -270,7 +270,7 @@ http://181.78.71.5:4890/play/a02w/index.m3u8
 http://181.204.79.182:8202/play/a02i
 
 #EXTINF:-1 tvg-chno="91" group-title="Regionales" tvg-id="Regionales10" tvg-name="TELECARIBE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Telecaribe2017.png/640px-Telecaribe2017.png", TELECARIBE
-http://181.78.208.237:8000/play/a06q/index.m3u8
+http://181.78.208.237:8000/play/a0cb/index.m3u8
 
 #EXTINF:-1 tvg-chno="92" group-title="Regionales" tvg-id="Regionales11" tvg-name="TELEPACIFICO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/Telepac%C3%ADfico.png", TELEPACIFICO
 http://181.78.71.5:4890/play/a02y/index.m3u8
@@ -294,7 +294,7 @@ http://181.78.6.106:45000/play/b071
 http://181.78.208.237:8000/play/a0c8/index.m3u8
 
 #EXTINF:-1 tvg-chno="99" group-title="Documentales" tvg-id="documentales6" tvg-name="DISCOVERY TURBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/2560px-Discovery_Turbo_logo.svg.png", DISCOVERY TURBO
-http://177.93.44.174:8900/play/a01j
+http://181.78.208.237:8000/play/a07v/index.m3u8
 
 #EXTINF:-1 tvg-chno="100" group-title="Cine" tvg-id="cine6" tvg-name="DE PELICULA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/De_pelicula_logo.png", DE PELICULA
 http://181.78.6.106:45000/play/b088
@@ -356,80 +356,17 @@ http://tvlatino.club:2082/diamanteda1a/S9gszuE7aujh/190639
 #EXTINF:-1 tvg-chno="119" group-title="Deportes" tvg-id="deportes18" tvg-name="DIRECTV SPORTS 2 HD" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/1612.png", DIRECTV SPORTS 2 HD
 http://tvlatino.club:2082/diamanteda1a/S9gszuE7aujh/392058
 
-#EXTINF:-1 tvg-chno="120" tvg-id="" tvg-name="24/7 || ANIMANIACS" tvg-logo="http://tvlatino.club:2082/images/12ad795529ee8e480b9212e78152226f.png" group-title="ANIMADOS - 24/7",24/7 || ANIMANIACS
-http://tvlatino.club:2082/diamanteda1a/S9gszuE7aujh/374751
+#EXTINF:-1 tvg-chno="120" group-title="Cine" tvg-id="cine23" tvg-name="HBO MUNDI HD" tvg-logo="https://seeklogo.com/images/H/hbo-mundi-logo-236F04C9B4-seeklogo.com.png", HBO MUNDI HD
+http://181.78.208.237:8000/play/a089/index.m3u8
 
-#EXTINF:-1 tvg-chno="121" tvg-id="" tvg-name="24/7 || BILLY Y MANDY" tvg-logo="http://tvlatino.club:2082/images/ef2d8046f7d51b26bba990251c4d8e58.png" group-title="ANIMADOS - 24/7",24/7 || BILLY Y MANDY
-http://tvlatino.club:2082/diamanteda1a/S9gszuE7aujh/374752
-
-#EXTINF:-1 tvg-chno="122" tvg-id="" tvg-name="24/7 || CHICAS SUPERPODEROSAS" tvg-logo="http://tvlatino.club:2082/images/26051fdb94b208c2df0a859f83a10dc6.png" group-title="ANIMADOS - 24/7",24/7 || CHICAS SUPERPODEROSAS
-http://tvlatino.club:2082/diamanteda1a/S9gszuE7aujh/374753
-
-#EXTINF:-1 tvg-chno="123" tvg-id="" tvg-name="24/7 || DON GATO Y SU PANDILLA" tvg-logo="http://tvlatino.club:2082/images/5b2c7ab5d52b4032fbf174c88ad0f165.png" group-title="ANIMADOS - 24/7",24/7 || DON GATO Y SU PANDILLA
-http://tvlatino.club:2082/diamanteda1a/S9gszuE7aujh/374755
-
-#EXTINF:-1 tvg-chno="124" tvg-id="" tvg-name="EDD Y EDDY" tvg-logo="http://tvlatino.club:2082/images/d0119132004a8a269190216073349244.png" group-title="ANIMADOS - 24/7",EDD Y EDDY
-http://tvlatino.club:2082/diamanteda1a/S9gszuE7aujh/374756
-
-#EXTINF:-1 tvg-chno="125" tvg-id="" tvg-name="24/7 || EL CHAVO ANIMADO" tvg-logo="http://tvlatino.club:2082/images/729a8d7cdd02fd43dcb563d769984c3c.png" group-title="ANIMADOS - 24/7",24/7 || EL CHAVO ANIMADO
-http://tvlatino.club:2082/diamanteda1a/S9gszuE7aujh/374757
-
-#EXTINF:-1 tvg-chno="126" tvg-id="" tvg-name="24/7 || EL MUNDO DE GUMBALL" tvg-logo="http://tvlatino.club:2082/images/9e6babdbef93bddab95f8e950973f894.png" group-title="ANIMADOS - 24/7",24/7 || EL MUNDO DE GUMBALL
-http://tvlatino.club:2082/diamanteda1a/S9gszuE7aujh/374758
-
-#EXTINF:-1 tvg-chno="127" tvg-id="" tvg-name="24/7 || ESCANDALOSOS" tvg-logo="http://tvlatino.club:2082/images/6f961263c14554b06a048c6acda0ceb3.png" group-title="ANIMADOS - 24/7",24/7 || ESCANDALOSOS
-http://tvlatino.club:2082/diamanteda1a/S9gszuE7aujh/374759
-
-#EXTINF:-1 tvg-chno="128" tvg-id="" tvg-name="24/7 || JIMMY NEUTRON" tvg-logo="http://tvlatino.club:2082/images/5fccfa22212dce033bff57408ce92239.png" group-title="ANIMADOS - 24/7",24/7 || JIMMY NEUTRON
-http://tvlatino.club:2082/diamanteda1a/S9gszuE7aujh/374760
-
-#EXTINF:-1 tvg-chno="129" tvg-id="" tvg-name="24/7 || JHONNY BRAVO" tvg-logo="http://tvlatino.club:2082/images/1bd4d42ae179d8ea13bb18192185419a.png" group-title="ANIMADOS - 24/7",24/7 || JHONNY BRAVO
-http://tvlatino.club:2082/diamanteda1a/S9gszuE7aujh/374761
-
-#EXTINF:-1 tvg-chno="130" tvg-id="" tvg-name="24/7 || JORGE EL CURIOSO" tvg-logo="http://tvlatino.club:2082/images/0b1484455437fdd3e40a51612ee9d990.png" group-title="ANIMADOS - 24/7",24/7 || JORGE EL CURIOSO
-http://tvlatino.club:2082/diamanteda1a/S9gszuE7aujh/374762
-
-#EXTINF:-1 tvg-chno="131" tvg-id="" tvg-name="24/7 || KID VS KAT" tvg-logo="http://tvlatino.club:2082/images/87e19731db27e6167bb0574a37da1f4c.png" group-title="ANIMADOS - 24/7",24/7 || KID VS KAT
-http://tvlatino.club:2082/diamanteda1a/S9gszuE7aujh/374763
-
-#EXTINF:-1 tvg-chno="132" tvg-id="" tvg-name="24/7 || KND CHICOS DEL BARRIO" tvg-logo="http://tvlatino.club:2082/images/a3ad9b5e3d4fd5f0831cfb638bc3b2ff.png" group-title="ANIMADOS - 24/7",24/7 || KND CHICOS DEL BARRIO
-http://tvlatino.club:2082/diamanteda1a/S9gszuE7aujh/374764
-
-#EXTINF:-1 tvg-chno="133" tvg-id="" tvg-name="24/7 || LABORATORIO DE DEXTER" tvg-logo="http://tvlatino.club:2082/images/2b0d18c21bba3b86ab4fdc20b54e389c.png" group-title="ANIMADOS - 24/7",24/7 || LABORATORIO DE DEXTER
-http://tvlatino.club:2082/diamanteda1a/S9gszuE7aujh/374765
-
-#EXTINF:-1 tvg-chno="134" tvg-id="" tvg-name="24/7 || LOUD HOUSE" tvg-logo="http://tvlatino.club:2082/images/fff6cdd4a6d3d52c9d0c39cbb742318e.png" group-title="ANIMADOS - 24/7",24/7 || LOUD HOUSE
-http://tvlatino.club:2082/diamanteda1a/S9gszuE7aujh/374766
-
-#EXTINF:-1 tvg-chno="135" tvg-id="" tvg-name="24/7 || PHINEAS Y FERB" tvg-logo="http://tvlatino.club:2082/images/9b050c857dd042fc476e696601403d65.png" group-title="ANIMADOS - 24/7",24/7 || PHINEAS Y FERB
-http://tvlatino.club:2082/diamanteda1a/S9gszuE7aujh/374767
-
-#EXTINF:-1 tvg-chno="136" tvg-id="" tvg-name="24/7 || LOS PICAPIEDRA" tvg-logo="http://tvlatino.club:2082/images/9a761db39e240cfbec7f8a91d7cf8651.png" group-title="ANIMADOS - 24/7",24/7 || LOS PICAPIEDRA
-http://tvlatino.club:2082/diamanteda1a/S9gszuE7aujh/374768
-
-#EXTINF:-1 tvg-chno="137" tvg-id="" tvg-name="24/7 || TOM Y JERRY" tvg-logo="http://tvlatino.club:2082/images/e3995b9e412bc561726e50882e2db939.png" group-title="ANIMADOS - 24/7",24/7 || TOM Y JERRY
-http://tvlatino.club:2082/diamanteda1a/S9gszuE7aujh/374769
-
-#EXTINF:-1 tvg-chno="138" tvg-id="" tvg-name="24/7 || VACA Y POLLITO" tvg-logo="http://tvlatino.club:2082/images/a53dd25ecdd0a3ca1992f8c4944e51c4.png" group-title="ANIMADOS - 24/7",24/7 || VACA Y POLLITO
-http://tvlatino.club:2082/diamanteda1a/S9gszuE7aujh/374770
-
-#EXTINF:-1 tvg-chno="139" group-title="Cine" tvg-id="cine23" tvg-name="HBO MUNDI HD" tvg-logo="https://seeklogo.com/images/H/hbo-mundi-logo-236F04C9B4-seeklogo.com.png", HBO MUNDI HD
-http://tvlatino.club:2082/diamanteda1a/S9gszuE7aujh/432520
-
-#EXTINF:-1 tvg-chno="140" group-title="Cine" tvg-id="cine24" tvg-name="HBO SIGNATURE HD" tvg-logo="https://www.nicepng.com/png/full/233-2333073_hbo-signature-latin-atlansia-hbo-signature-logo-png.png", HBO SIGNATURE HD
+#EXTINF:-1 tvg-chno="121" group-title="Cine" tvg-id="cine24" tvg-name="HBO SIGNATURE HD" tvg-logo="https://www.nicepng.com/png/full/233-2333073_hbo-signature-latin-atlansia-hbo-signature-logo-png.png", HBO SIGNATURE HD
 http://tvlatino.club:2082/diamanteda1a/S9gszuE7aujh/432523
 
-#EXTINF:-1 tvg-chno="141" group-title="Cine" tvg-id="cine25" tvg-name="AMAZON PRIME FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Amazon_Prime_Video_logo.svg/1200px-Amazon_Prime_Video_logo.svg.png", AMAZON PRIME FHD
+#EXTINF:-1 tvg-chno="122" group-title="Cine" tvg-id="cine25" tvg-name="AMAZON PRIME FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Amazon_Prime_Video_logo.svg/1200px-Amazon_Prime_Video_logo.svg.png", AMAZON PRIME FHD
 http://tvlatino.club:2082/diamanteda1a/S9gszuE7aujh/405854
 
-#EXTINF:-1 tvg-chno="142" group-title="Cine" tvg-id="cine26" tvg-name="DISNEY+ FHD" tvg-logo="https://www.infobae.com/new-resizer/hZHRrFLk_7kdTnHfT4bwu-kq-T8=/992x441/filters:format(webp):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/CH7VJ2UAYJGIRAEMF2VLF5XKBU.png", DISNEY+ FHD
+#EXTINF:-1 tvg-chno="123" group-title="Cine" tvg-id="cine26" tvg-name="DISNEY+ FHD" tvg-logo="https://www.infobae.com/new-resizer/hZHRrFLk_7kdTnHfT4bwu-kq-T8=/992x441/filters:format(webp):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/CH7VJ2UAYJGIRAEMF2VLF5XKBU.png", DISNEY+ FHD
 http://tvlatino.club:2082/diamanteda1a/S9gszuE7aujh/405855
 
-#EXTINF:-1 tvg-chno="143" group-title="Cine" tvg-id="cine27" tvg-name="NETFLIX FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Logonetflix.png/1200px-Logonetflix.png", NETFLIX FHD
-http://tvlatino.club:2082/diamanteda1a/S9gszuE7aujh/405856
-
-#EXTINF:-1 tvg-chno="144" group-title="Cine" tvg-id="cine28" tvg-name="PARAMOUNT+ FHD" tvg-logo="https://seeklogo.com/images/P/paramount-logo-D0604AF7D3-seeklogo.com.png", PARAMOUNT+ FHD
+#EXTINF:-1 tvg-chno="124" group-title="Cine" tvg-id="cine28" tvg-name="PARAMOUNT+ FHD" tvg-logo="https://seeklogo.com/images/P/paramount-logo-D0604AF7D3-seeklogo.com.png", PARAMOUNT+ FHD
 http://tvlatino.club:2082/diamanteda1a/S9gszuE7aujh/405857
-
-#EXTINF:-1 tvg-chno="145" group-title="Cine" tvg-id="cine29" tvg-name="STAR+ FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Star%2B_logo.svg/1200px-Star%2B_logo.svg.png", STAR+ FHD
-http://tvlatino.club:2082/diamanteda1a/S9gszuE7aujh/405858
