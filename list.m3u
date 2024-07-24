@@ -189,7 +189,7 @@ http://181.78.208.237:8000/play/a0ad/index.m3u8
 http://181.78.208.237:8000/play/a0c4/index.m3u8
 
 #EXTINF:-1 tvg-chno="64" group-title="Entretenimiento" tvg-id="entretenimiento25" tvg-name="DISCOVERY H&H HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/H%26h_Logo.svg/2560px-H%26h_Logo.svg.png", DISCOVERY H&H HD
-http://181.78.208.254:8008/play/a08v
+http://181.78.208.237:8000/play/a0aj/index.m3u8
 
 #EXTINF:-1 tvg-chno="65" group-title="Documentales" tvg-id="documentales4" tvg-name="DISCOVERY CHANNEL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Discovery_Channel_-_Logo_2019.svg/1200px-Discovery_Channel_-_Logo_2019.svg.png", DISCOVERY CHANNEL HD
 http://181.78.208.237:8000/play/a0aj/index.m3u8
