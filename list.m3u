@@ -18,10 +18,10 @@ http://181.78.71.5:4890/play/a04e/index.m3u8
 http://170.82.37.21:8000/play/a00u/index.m3u8
 
 #EXTINF:-1 tvg-chno="7" group-title="Cine" tvg-id="cine1" tvg-name="CINECANAL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png", CINECANAL HD 
-http://170.82.37.21:8000/play/a022/index.m3u8
+http://181.78.208.237:8000/play/a0b2/index.m3u8
 
 #EXTINF:-1 tvg-chno="8" group-title="Cine" tvg-id="cine2" tvg-name="CINEMAX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/1200px-Cinemax_%28Yellow%29.svg.png", CINEMAX HD 
-http://170.82.37.21:8000/play/a023/index.m3u8
+http://181.78.208.237:8000/play/a0ac/index.m3u8
 
 #EXTINF:-1 tvg-chno="9" group-title="Entretenimiento" tvg-id="entretenimiento6" tvg-name="TLC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/TLC_logo_%282023%29.svg/1200px-TLC_logo_%282023%29.svg.png", TLC
 http://201.159.113.219:49000/play/a03a/index.m3u8
