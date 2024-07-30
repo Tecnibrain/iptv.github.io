@@ -1,9 +1,9 @@
 #EXTM3U
 #EXTINF:-1 tvg-chno="1" group-title="Entretenimiento" tvg-id="entretenimiento1" tvg-name="A&E HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/768px-A%26E_Network_logo.svg.png", A&E HD
-http://190.61.55.186:1010/play/a01f/index.m3u8
+http://181.78.208.237:8000/play/a09l/index.m3u8
 
 #EXTINF:-1 tvg-chno="2" group-title="Entretenimiento" tvg-id="entretenimiento2" tvg-name="AMC HD "tvg-logo="https://cdn.amcnetworks.com/amc/theme/web/amc_logo_bk_bg.png", AMC HD
-http://190.61.55.186:1010/play/a00g/index.m3u8
+http://181.78.208.237:8000/play/a0b3/index.m3u8
 
 #EXTINF:-1 tvg-chno="3" group-title="Entretenimiento" tvg-id="entretenimiento3" tvg-name="REC TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Logotipo_de_Rec_TV.png", REC TV
 http://190.95.220.212:8000/play/a01m/index.m3u8
@@ -33,7 +33,7 @@ http://181.78.208.237:8000/play/a09u/index.m3u8
 http://170.82.37.21:8000/play/a00s/index.m3u8
 
 #EXTINF:-1 tvg-chno="12" group-title="Documentales" tvg-id="documentales1" tvg-name="DISCOVERY THEATER HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/320px-2015_Discovery_theater_HD_logo.svg.png", DISCOVERY THEATER HD 
-http://190.61.55.186:1010/play/a003/index.m3u8
+http://181.78.208.237:8000/play/a0ak/index.m3u8
 
 #EXTINF:-1 tvg-chno="13" group-title="Documentales" tvg-id="documentales9" tvg-name="DISCOVERY WORLD HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/1200px-World_Discovery_HD_logo.svg.png", DISCOVERY WORLD HD
 http://170.82.37.21:8000/play/a01e/index.m3u8
@@ -255,7 +255,7 @@ http://190.61.55.186:1010/play/478/index.m3u8
 http://181.78.6.106:45000/play/a00b
 
 #EXTINF:-1 tvg-chno="86" group-title="Noticias" tvg-id="noticias2" tvg-name="NTN 24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/NTN24_Logo.png", NTN 24
-http://181.78.208.237:8000/play/a07z/index.m3u8
+http://tv2watch.icu:8080/Craigmack42@gmail.com/Craigmack42@2023/78704
 
 #EXTINF:-1 tvg-chno="87" group-title="Regionales" tvg-id="Regionales6" tvg-name="TELEMEDELLIN" tvg-logo="https://telemedellin.tv/wp-content/uploads/2022/01/Telemedellin-en-el-programa-En-Manos-de-Todos-a-traves-del-Canal-CNC.jpg", TELEMEDELLIN
 http://181.78.6.106:45000/play/b094
@@ -264,7 +264,7 @@ http://181.78.6.106:45000/play/b094
 http://190.61.55.186:1010/play/a00r/index.m3u8
 
 #EXTINF:-1 tvg-chno="89" group-title="Regionales" tvg-id="Regionales8" tvg-name="TELEANTIOQUIA" tvg-logo="https://teleantioquia.co/Go/wp-content/uploads/2023/04/Recurso-2Go-1024x1024.png", TELEANTIOQUIA
-http://181.78.71.5:4890/play/a02w/index.m3u8
+http://tv2watch.icu:8080/Craigmack42@gmail.com/Craigmack42@2023/78706
 
 #EXTINF:-1 tvg-chno="90" group-title="Regionales" tvg-id="Regionales9" tvg-name="TELECAFE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Telecaf%C3%A9_logo.svg/1280px-Telecaf%C3%A9_logo.svg.png", TELECAFE
 http://181.204.79.182:8202/play/a02i
@@ -360,7 +360,7 @@ http://tvlatino.club:2082/diamanteda1a/S9gszuE7aujh/392058
 http://181.78.208.237:8000/play/a089/index.m3u8
 
 #EXTINF:-1 tvg-chno="121" group-title="Cine" tvg-id="cine24" tvg-name="HBO SIGNATURE HD" tvg-logo="https://www.nicepng.com/png/full/233-2333073_hbo-signature-latin-atlansia-hbo-signature-logo-png.png", HBO SIGNATURE HD
-http://tvlatino.club:2082/diamanteda1a/S9gszuE7aujh/432523
+http://tvlatino.club:2082/diamanteda1a/S9gszuE7aujh/184648
 
 #EXTINF:-1 tvg-chno="122" group-title="Cine" tvg-id="cine25" tvg-name="AMAZON PRIME FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Amazon_Prime_Video_logo.svg/1200px-Amazon_Prime_Video_logo.svg.png", AMAZON PRIME FHD
 http://tvlatino.club:2082/diamanteda1a/S9gszuE7aujh/405854
