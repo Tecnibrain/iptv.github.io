@@ -338,35 +338,14 @@ http://181.78.208.237:8000/play/a09s/index.m3u8
 #EXTINF:-1 tvg-chno="113" group-title="Religioso" tvg-id="Religioso3" tvg-name="TELEVID" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/Logo_Tele_VID.png", TELEVID
 http://181.78.6.106:45000/play/b085
 
-#EXTINF:-1 tvg-chno="114" group-title="Nacionales" tvg-id="Nacionales4" tvg-name="RCN HD2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/RCN_HD2_2019.png/1200px-RCN_HD2_2019.png", RCN HD2
-http://181.205.77.118:4849/play/RCNHD2
-
-#EXTINF:-1 tvg-chno="115" group-title="Nacionales" tvg-id="Nacionales6" tvg-name="CARACOL HD2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Caracol_HD2_2017.png/714px-Caracol_HD2_2017.png", CARACOL HD2
-http://181.205.77.118:4849/play/CH142
-
-#EXTINF:-1 tvg-chno="116" group-title="Cine" tvg-id="cine22" tvg-name="ADULT SWIM HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/990px-Adult_Swim_2003_logo.svg.png", ADULT SWIM HD
+#EXTINF:-1 tvg-chno="114" group-title="Cine" tvg-id="cine22" tvg-name="ADULT SWIM HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/990px-Adult_Swim_2003_logo.svg.png", ADULT SWIM HD
 http://181.78.208.237:8000/play/a0af/index.m3u8
 
-#EXTINF:-1 tvg-chno="117" group-title="Deportes" tvg-id="deportes16" tvg-name="DIRECTV SPORTS HD" tvg-logo="https://seeklogo.com/images/D/directv-sports-logo-6F86DBD521-seeklogo.com.png", DIRECTV SPORTS HD
+#EXTINF:-1 tvg-chno="115" group-title="Deportes" tvg-id="deportes16" tvg-name="DIRECTV SPORTS HD" tvg-logo="https://seeklogo.com/images/D/directv-sports-logo-6F86DBD521-seeklogo.com.png", DIRECTV SPORTS HD
 http://ultrapremium.cloud:8080/75169119/4102022/485
 
-#EXTINF:-1 tvg-chno="118" group-title="Deportes" tvg-id="deportes17" tvg-name="DIRECTV SPORTS+ HD" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/1613.png", DIRECTV SPORTS+ HD
-http://tvlatino.club:2082/diamanteda1a/S9gszuE7aujh/190639
-
-#EXTINF:-1 tvg-chno="119" group-title="Deportes" tvg-id="deportes18" tvg-name="DIRECTV SPORTS 2 HD" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/1612.png", DIRECTV SPORTS 2 HD
-http://tvlatino.club:2082/diamanteda1a/S9gszuE7aujh/392058
-
-#EXTINF:-1 tvg-chno="120" group-title="Cine" tvg-id="cine23" tvg-name="HBO MUNDI HD" tvg-logo="https://seeklogo.com/images/H/hbo-mundi-logo-236F04C9B4-seeklogo.com.png", HBO MUNDI HD
+#EXTINF:-1 tvg-chno="116" group-title="Cine" tvg-id="cine23" tvg-name="HBO MUNDI HD" tvg-logo="https://seeklogo.com/images/H/hbo-mundi-logo-236F04C9B4-seeklogo.com.png", HBO MUNDI HD
 http://181.78.208.237:8000/play/a089/index.m3u8
 
-#EXTINF:-1 tvg-chno="121" group-title="Cine" tvg-id="cine24" tvg-name="HBO SIGNATURE HD" tvg-logo="https://www.nicepng.com/png/full/233-2333073_hbo-signature-latin-atlansia-hbo-signature-logo-png.png", HBO SIGNATURE HD
+#EXTINF:-1 tvg-chno="117" group-title="Cine" tvg-id="cine24" tvg-name="HBO SIGNATURE HD" tvg-logo="https://www.nicepng.com/png/full/233-2333073_hbo-signature-latin-atlansia-hbo-signature-logo-png.png", HBO SIGNATURE HD
 http://tvlatino.club:2082/diamanteda1a/S9gszuE7aujh/184648
-
-#EXTINF:-1 tvg-chno="122" group-title="Cine" tvg-id="cine25" tvg-name="AMAZON PRIME FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Amazon_Prime_Video_logo.svg/1200px-Amazon_Prime_Video_logo.svg.png", AMAZON PRIME FHD
-http://tvlatino.club:2082/diamanteda1a/S9gszuE7aujh/405854
-
-#EXTINF:-1 tvg-chno="123" group-title="Cine" tvg-id="cine26" tvg-name="DISNEY+ FHD" tvg-logo="https://www.infobae.com/new-resizer/hZHRrFLk_7kdTnHfT4bwu-kq-T8=/992x441/filters:format(webp):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/CH7VJ2UAYJGIRAEMF2VLF5XKBU.png", DISNEY+ FHD
-http://tvlatino.club:2082/diamanteda1a/S9gszuE7aujh/405855
-
-#EXTINF:-1 tvg-chno="124" group-title="Cine" tvg-id="cine28" tvg-name="PARAMOUNT+ FHD" tvg-logo="https://seeklogo.com/images/P/paramount-logo-D0604AF7D3-seeklogo.com.png", PARAMOUNT+ FHD
-http://tvlatino.club:2082/diamanteda1a/S9gszuE7aujh/405857
