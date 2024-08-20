@@ -6,7 +6,7 @@ http://190.61.55.186:1010/play/a01f/index.m3u8
 http://190.61.55.186:1010/play/a00g/index.m3u8
 
 #EXTINF:-1 tvg-chno="3" group-title="Entretenimiento" tvg-id="entretenimiento3" tvg-name="REC TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Logotipo_de_Rec_TV.png", REC TV
-http://177.126.51.9:8001/play/a01z
+https://sdmx.vip:443/play/VgIVslUyr-akUE7Ca5WthcLKVtzJ11dhocGrSa6R6lQ
 
 #EXTINF:-1 tvg-chno="4" group-title="Entretenimiento" tvg-id="entretenimiento4" tvg-name="AXN HD" tvg-logo="https://la.axn.com/themes/custom/responsive_sony_axn/logo.png", AXN HD 
 http://190.61.55.186:1010/play/a01i/index.m3u8
