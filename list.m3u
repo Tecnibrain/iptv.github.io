@@ -84,7 +84,7 @@ http://181.78.71.5:4890/play/a033/index.m3u8
 http://170.82.37.21:8000/play/a01f/index.m3u8
 
 #EXTINF:-1 tvg-chno="29" group-title="Documentales" tvg-id="documentales10" tvg-name="ID HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/Logo_id.png", ID HD 
-http://181.189.243.251:8000/play/a0tf/index.m3u8
+http://45.166.92.22:58001/play/a01s/index.m3u8
 
 #EXTINF:-1 tvg-chno="30" group-title="Documentales" tvg-id="documentales8" tvg-name="LOVE NATURE" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png", LOVE NATURE 
 http://181.78.71.5:4890/play/a04u/index.m3u8
@@ -123,7 +123,7 @@ http://170.82.37.21:8000/play/a031/index.m3u8
 http://170.82.37.21:8000/play/a039/index.m3u8
 
 #EXTINF:-1 tvg-chno="42" group-title="Entretenimiento" tvg-id="entretenimiento16" tvg-name="SONY HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png", SONY HD 
-http://181.189.243.251:8000/play/a0sk/index.m3u8
+http://45.166.92.22:58001/play/a04a/index.m3u8
 
 #EXTINF:-1 tvg-chno="43" group-title="Cine" tvg-id="cine8" tvg-name="SPACE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/1280px-SpaceLogo.svg.png", SPACE HD 
 http://190.61.55.186:1010/play/a01j/index.m3u8
@@ -234,7 +234,7 @@ http://170.82.37.21:8000/play/a01y/index.m3u8
 http://190.61.55.186:1010/play/a01p/index.m3u8
 
 #EXTINF:-1 tvg-chno="79" group-title="Entretenimiento" tvg-id="entretenimiento29" tvg-name="TRUTV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/TruTV_logo_2014.png", TRUTV HD
-http://170.82.37.21:8000/play/a034/index.m3u8
+http://190.61.55.186:1010/play/a024/index.m3u8
 
 #EXTINF:-1 tvg-chno="80" group-title="Entretenimiento" tvg-id="entretenimiento30" tvg-name="UNIVERSAL COMEDY HD" tvg-logo="https://c0.klipartz.com/pngpicture/571/428/gratis-png-universal-s-universal-channel-universal-tv-tv-channel.png", UNIVERSAL COMEDY HD
 http://170.82.37.21:8000/play/a03g/index.m3u8
@@ -276,7 +276,7 @@ http://181.78.6.106:45000/play/b077
 http://181.78.71.5:4890/play/a02y/index.m3u8
 
 #EXTINF:-1 tvg-chno="93" group-title="Regionales" tvg-id="Regionales12" tvg-name="CABLE NOTICIAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Cable_Noticias_logo.svg/1200px-Cable_Noticias_logo.svg.png", CABLE NOTICIAS
-https://5ea86ddd14ce7.streamlock.net/live/cable09061970/playlist.m3u8
+http://181.78.71.5:4890/play/a05z/index.m3u8
 
 #EXTINF:-1 tvg-chno="94" group-title="Regionales" tvg-id="Regionales13" tvg-name="CANAL CAPITAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/2020_Canal_Capital_logo.svg/640px-2020_Canal_Capital_logo.svg.png", CANAL CAPITAL
 http://181.204.79.182:8202/play/a03o
@@ -345,7 +345,7 @@ http://177.126.51.9:8000/play/a011
 http://ultrapremium.cloud:8080/75169119/4102022/485
 
 #EXTINF:-1 tvg-chno="116" group-title="Cine" tvg-id="cine23" tvg-name="HBO MUNDI HD" tvg-logo="https://seeklogo.com/images/H/hbo-mundi-logo-236F04C9B4-seeklogo.com.png", HBO MUNDI HD
-http://181.78.208.237:8000/play/a089/index.m3u8
+https://sdmx.vip:443/play/VgIVslUyr-akUE7Ca5WthZk7JyIbgFlf--VxbamPOoQ
 
 #EXTINF:-1 tvg-chno="117" group-title="Cine" tvg-id="cine24" tvg-name="HBO SIGNATURE HD" tvg-logo="https://www.nicepng.com/png/full/233-2333073_hbo-signature-latin-atlansia-hbo-signature-logo-png.png", HBO SIGNATURE HD
 https://sdmx.vip:443/play/VgIVslUyr-akUE7Ca5WthTAxJgjwiFJhmvM8lMcyyVI
