@@ -36,7 +36,7 @@ http://181.189.243.251:8000/play/a0ob/index.m3u8
 http://190.61.55.186:1010/play/a003/index.m3u8
 
 #EXTINF:-1 tvg-chno="13" group-title="Documentales" tvg-id="documentales9" tvg-name="DISCOVERY WORLD HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/1200px-World_Discovery_HD_logo.svg.png", DISCOVERY WORLD HD
-http://181.189.243.251:8000/play/a0tc/index.m3u8
+http://38.43.151.206:8000/play/a052/index.m3u8
 
 #EXTINF:-1 tvg-chno="14" group-title="Infantil" tvg-id="infantil4" tvg-name="DISNEY CHANNEL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Disney_Channel_logo_%282014%29.svg/1200px-Disney_Channel_logo_%282014%29.svg.png", DISNEY CHANNEL HD 
 http://190.61.55.186:1010/play/a01u/index.m3u8
@@ -69,7 +69,7 @@ http://190.61.55.186:1010/play/a009/index.m3u8
 http://190.61.55.186:1010/play/a01y/index.m3u8
 
 #EXTINF:-1 tvg-chno="24" group-title="Cine" tvg-id="cine3" tvg-name="HBO 2 HD" tvg-logo="https://cdn.mitvstatic.com/channels/ea714e3b-6ef4-46da-87e9-71eb71141a09_m.jpg", HBO 2 HD
-http://181.189.243.251:8000/play/a0os/index.m3u8
+http://38.43.151.206:8000/play/a05c/index.m3u8
 
 #EXTINF:-1 tvg-chno="25" group-title="Cine" tvg-id="cine4" tvg-name="HBO HD" tvg-logo="https://cdn.mitvstatic.com/channels/co_hbo-hd-este_m.png", HBO HD
 http://181.189.243.251:8000/play/a0or/index.m3u8
