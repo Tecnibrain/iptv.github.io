@@ -24,7 +24,7 @@ http://190.61.55.186:1010/play/a00f/index.m3u8
 http://190.61.55.186:1010/play/a022/index.m3u8
 
 #EXTINF:-1 tvg-chno="9" group-title="Entretenimiento" tvg-id="entretenimiento6" tvg-name="TLC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/TLC_logo_%282023%29.svg/1200px-TLC_logo_%282023%29.svg.png", TLC
-http://201.159.113.219:49000/play/a03a/index.m3u8
+http://181.204.79.182:8202/play/a01t
 
 #EXTINF:-1 tvg-chno="10" group-title="Cine" tvg-id="Cine16" tvg-name="CLOVER HD" tvg-logo="https://digitaltv.prensariozone.com/wp-content/uploads/2022/01/Captura-de-pantalla-2022-01-13-171716.png", CLOVER HD 
 http://177.126.51.9:8000/play/a00f
@@ -50,8 +50,8 @@ http://190.0.241.181:8000/play/a02e/index.m3u8
 #EXTINF:-1 tvg-chno="17" group-title="Deportes" tvg-id="deportes3" tvg-name="ESPN 4 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/1024px-ESPN_4_logo.svg.png", ESPN 4 HD 
 http://170.82.37.21:8000/play/a011/index.m3u8
 
-#EXTINF:-1 tvg-chno="18" group-title="Deportes" tvg-id="deportes4" tvg-name="TIGO SPORTS" tvg-logo="https://pbs.twimg.com/media/FJBSOhBXoAgvyX9.jpg", TIGO SPORTS 
-http://201.159.113.219:49000/play/a04x/index.m3u8
+#EXTINF:-1 tvg-chno="18" group-title="Deportes" tvg-id="deportes4" tvg-name="TNT SPORTS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/TNT_Sports_logo_2021.png", TNT SPORTS HD 
+http://190.61.55.186:1010/play/a01k/index.m3u8
 
 #EXTINF:-1 tvg-chno="19" group-title="Deportes" tvg-id="deportes5" tvg-name="ESPN HD" tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png", ESPN HD 
 http://181.204.79.182:8202/play/a03h
@@ -116,7 +116,7 @@ http://cdn.redtraffic.net/pornstar.m3u8
 #EXTINF:-1 tvg-chno="39" group-title="Nacionales" tvg-id="Nacionales1" tvg-name="RCN HD" tvg-logo="https://imagenes.canalrcn.com/CanalRCN/imagen-compartir-canal.jpg", RCN HD 
 http://177.126.51.9:8000/play/a01j
 
-#EXTINF:-1 tvg-chno="40" group-title="Entretenimiento" tvg-id="entretenimiento14" tvg-name="STAR CHANNEL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Star_Channel_2021.png", STAR CHANNEL HD 
+#EXTINF:-1 tvg-chno="40" group-title="cine tvg-id="cine25" tvg-name="STAR CHANNEL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Star_Channel_2021.png", STAR CHANNEL HD 
 http://170.82.37.21:8000/play/a031/index.m3u8
 
 #EXTINF:-1 tvg-chno="41" group-title="Entretenimiento" tvg-id="entretenimiento15" tvg-name="STAR TVE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Star-TVE-logo.png", STAR TVE HD 
@@ -198,7 +198,7 @@ http://181.189.243.251:8000/play/a0tb/index.m3u8
 http://181.189.243.251:8000/play/a0q5/index.m3u8
 
 #EXTINF:-1 tvg-chno="67" group-title="Deportes" tvg-id="deportes12" tvg-name="GOLF CHANNEL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/Golf_Channel_Logo_2018.png", GOLF CHANNEL HD
-http://201.159.113.219:49000/play/a04w/index.m3u8
+http://181.189.243.251:8000/play/a0qg/index.m3u8
 
 #EXTINF:-1 tvg-chno="68" group-title="Regionales" tvg-id="Regionales2" tvg-name="CANAL INSTITUCIONAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Se%C3%B1al_Institucional_logo.svg/1200px-Se%C3%B1al_Institucional_logo.svg.png", CANAL INSTITUCIONAL
 http://181.78.71.5:4890/play/a04k/index.m3u8
@@ -315,10 +315,10 @@ http://181.189.243.251:8000/play/a0ot/index.m3u8
 http://181.189.243.251:8000/play/a0v2/index.m3u8
 
 #EXTINF:-1 tvg-chno="106" group-title="Cine" tvg-id="cine19" tvg-name="UNIVERSAL PREMIERE + HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/Universal_Premiere_2021.png", UNIVERSAL PREMIERE HD
-http://201.159.113.219:49000/play/a056/index.m3u8
+http://181.189.243.251:8000/play/a0ui/index.m3u8
 
 #EXTINF:-1 tvg-chno="107" group-title="Cine" tvg-id="cine19" tvg-name="UNIVERSAL PREMIERE O HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/Universal_Premiere_2021.png", UNIVERSAL PREMIERE O HD
-http://201.159.113.219:49000/play/a057/index.m3u8
+http://181.189.243.251:8000/play/a0uj/index.m3u8
 
 #EXTINF:-1 tvg-chno="108" group-title="Entretenimiento" tvg-id="entretenimiento31" tvg-name="UNIVERSAL REALITY HD" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_03/large.1365450986_UniversalReality-Claro.png.4b8fc78cff89969ea5a888a779654e44.png", UNIVERSAL REALITY HD
 http://181.189.243.251:8000/play/a0sz/index.m3u8
@@ -327,7 +327,7 @@ http://181.189.243.251:8000/play/a0sz/index.m3u8
 http://181.189.243.251:8000/play/a0v0/index.m3u8
 
 #EXTINF:-1 tvg-chno="110" group-title="Cine" tvg-id="cine20" tvg-name="GOLDEN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Golden_logo.png", GOLDEN
-http://201.159.113.219:49000/play/a02l/index.m3u8
+http://181.78.6.106:45000/play/b0110
 
 #EXTINF:-1 tvg-chno="111" group-title="Musica" tvg-id="Musica3" tvg-name="HTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/1200px-Htv_logo.svg.png", HTV
 http://181.78.71.5:4890/play/a05y/index.m3u8
@@ -348,4 +348,4 @@ http://ultrapremium.cloud:8080/75169119/4102022/485
 http://181.78.208.237:8000/play/a089/index.m3u8
 
 #EXTINF:-1 tvg-chno="117" group-title="Cine" tvg-id="cine24" tvg-name="HBO SIGNATURE HD" tvg-logo="https://www.nicepng.com/png/full/233-2333073_hbo-signature-latin-atlansia-hbo-signature-logo-png.png", HBO SIGNATURE HD
-http://tvlatino.club:2082/diamanteda1a/S9gszuE7aujh/184648
+https://sdmx.vip:443/play/VgIVslUyr-akUE7Ca5WthTAxJgjwiFJhmvM8lMcyyVI
