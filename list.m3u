@@ -57,7 +57,7 @@ http://190.61.55.186:1010/play/a01k/index.m3u8
 http://181.204.79.182:8202/play/a03h
 
 #EXTINF:-1 tvg-chno="20" group-title="Cocina" tvg-id="cocina2" tvg-name="EL GOURMET HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/El_Gourmet_logo.png", EL GOURMET HD 
-http://181.189.243.251:8000/play/a0r8/index.m3u8
+http://181.78.24.187:8006/play/a06a/index.m3u8
 
 #EXTINF:-1 tvg-chno="21" group-title="Deportes" tvg-id="deportes6" tvg-name="ESPN 7 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/2560px-ESPN_7_logo.svg.png", ESPN 7 HD 
 http://181.204.79.182:8202/play/a01w
@@ -116,7 +116,7 @@ http://cdn.redtraffic.net/pornstar.m3u8
 #EXTINF:-1 tvg-chno="39" group-title="Nacionales" tvg-id="Nacionales1" tvg-name="RCN HD" tvg-logo="https://imagenes.canalrcn.com/CanalRCN/imagen-compartir-canal.jpg", RCN HD 
 http://177.126.51.9:8000/play/a01j
 
-#EXTINF:-1 tvg-chno="40" group-title="cine tvg-id="cine25" tvg-name="STAR CHANNEL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Star_Channel_2021.png", STAR CHANNEL HD 
+#EXTINF:-1 tvg-chno="40" group-title="cine" tvg-id="cine25" tvg-name="STAR CHANNEL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Star_Channel_2021.png", STAR CHANNEL HD 
 http://170.82.37.21:8000/play/a031/index.m3u8
 
 #EXTINF:-1 tvg-chno="41" group-title="Entretenimiento" tvg-id="entretenimiento15" tvg-name="STAR TVE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Star-TVE-logo.png", STAR TVE HD 
