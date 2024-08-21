@@ -1,24 +1,24 @@
 #EXTM3U
 #EXTINF:-1 tvg-chno="1" group-title="Entretenimiento" tvg-id="entretenimiento1" tvg-name="A&E HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/768px-A%26E_Network_logo.svg.png", A&E HD
-http://190.61.55.186:1010/play/a01f/index.m3u8
+http://181.78.24.187:8006/play/a002/index.m3u8
 
 #EXTINF:-1 tvg-chno="2" group-title="Entretenimiento" tvg-id="entretenimiento2" tvg-name="AMC HD "tvg-logo="https://cdn.amcnetworks.com/amc/theme/web/amc_logo_bk_bg.png", AMC HD
-http://190.61.55.186:1010/play/a00g/index.m3u8
+http://181.78.8.90:16123/play/ch13
 
 #EXTINF:-1 tvg-chno="3" group-title="Entretenimiento" tvg-id="entretenimiento3" tvg-name="REC TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Logotipo_de_Rec_TV.png", REC TV
 https://sdmx.vip:443/play/VgIVslUyr-akUE7Ca5WthcLKVtzJ11dhocGrSa6R6lQ
 
 #EXTINF:-1 tvg-chno="4" group-title="Entretenimiento" tvg-id="entretenimiento4" tvg-name="AXN HD" tvg-logo="https://la.axn.com/themes/custom/responsive_sony_axn/logo.png", AXN HD 
-http://190.61.55.186:1010/play/a01i/index.m3u8
+http://181.78.24.187:8006/play/a005/index.m3u8
 
 #EXTINF:-1 tvg-chno="5" group-title="Entretenimiento" tvg-id="entretenimiento5" tvg-name="LIFETIME" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Lifetime_logo17.svg/1024px-Lifetime_logo17.svg.png", LIFETIME
 http://181.78.71.5:4890/play/a04e/index.m3u8
 
 #EXTINF:-1 tvg-chno="6" group-title="Infantil" tvg-id="infantil1" tvg-name="CARTOON NETWORK HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1200px-Cartoon_Network_2010_logo.svg.png", CARTOON NETWORK HD  
-http://190.61.55.186:1010/play/a02u/index.m3u8
+http://181.78.8.90:16123/play/ch09
 
 #EXTINF:-1 tvg-chno="7" group-title="Cine" tvg-id="cine1" tvg-name="CINECANAL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png", CINECANAL HD 
-http://190.61.55.186:1010/play/a00f/index.m3u8
+http://181.78.8.90:16123/play/ch10
 
 #EXTINF:-1 tvg-chno="8" group-title="Cine" tvg-id="cine2" tvg-name="CINEMAX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/1200px-Cinemax_%28Yellow%29.svg.png", CINEMAX HD 
 http://190.61.55.186:1010/play/a022/index.m3u8
@@ -30,7 +30,7 @@ http://181.204.79.182:8202/play/a01t
 http://177.126.51.9:8000/play/a00f
 
 #EXTINF:-1 tvg-chno="11" group-title="Infantil" tvg-id="infantil3" tvg-name="DISCOVERY KIDS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Discovery_kids_logo.png", DISCOVERY KIDS HD 
-http://181.189.243.251:8000/play/a0ob/index.m3u8
+http://181.78.8.90:16123/play/ch02
 
 #EXTINF:-1 tvg-chno="12" group-title="Documentales" tvg-id="documentales1" tvg-name="DISCOVERY THEATER HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/320px-2015_Discovery_theater_HD_logo.svg.png", DISCOVERY THEATER HD 
 http://190.61.55.186:1010/play/a003/index.m3u8
@@ -39,7 +39,7 @@ http://190.61.55.186:1010/play/a003/index.m3u8
 http://38.43.151.206:8000/play/a052/index.m3u8
 
 #EXTINF:-1 tvg-chno="14" group-title="Infantil" tvg-id="infantil4" tvg-name="DISNEY CHANNEL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Disney_Channel_logo_%282014%29.svg/1200px-Disney_Channel_logo_%282014%29.svg.png", DISNEY CHANNEL HD 
-http://190.61.55.186:1010/play/a01u/index.m3u8
+http://181.78.24.187:8006/play/a066/index.m3u8
 
 #EXTINF:-1 tvg-chno="15" group-title="Deportes" tvg-id="deportes1" tvg-name="ESPN 2 HD" tvg-guide="https://www.tdtchannels.com/epg/TV.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1280px-ESPN2_logo.svg.png", ESPN 2 HD 
 http://181.78.24.187:8006/play/a006/index.m3u8
@@ -63,10 +63,10 @@ http://181.78.24.187:8006/play/a06a/index.m3u8
 http://181.204.79.182:8202/play/a01w
 
 #EXTINF:-1 tvg-chno="22" group-title="Entretenimiento" tvg-id="entretenimiento9" tvg-name="FX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/1000px-FX_International_logo.svg.png", FX HD 
-http://190.61.55.186:1010/play/a009/index.m3u8
+http://181.78.8.90:16123/play/ch08
 
 #EXTINF:-1 tvg-chno="23" group-title="Deportes" tvg-id="deportes7" tvg-name="ESPN 6 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/ESPN_6_logo.svg/2560px-ESPN_6_logo.svg.png", ESPN 6 HD 
-http://190.61.55.186:1010/play/a01y/index.m3u8
+http://181.78.8.90:16123/play/ch21
 
 #EXTINF:-1 tvg-chno="24" group-title="Cine" tvg-id="cine3" tvg-name="HBO 2 HD" tvg-logo="https://cdn.mitvstatic.com/channels/ea714e3b-6ef4-46da-87e9-71eb71141a09_m.jpg", HBO 2 HD
 http://38.43.151.206:8000/play/a05c/index.m3u8
@@ -126,10 +126,10 @@ http://170.82.37.21:8000/play/a039/index.m3u8
 http://45.166.92.22:58001/play/a04a/index.m3u8
 
 #EXTINF:-1 tvg-chno="43" group-title="Cine" tvg-id="cine8" tvg-name="SPACE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/1280px-SpaceLogo.svg.png", SPACE HD 
-http://190.61.55.186:1010/play/a01j/index.m3u8
+http://181.78.8.90:16123/play/ch200
 
 #EXTINF:-1 tvg-chno="44" group-title="Cine" tvg-id="cine9" tvg-name="STUDIO UNIVERSAL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/2560px-Logo_Studio_Universal.svg.png", STUDIO UNIVERSAL HD 
-http://190.61.55.186:1010/play/a00l/index.m3u8
+http://181.78.24.187:8006/play/a06k/index.m3u8
 
 #EXTINF:-1 tvg-chno="45" group-title="Entretenimiento" tvg-id="entretenimiento17" tvg-name="SUN CHANNEL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Sun_Channel_logo.svg/1200px-Sun_Channel_logo.svg.png", SUN CHANNEL HD 
 http://170.82.37.21:8000/play/a036/index.m3u8
@@ -189,7 +189,7 @@ http://38.43.151.206:8000/play/a01y/index.m3u8
 http://170.82.37.21:8000/play/a026/index.m3u8
 
 #EXTINF:-1 tvg-chno="64" group-title="Entretenimiento" tvg-id="entretenimiento25" tvg-name="DISCOVERY H&H HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/H%26h_Logo.svg/2560px-H%26h_Logo.svg.png", DISCOVERY H&H HD
-http://190.61.55.186:1010/play/a002/index.m3u8
+http://181.78.8.90:16123/play/ch25
 
 #EXTINF:-1 tvg-chno="65" group-title="Documentales" tvg-id="documentales4" tvg-name="DISCOVERY CHANNEL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Discovery_Channel_-_Logo_2019.svg/1200px-Discovery_Channel_-_Logo_2019.svg.png", DISCOVERY CHANNEL HD
 http://38.43.151.206:8000/play/a05i/index.m3u8
@@ -204,7 +204,7 @@ http://181.189.243.251:8000/play/a0qg/index.m3u8
 http://181.78.71.5:4890/play/a04k/index.m3u8
 
 #EXTINF:-1 tvg-chno="69" group-title="Cocina" tvg-id="cocina1" tvg-name="FOOD NETWORK HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Food_Network_logo.svg/2048px-Food_Network_logo.svg.png", FOOD NETWORK HD
-http://190.61.55.186:1010/play/a00x/index.m3u8
+http://181.78.8.90:16123/play/ch28
 
 #EXTINF:-1 tvg-chno="70" group-title="Deportes" tvg-id="deportes13" tvg-name="ESPN PREMIUM HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/ESPN_Premium_logo.png", ESPN PREMIUM HD
 http://177.126.51.9:8000/play/a02v
@@ -216,13 +216,13 @@ http://190.0.241.181:8000/play/a06n/index.m3u8
 http://190.61.55.186:1010/play/a00w/index.m3u8
 
 #EXTINF:-1 tvg-chno="73" group-title="Cine" tvg-id="cine13" tvg-name="GOLDEN PLUS HD" tvg-logo="https://archive.org/download/logo.brootv_golden/GOLDEN_PLUS.png", GOLDEN PLUS HD
-http://190.61.55.186:1010/play/a00s/index.m3u8
+http://181.78.24.187:8006/play/a06l/index.m3u8
 
 #EXTINF:-1 tvg-chno="74" group-title="Documentales" tvg-id="documentales5" tvg-name="HISTORY 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/History2Logo2019.png/640px-History2Logo2019.png", HISTORY 2 HD
-http://190.61.55.186:1010/play/a01a/index.m3u8
+http://181.78.24.187:8006/play/a06q/index.m3u8
 
 #EXTINF:-1 tvg-chno="75" group-title="Entretenimiento" tvg-id="entretenimiento27" tvg-name="LAS ESTRELLAS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png", LAS ESTRELLAS HD
-http://190.0.241.181:8000/play/a07s/index.m3u8
+http://181.78.24.187:8006/play/a09e/index.m3u8
 
 #EXTINF:-1 tvg-chno="76" group-title="Entretenimiento" tvg-id="entretenimiento28" tvg-name="LATINA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logotipo_de_Latina_Televisi%C3%B3n.svg/2048px-Logotipo_de_Latina_Televisi%C3%B3n.svg.png", LATINA HD
 http://190.61.55.186:1010/play/a00z/index.m3u8
