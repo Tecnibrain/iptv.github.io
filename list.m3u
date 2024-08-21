@@ -21,7 +21,7 @@ http://181.78.8.90:16123/play/ch09
 http://181.78.8.90:16123/play/ch10
 
 #EXTINF:-1 tvg-chno="8" group-title="Cine" tvg-id="cine2" tvg-name="CINEMAX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/1200px-Cinemax_%28Yellow%29.svg.png", CINEMAX HD 
-http://190.61.55.186:1010/play/a022/index.m3u8
+http://38.43.151.206:8000/play/a01x/index.m3u8
 
 #EXTINF:-1 tvg-chno="9" group-title="Entretenimiento" tvg-id="entretenimiento6" tvg-name="TLC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/TLC_logo_%282023%29.svg/1200px-TLC_logo_%282023%29.svg.png", TLC
 http://181.204.79.182:8202/play/a01t
@@ -33,7 +33,7 @@ http://177.126.51.9:8000/play/a00f
 http://181.78.8.90:16123/play/ch02
 
 #EXTINF:-1 tvg-chno="12" group-title="Documentales" tvg-id="documentales1" tvg-name="DISCOVERY THEATER HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/320px-2015_Discovery_theater_HD_logo.svg.png", DISCOVERY THEATER HD 
-http://190.61.55.186:1010/play/a003/index.m3u8
+http://38.43.151.206:8000/play/a024/index.m3u8
 
 #EXTINF:-1 tvg-chno="13" group-title="Documentales" tvg-id="documentales9" tvg-name="DISCOVERY WORLD HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/1200px-World_Discovery_HD_logo.svg.png", DISCOVERY WORLD HD
 http://38.43.151.206:8000/play/a052/index.m3u8
@@ -159,7 +159,7 @@ http://177.126.51.9:8000/play/a019
 http://170.82.37.21:8000/play/a03j/index.m3u8
 
 #EXTINF:-1 tvg-chno="54" group-title="Deportes" tvg-id="deportes9" tvg-name="WIN SPORTS HD" tvg-logo="https://files.winsports.co/assets/public/logo.png", WIN SPORTS HD 
-http://190.61.55.186:1010/play/a01m/index.m3u8
+http://181.78.24.187:8006/play/a007/index.m3u8
 
 #EXTINF:-1 tvg-chno="55" group-title="Deportes" tvg-id="deportes10" tvg-name="WIN SPORTS+ HD OP1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/WinSportsM%C3%A1s2022.png", WIN SPORTS+ HD OP1
 http://181.78.6.106:45000/play/a014
