@@ -6,7 +6,7 @@ http://181.78.24.187:8006/play/a002/index.m3u8
 http://181.78.8.90:16123/play/ch13
 
 #EXTINF:-1 tvg-chno="3" group-title="Entretenimiento" tvg-id="entretenimiento3" tvg-name="Film & arts HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/FILMANDARTS.png", Film & arts HD
-http://45.166.92.22:58001/play/a00o/index.m3u8
+http://204.157.251.250:8001/play/a042/index.m3u8
 
 #EXTINF:-1 tvg-chno="4" group-title="Entretenimiento" tvg-id="entretenimiento4" tvg-name="AXN HD" tvg-logo="https://la.axn.com/themes/custom/responsive_sony_axn/logo.png", AXN HD 
 http://181.78.24.187:8006/play/a005/index.m3u8
@@ -27,7 +27,7 @@ http://190.60.32.178:8178/play/a017/index.m3u8
 http://181.204.79.182:8202/play/a01t
 
 #EXTINF:-1 tvg-chno="10" group-title="Cine" tvg-id="Cine16" tvg-name="CLOVER HD" tvg-logo="https://digitaltv.prensariozone.com/wp-content/uploads/2022/01/Captura-de-pantalla-2022-01-13-171716.png", CLOVER HD 
-http://181.205.77.118:4849/play/a0bh
+http://160.20.165.246:8000/play/a006/index.m3u8
 
 #EXTINF:-1 tvg-chno="11" group-title="Infantil" tvg-id="infantil3" tvg-name="DISCOVERY KIDS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Discovery_kids_logo.png", DISCOVERY KIDS HD 
 http://181.78.8.90:16123/play/ch02
@@ -39,7 +39,7 @@ http://190.0.241.181:8000/play/a02i/index.m3u8
 http://181.205.77.118:4849/play/CH84
 
 #EXTINF:-1 tvg-chno="14" group-title="Infantil" tvg-id="infantil4" tvg-name="DISNEY CHANNEL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Disney_Channel_logo_%282014%29.svg/1200px-Disney_Channel_logo_%282014%29.svg.png", DISNEY CHANNEL HD 
-http://181.78.24.187:8006/play/a066/index.m3u8
+http://181.78.8.90:16123/play/ch03
 
 #EXTINF:-1 tvg-chno="15" group-title="Deportes" tvg-id="deportes1" tvg-name="ESPN 2 HD" tvg-guide="https://www.tdtchannels.com/epg/TV.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1280px-ESPN2_logo.svg.png", ESPN 2 HD 
 http://181.78.24.187:8006/play/a006/index.m3u8
@@ -57,7 +57,7 @@ http://181.205.77.118:4849/play/CH139
 http://181.204.79.182:8202/play/a03h
 
 #EXTINF:-1 tvg-chno="20" group-title="Cocina" tvg-id="cocina2" tvg-name="EL GOURMET HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/El_Gourmet_logo.png", EL GOURMET HD 
-http://181.78.24.187:8006/play/a06a/index.m3u8
+http://181.78.8.90:16123/play/ch27
 
 #EXTINF:-1 tvg-chno="21" group-title="Deportes" tvg-id="deportes6" tvg-name="ESPN 7 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/2560px-ESPN_7_logo.svg.png", ESPN 7 HD 
 http://181.205.77.118:4849/play/CH23
@@ -78,16 +78,16 @@ http://38.43.151.206:8000/play/a056/index.m3u8
 http://38.43.151.206:8000/play/a02t/index.m3u8
 
 #EXTINF:-1 tvg-chno="27" group-title="Musica" tvg-id="Musica2" tvg-name="TRECE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Canal_Trece_logo.svg/1280px-Canal_Trece_logo.svg.png", TRECE 
-http://181.78.71.5:4890/play/a033/index.m3u8
+http://177.93.46.163:8000/play/a02i
 
 #EXTINF:-1 tvg-chno="28" group-title="Documentales" tvg-id="documentales2" tvg-name="HISTORY CHANNEL HD" tvg-logo="https://1000logos.net/wp-content/uploads/2023/01/History-Channel-logo.png", HISTORY CHANNEL HD 
 http://181.78.24.187:8006/play/a001/index.m3u8
 
 #EXTINF:-1 tvg-chno="29" group-title="Documentales" tvg-id="documentales10" tvg-name="ID HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/Logo_id.png", ID HD 
-http://45.166.92.22:58001/play/a01s/index.m3u8
+http://181.205.77.118:4849/play/CH85
 
 #EXTINF:-1 tvg-chno="30" group-title="Documentales" tvg-id="documentales8" tvg-name="LOVE NATURE" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png", LOVE NATURE 
-http://181.78.71.5:4890/play/a04u/index.m3u8
+http://190.60.38.114:1010/play/a08u/index.m3u8
 
 #EXTINF:-1 tvg-chno="31" group-title="Entretenimiento" tvg-id="entretenimiento12" tvg-name="HOLA TV" tvg-logo="https://condista.com/wp-content/uploads/2022/05/holatvdes.jpg", HOLA TV 
 http://181.205.77.118:4849/play/CH123
@@ -150,13 +150,13 @@ http://181.204.79.182:8202/play/a01y
 http://181.205.77.118:4849/play/CH145
 
 #EXTINF:-1 tvg-chno="51" group-title="Entretenimiento" tvg-id="entretenimiento20" tvg-name="SyFy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/Syfylogo.png", SyFy
-http://181.78.71.5:4890/play/a04f/index.m3u8
+http://177.93.46.163:8000/play/a00i
 
 #EXTINF:-1 tvg-chno="52" group-title="Entretenimiento" tvg-id="entretenimiento21" tvg-name="UNIVERSAL CHANNEL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Universal_Channel_Logo_2013.svg/2560px-Universal_Channel_Logo_2013.svg.png", UNIVERSAL CHANNEL HD 
 http://181.205.77.118:4849/play/CH46
 
 #EXTINF:-1 tvg-chno="53" group-title="Cine" tvg-id="cine12" tvg-name="UNIVERSAL PREMIERE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/Universal_Premiere_2021.png", UNIVERSAL PREMIERE HD 
-http://38.252.238.255:6102/play/a02y/index.m3u8
+http://204.157.251.250:8001/play/a02x/index.m3u8
 
 #EXTINF:-1 tvg-chno="54" group-title="Deportes" tvg-id="deportes9" tvg-name="WIN SPORTS HD" tvg-logo="https://files.winsports.co/assets/public/logo.png", WIN SPORTS HD 
 http://181.78.24.187:8006/play/a007/index.m3u8
@@ -252,7 +252,7 @@ http://181.205.77.118:4849/play/CH14
 http://181.205.77.118:4849/play/CH6
 
 #EXTINF:-1 tvg-chno="85" group-title="Nacionales" tvg-id="Nacionales3" tvg-name="CARACOL HD" tvg-logo="https://caracoltv.brightspotcdn.com/dims4/default/0045201/2147483647/strip/true/crop/2048x2048+0+0/resize/120x120!/quality/90/?url=http%3A%2F%2Fcaracol-brightspot.s3.amazonaws.com%2Fe0%2F4f%2Fd0ec59d74f2ba896bc9638e43b9c%2Flogo-ctv.png", CARACOL HD
-http://181.205.77.118:4849/play/a0eq
+http://190.60.38.114:1010/play/a07f/index.m3u8
 
 #EXTINF:-1 tvg-chno="86" group-title="Noticias" tvg-id="noticias2" tvg-name="NTN 24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/NTN24_Logo.png", NTN 24
 http://tv2watch.icu:8080/Craigmack42@gmail.com/Craigmack42@2023/78704
