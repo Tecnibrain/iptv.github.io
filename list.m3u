@@ -75,7 +75,7 @@ http://38.43.151.206:8000/play/a05c/index.m3u8
 http://38.43.151.206:8000/play/a056/index.m3u8
 
 #EXTINF:-1 tvg-chno="26" group-title="Cine" tvg-id="cine5" tvg-name="HBO XTREME" tvg-logo="https://seeklogo.com/images/H/hbo-xtreme-logo-D424105400-seeklogo.com.png", HBO XTREME 
-http://38.43.151.206:8000/play/a02t/index.m3u8
+http://179.1.146.21:8000/play/a071/index.m3u8
 
 #EXTINF:-1 tvg-chno="27" group-title="Musica" tvg-id="Musica2" tvg-name="TRECE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Canal_Trece_logo.svg/1280px-Canal_Trece_logo.svg.png", TRECE 
 http://177.93.46.163:8000/play/a02i
@@ -159,7 +159,7 @@ http://181.205.77.118:4849/play/CH46
 http://45.163.205.110:8000/play/a0h8/index.m3u8
 
 #EXTINF:-1 tvg-chno="54" group-title="Deportes" tvg-id="deportes9" tvg-name="WIN SPORTS HD" tvg-logo="https://files.winsports.co/assets/public/logo.png", WIN SPORTS HD 
-http://177.93.46.163:8000/play/a026
+http://204.199.89.187:14002/play/a00f/index.m3u8
 
 #EXTINF:-1 tvg-chno="55" group-title="Deportes" tvg-id="deportes10" tvg-name="WIN SPORTS+ HD OP1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/WinSportsM%C3%A1s2022.png", WIN SPORTS+ HD OP1
 http://190.60.37.154:45000/play/a00q/index.m3u8
@@ -291,7 +291,7 @@ http://177.93.46.163:8000/play/a01w
 http://190.60.37.154:45000/play/a03a/index.m3u8
 
 #EXTINF:-1 tvg-chno="98" group-title="Cine" tvg-id="cine15" tvg-name="HBO FAMILY HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/HBO_Family_Logo.png", HBO FAMILY HD
-http://38.43.151.206:8000/play/a02s/index.m3u8
+http://181.205.77.118:4849/play/CH44
 
 #EXTINF:-1 tvg-chno="99" group-title="Documentales" tvg-id="documentales6" tvg-name="DISCOVERY TURBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/2560px-Discovery_Turbo_logo.svg.png", DISCOVERY TURBO
 http://181.204.79.182:8202/play/a02d
@@ -327,7 +327,7 @@ http://45.163.205.110:8000/play/a0ha/index.m3u8
 http://45.163.205.110:8000/play/a0i7/index.m3u8
 
 #EXTINF:-1 tvg-chno="110" group-title="Cine" tvg-id="cine20" tvg-name="GOLDEN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Golden_logo.png", GOLDEN
-http://209.45.101.35:50000/play/GoldenHD/index.m3u8
+http://190.60.37.154:45000/play/a01z/index.m3u8
 
 #EXTINF:-1 tvg-chno="111" group-title="Musica" tvg-id="Musica3" tvg-name="HTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/1200px-Htv_logo.svg.png", HTV
 http://181.205.77.118:4849/play/CH95
