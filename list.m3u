@@ -341,20 +341,17 @@ http://190.60.37.154:45000/play/a01k/index.m3u8
 #EXTINF:-1 tvg-chno="114" group-title="Cine" tvg-id="cine22" tvg-name="ADULT SWIM HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/990px-Adult_Swim_2003_logo.svg.png", ADULT SWIM HD
 http://181.205.77.118:4849/play/CH155
 
-#EXTINF:-1 tvg-chno="115" group-title="Deportes" tvg-id="deportes16" tvg-name="DIRECTV SPORTS HD" tvg-logo="https://seeklogo.com/images/D/directv-sports-logo-6F86DBD521-seeklogo.com.png", DIRECTV SPORTS HD
-https://sdmx.vip:443/play/VgIVslUyr-akUE7Ca5WtheUX1KjU-zdN6gjS_zIgAek
-
-#EXTINF:-1 tvg-chno="116" group-title="Cine" tvg-id="cine23" tvg-name="HBO MUNDI HD" tvg-logo="https://seeklogo.com/images/H/hbo-mundi-logo-236F04C9B4-seeklogo.com.png", HBO MUNDI HD
+#EXTINF:-1 tvg-chno="115" group-title="Cine" tvg-id="cine23" tvg-name="HBO MUNDI HD" tvg-logo="https://seeklogo.com/images/H/hbo-mundi-logo-236F04C9B4-seeklogo.com.png", HBO MUNDI HD
 http://181.205.77.118:4849/play/CH68
 
-#EXTINF:-1 tvg-chno="117" group-title="Cine" tvg-id="cine24" tvg-name="GOLDEN PREMIERE HD" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_11/large.large.1689826971_GoldenPremier2020.png.55867f88ed97ec1141ed81ba0f75a494.png.926c708c6f8ba665429c99b39b760a32.png", GOLDEN PREMIERE HD
+#EXTINF:-1 tvg-chno="116" group-title="Cine" tvg-id="cine24" tvg-name="GOLDEN PREMIERE HD" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_11/large.large.1689826971_GoldenPremier2020.png.55867f88ed97ec1141ed81ba0f75a494.png.926c708c6f8ba665429c99b39b760a32.png", GOLDEN PREMIERE HD
 http://45.163.205.110:8000/play/a0fg/index.m3u8
 
-#EXTINF:-1 tvg-chno="118" group-title="Entretenimiento" tvg-id="entretenimiento31" tvg-name="DISCOVERY H&H HD OP2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/H%26h_Logo.svg/2560px-H%26h_Logo.svg.png", DISCOVERY H&H HD OP2
+#EXTINF:-1 tvg-chno="117" group-title="Entretenimiento" tvg-id="entretenimiento31" tvg-name="DISCOVERY H&H HD OP2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/H%26h_Logo.svg/2560px-H%26h_Logo.svg.png", DISCOVERY H&H HD OP2
 http://181.205.77.118:4849/play/CH79
 
-#EXTINF:-1 tvg-chno="119" group-title="Nacionales" tvg-id="Nacionales4" tvg-name="CARACOL HD2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Caracol_HD2_2017.png", CARACOL HD2
+#EXTINF:-1 tvg-chno="118" group-title="Nacionales" tvg-id="Nacionales4" tvg-name="CARACOL HD2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Caracol_HD2_2017.png", CARACOL HD2
 http://181.205.77.118:4849/play/CH142
 
-#EXTINF:-1 tvg-chno="120" group-title="Nacionales" tvg-id="Nacionales6" tvg-name="RCN HD2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/RCN_HD2_2019.png", RCN HD2
+#EXTINF:-1 tvg-chno="119" group-title="Nacionales" tvg-id="Nacionales6" tvg-name="RCN HD2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/RCN_HD2_2019.png", RCN HD2
 http://181.205.77.118:4849/play/RCNHD2
