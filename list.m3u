@@ -74,7 +74,7 @@ http://181.78.105.146:8800/play/a016
 #EXTINF:-1 tvg-chno="25" group-title="Cine" tvg-id="cine4" tvg-name="HBO HD" tvg-logo="https://cdn.mitvstatic.com/channels/co_hbo-hd-este_m.png", HBO HD
 http://190.13.81.218:18000/play/a08u
 
-#EXTINF:-1 tvg-chno="26" group-title="Cine" tvg-id="cine5" tvg-name="HBO XTREME" tvg-logo="https://seeklogo.com/images/H/hbo-xtreme-logo-D424105400-seeklogo.com.png", HBO XTREME 
+#EXTINF:-1 tvg-chno="26" group-title="Cine" tvg-id="cine5" tvg-name="HBO XTREME HD" tvg-logo="https://seeklogo.com/images/H/hbo-xtreme-logo-D424105400-seeklogo.com.png", HBO XTREME HD
 http://190.13.81.218:18000/play/a09a
 
 #EXTINF:-1 tvg-chno="27" group-title="Musica" tvg-id="Musica2" tvg-name="TRECE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Canal_Trece_logo.svg/1280px-Canal_Trece_logo.svg.png", TRECE 
@@ -385,3 +385,9 @@ http://190.13.81.218:18000/play/a03h
 
 #EXTINF:-1 tvg-chno="129" group-title="Documentales" tvg-id="documentales13" tvg-name="HISTORY CHANNEL HD" tvg-logo="https://1000logos.net/wp-content/uploads/2023/01/History-Channel-logo.png", HISTORY CHANNEL HD 
 http://190.13.81.218:18000/play/a05e
+
+#EXTINF:-1 tvg-chno="130" group-title="Cine" tvg-id="cine28" tvg-name="HBO FAMILY SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/HBO_Family_Logo.png", HBO FAMILY SD
+http://181.78.27.128:8000/play/a029/index.m3u8
+
+#EXTINF:-1 tvg-chno="131" group-title="Cine" tvg-id="cine29" tvg-name="HBO XTREME SD" tvg-logo="https://seeklogo.com/images/H/hbo-xtreme-logo-D424105400-seeklogo.com.png", HBO XTREME SD
+http://181.78.27.128:8000/play/a028/index.m3u8
