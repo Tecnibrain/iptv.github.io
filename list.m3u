@@ -63,7 +63,7 @@ http://179.1.146.21:8000/play/a09m/index.m3u8
 http://190.60.32.178:8178/play/a02w/index.m3u8
 
 #EXTINF:-1 tvg-chno="22" group-title="Entretenimiento" tvg-id="entretenimiento9" tvg-name="FX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/1000px-FX_International_logo.svg.png", FX HD 
-http://45.175.139.194:8000/play/43
+http://8.242.176.45:1013/play/a04j/index.m3u8
 
 #EXTINF:-1 tvg-chno="23" group-title="Deportes" tvg-id="deportes7" tvg-name="ESPN 6 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/ESPN_6_logo.svg/2560px-ESPN_6_logo.svg.png", ESPN 6 HD 
 http://190.60.32.178:8178/play/a0aa/index.m3u8
@@ -306,7 +306,7 @@ http://cdn.redtraffic.net/latina.m3u8
 http://181.78.105.146:8800/play/a01a
 
 #EXTINF:-1 tvg-chno="103" group-title="Entretenimiento Adulto" tvg-id="adulto4" tvg-name="VENUS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Canal_Venus_logo_%282%29.svg/800px-Canal_Venus_logo_%282%29.svg.png", VENUS
-http://45.176.193.222:2405/play/a06k
+http://181.78.105.146:8800/play/a02h
 
 #EXTINF:-1 tvg-chno="104" group-title="Cine" tvg-id="cine17" tvg-name="HBO PLUS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png", HBO PLUS HD
 http://181.78.105.146:8800/play/a017
