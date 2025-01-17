@@ -264,7 +264,7 @@ http://190.60.37.154:45000/play/a00a/index.m3u8
 http://181.78.85.59:2500/play/a003/index.m3u8
 
 #EXTINF:-1 tvg-chno="89" group-title="Regionales" tvg-id="Regionales8" tvg-name="TELEANTIOQUIA" tvg-logo="https://teleantioquia.co/Go/wp-content/uploads/2023/04/Recurso-2Go-1024x1024.png", TELEANTIOQUIA
-http://45.175.139.194:8000/play/4
+http://190.13.81.218:18000/play/a00o
 
 #EXTINF:-1 tvg-chno="90" group-title="Regionales" tvg-id="Regionales9" tvg-name="TELECAFE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Telecaf%C3%A9_logo.svg/1280px-Telecaf%C3%A9_logo.svg.png", TELECAFE
 http://181.204.79.182:8202/play/a02i
