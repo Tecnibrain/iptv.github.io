@@ -57,7 +57,7 @@ http://181.78.27.128:8000/play/a064/index.m3u8
 http://190.60.32.178:8178/play/a0bi/index.m3u8
 
 #EXTINF:-1 tvg-chno="20" group-title="Cocina" tvg-id="cocina2" tvg-name="EL GOURMET HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/El_Gourmet_logo.png", EL GOURMET HD 
-http://179.1.146.21:8000/play/a09m/index.m3u8
+http://201.182.248.254:8888/play/a0ai/index.m3u8
 
 #EXTINF:-1 tvg-chno="21" group-title="Deportes" tvg-id="deportes6" tvg-name="ESPN 7 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/2560px-ESPN_7_logo.svg.png", ESPN 7 HD 
 http://190.60.32.178:8178/play/a02w/index.m3u8
@@ -141,7 +141,7 @@ http://190.60.32.178:8178/play/a014/index.m3u8
 http://181.78.27.128:8000/play/a063/index.m3u8
 
 #EXTINF:-1 tvg-chno="48" group-title="Entretenimiento" tvg-id="entretenimiento7" tvg-name="TNT SERIES HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png", TNT SERIES HD 
-http://45.175.139.194:8000/play/44
+http://190.13.81.218:18000/play/a09w
 
 #EXTINF:-1 tvg-chno="49" group-title="Entretenimiento" tvg-id="entretenimiento18" tvg-name="TELEMUNDO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png", TELEMUNDO 
 http://181.78.85.59:2500/play/a01n/index.m3u8
@@ -213,10 +213,10 @@ http://190.13.81.218:18000/play/a0a2
 http://190.13.81.218:18000/play/a00u
 
 #EXTINF:-1 tvg-chno="72" group-title="Deportes" tvg-id="deportes14" tvg-name="GolTv HD" tvg-logo="https://w7.pngwing.com/pngs/900/439/png-transparent-television-channel-gol-tv-cnt-sports-zee-tv-logo-television-logo-logo-vector.png", GolTv HD
-http://179.1.146.21:8000/play/a022/index.m3u8
+http://181.78.105.146:2000/play/a094/index.m3u8
 
 #EXTINF:-1 tvg-chno="73" group-title="Cine" tvg-id="cine13" tvg-name="GOLDEN PLUS HD" tvg-logo="https://archive.org/download/logo.brootv_golden/GOLDEN_PLUS.png", GOLDEN PLUS HD
-http://179.1.146.21:8000/play/a01z/index.m3u8
+http://201.182.248.254:8888/play/a0aw/index.m3u8
 
 #EXTINF:-1 tvg-chno="74" group-title="Documentales" tvg-id="documentales5" tvg-name="HISTORY 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/History2Logo2019.png/640px-History2Logo2019.png", HISTORY 2 HD
 http://181.78.105.146:8800/play/a021
@@ -276,7 +276,7 @@ http://190.60.37.154:45000/play/a04v/index.m3u8
 http://181.78.85.59:2500/play/a009/index.m3u8
 
 #EXTINF:-1 tvg-chno="93" group-title="Regionales" tvg-id="Regionales12" tvg-name="CABLE NOTICIAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Cable_Noticias_logo.svg/1200px-Cable_Noticias_logo.svg.png", CABLE NOTICIAS
-http://45.175.139.194:8000/play/79
+http://8.242.176.45:1013/play/a0ju/index.m3u8
 
 #EXTINF:-1 tvg-chno="94" group-title="Regionales" tvg-id="Regionales13" tvg-name="CANAL CAPITAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/2020_Canal_Capital_logo.svg/640px-2020_Canal_Capital_logo.svg.png", CANAL CAPITAL
 http://181.204.79.182:8202/play/a03o
@@ -297,7 +297,7 @@ http://181.78.105.146:8800/play/a018
 http://181.204.79.182:8202/play/a02d
 
 #EXTINF:-1 tvg-chno="100" group-title="Cine" tvg-id="cine6" tvg-name="DE PELICULA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/De_pelicula_logo.png", DE PELICULA
-http://45.175.139.194:8000/play/37
+http://190.60.38.114:1010/play/a08f/index.m3u8
 
 #EXTINF:-1 tvg-chno="101" group-title="Entretenimiento Adulto" tvg-id="adulto2" tvg-name="MYCAMTV LATINA" tvg-logo="https://mytv.cam/upload/My-TV.png", MYCAMTV LATINA
 http://cdn.redtraffic.net/latina.m3u8
@@ -333,7 +333,7 @@ http://190.60.37.154:45000/play/a01z/index.m3u8
 http://190.13.81.218:18000/play/a0a3
 
 #EXTINF:-1 tvg-chno="112" group-title="Cine" tvg-id="cine21" tvg-name="HBO POP HD" tvg-logo="https://seeklogo.com/images/H/hbo-pop-logo-10AD275431-seeklogo.com.png", HBO POP HD
-http://179.1.146.21:8000/play/a03r/index.m3u8
+http://181.209.95.29:8000/play/a0at/index.m3u8
 
 #EXTINF:-1 tvg-chno="113" group-title="Religioso" tvg-id="Religioso3" tvg-name="TELEVID" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/Logo_Tele_VID.png", TELEVID
 http://190.60.37.154:45000/play/a01k/index.m3u8
