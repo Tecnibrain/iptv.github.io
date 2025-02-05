@@ -348,7 +348,7 @@ http://181.209.95.29:8000/play/a02a/index.m3u8
 http://201.182.248.254:8888/play/a0av/index.m3u8
 
 #EXTINF:-1 tvg-chno="117" group-title="Entretenimiento" tvg-id="entretenimiento31" tvg-name="DISCOVERY H&H HD OP2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/H%26h_Logo.svg/2560px-H%26h_Logo.svg.png", DISCOVERY H&H HD OP2
-http://190.60.37.154:45000/play/a059/index.m3u8
+http://190.60.40.35:12500/play/a0cw/index.m3u8
 
 #EXTINF:-1 tvg-chno="118" group-title="Nacionales" tvg-id="Nacionales4" tvg-name="CARACOL HD2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Caracol_HD2_2017.png", CARACOL HD2
 http://45.175.139.194:8000/play/a04j
