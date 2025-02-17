@@ -385,3 +385,6 @@ http://190.60.37.154:45000/play/a056/index.m3u8
 
 #EXTINF:-1 tvg-chno="129" group-title="Documentales" tvg-id="documentales13" tvg-name="HISTORY CHANNEL SD" tvg-logo="https://1000logos.net/wp-content/uploads/2023/01/History-Channel-logo.png", HISTORY CHANNEL SD 
 http://181.78.85.59:2500/play/a00g/index.m3u8
+
+#EXTINF:-1 tvg-chno="130" group-title="Regionales" tvg-id="Regionales16" tvg-name="RED + HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/34/Red%2B_2018_logo.png", RED + HD
+https://inforedvos.lcdn.claro.net.co/Content/HLS_HLS_DIR/Live/channel(REDMASHDWEB)/master.m3u8?checkedby:alliptvlinks.com
