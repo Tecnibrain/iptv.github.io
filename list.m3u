@@ -33,7 +33,7 @@ http://160.20.165.246:8000/play/a006/index.m3u8
 http://8.242.176.45:1013/play/a01q/index.m3u8
 
 #EXTINF:-1 tvg-chno="12" group-title="Documentales" tvg-id="documentales1" tvg-name="DISCOVERY THEATER HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/320px-2015_Discovery_theater_HD_logo.svg.png", DISCOVERY THEATER HD 
-http://8.242.176.45:1013/play/a0jt/index.m3u8
+http://181.78.105.146:8800/play/a061
 
 #EXTINF:-1 tvg-chno="13" group-title="Documentales" tvg-id="documentales9" tvg-name="DISCOVERY WORLD HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/1200px-World_Discovery_HD_logo.svg.png", DISCOVERY WORLD HD
 http://8.242.176.45:1013/play/a0jo/index.m3u8
@@ -42,7 +42,7 @@ http://8.242.176.45:1013/play/a0jo/index.m3u8
 http://190.60.32.178:8178/play/a0b4/index.m3u8
 
 #EXTINF:-1 tvg-chno="15" group-title="Deportes" tvg-id="deportes1" tvg-name="ESPN 2 HD" tvg-guide="https://www.tdtchannels.com/epg/TV.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1280px-ESPN2_logo.svg.png", ESPN 2 HD 
-http://200.59.188.3:8000/play/a013
+http://190.13.81.218:18000/play/a0gy
 
 #EXTINF:-1 tvg-chno="16" group-title="Deportes" tvg-id="deportes2" tvg-name="ESPN 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png", ESPN 3 HD 
 http://190.60.32.178:8178/play/a015/index.m3u8
@@ -159,7 +159,7 @@ http://201.182.248.254:8888/play/a0az/index.m3u8
 http://38.252.238.255:6102/play/a02y/index.m3u8
 
 #EXTINF:-1 tvg-chno="54" group-title="Deportes" tvg-id="deportes9" tvg-name="WIN SPORTS HD" tvg-logo="https://files.winsports.co/assets/public/logo.png", WIN SPORTS HD 
-http://190.60.32.178:8178/play/a0fk/index.m3u8
+http://181.78.85.59:2500/play/a030/index.m3u8
 
 #EXTINF:-1 tvg-chno="55" group-title="Deportes" tvg-id="deportes10" tvg-name="WIN SPORTS+ HD OP1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/WinSportsM%C3%A1s2022.png", WIN SPORTS+ HD OP1
 http://190.60.37.154:45000/play/a00q/index.m3u8
@@ -168,7 +168,7 @@ http://190.60.37.154:45000/play/a00q/index.m3u8
 http://181.204.79.182:8202/play/a00q
 
 #EXTINF:-1 tvg-chno="57" group-title="Deportes" tvg-id="deportes11" tvg-name="WIN SPORTS+ HD OP2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/WinSportsM%C3%A1s2022.png", WIN SPORTS+ HD OP2
-http://190.60.37.154:45000/play/a00q/index.m3u8
+http://190.13.81.218:18000/play/a0cs
 
 #EXTINF:-1 tvg-chno="58" group-title="Religioso" tvg-id="Religioso2" tvg-name="EWTN" tvg-logo="https://www.rapidcitydiocese.org/wp-content/uploads/2020/03/ewtn-logo.jpg", EWTN
 http://38.252.238.255:6102/play/a00z/index.m3u8
@@ -246,13 +246,13 @@ http://201.182.248.254:8888/play/a0an/index.m3u8
 http://190.60.37.154:45000/play/a045/index.m3u8
 
 #EXTINF:-1 tvg-chno="83" group-title="Deportes" tvg-id="deportes15" tvg-name="WIN SPORTS+ HD OP3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/WinSportsM%C3%A1s2022.png", WIN SPORTS+ HD OP3
-http://190.13.81.218:18000/play/a0bt
+http://190.13.81.218:18000/play/a0cs
 
 #EXTINF:-1 tvg-chno="84" group-title="Nacionales" tvg-id="Nacionales2" tvg-name="CANAL 1 HD" tvg-logo="https://images.canal1.com.co/site/images/logo_1_como_tu_color.png", CANAL 1 HD
 http://181.78.85.59:2500/play/a001/index.m3u8
 
 #EXTINF:-1 tvg-chno="85" group-title="Nacionales" tvg-id="Nacionales3" tvg-name="CARACOL HD" tvg-logo="https://caracoltv.brightspotcdn.com/dims4/default/0045201/2147483647/strip/true/crop/2048x2048+0+0/resize/120x120!/quality/90/?url=http%3A%2F%2Fcaracol-brightspot.s3.amazonaws.com%2Fe0%2F4f%2Fd0ec59d74f2ba896bc9638e43b9c%2Flogo-ctv.png", CARACOL HD
-http://190.60.32.178:8178/play/a0bh/index.m3u8
+http://190.0.241.181:8000/play/a09o/index.m3u8
 
 #EXTINF:-1 tvg-chno="86" group-title="Noticias" tvg-id="noticias2" tvg-name="NTN 24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/NTN24_Logo.png", NTN 24
 http://160.20.165.246:8000/play/a00y/index.m3u8
@@ -385,9 +385,3 @@ http://190.60.37.154:45000/play/a056/index.m3u8
 
 #EXTINF:-1 tvg-chno="129" group-title="Documentales" tvg-id="documentales13" tvg-name="HISTORY CHANNEL SD" tvg-logo="https://1000logos.net/wp-content/uploads/2023/01/History-Channel-logo.png", HISTORY CHANNEL SD 
 http://181.78.85.59:2500/play/a00g/index.m3u8
-
-#EXTINF:-1 tvg-chno="130" group-title="Cine" tvg-id="cine28" tvg-name="HBO FAMILY SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/HBO_Family_Logo.png", HBO FAMILY SD
-http://181.78.27.128:8000/play/a029/index.m3u8
-
-#EXTINF:-1 tvg-chno="131" group-title="Cine" tvg-id="cine29" tvg-name="HBO XTREME SD" tvg-logo="https://seeklogo.com/images/H/hbo-xtreme-logo-D424105400-seeklogo.com.png", HBO XTREME SD
-http://181.78.27.128:8000/play/a028/index.m3u8
