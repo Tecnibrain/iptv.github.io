@@ -78,7 +78,7 @@ http://181.78.105.146:8800/play/a015
 http://181.78.105.146:8800/play/a019
 
 #EXTINF:-1 tvg-chno="27" group-title="Musica" tvg-id="Musica2" tvg-name="TRECE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Canal_Trece_logo.svg/1280px-Canal_Trece_logo.svg.png", TRECE 
-http://181.209.95.29:8000/play/a06d/index.m3u8
+http://201.182.248.254:8888/play/a03v/index.m3u8
 
 #EXTINF:-1 tvg-chno="28" group-title="Documentales" tvg-id="documentales2" tvg-name="HISTORY CHANNEL HD" tvg-logo="https://1000logos.net/wp-content/uploads/2023/01/History-Channel-logo.png", HISTORY CHANNEL HD 
 http://190.60.38.114:1010/play/a02a/index.m3u8
@@ -177,7 +177,7 @@ http://201.182.248.254:8888/play/a04o/index.m3u8
 http://181.78.105.146:8800/play/a04o
 
 #EXTINF:-1 tvg-chno="60" group-title="Entretenimiento" tvg-id="entretenimiento22" tvg-name="CANAL 13 HD" tvg-logo="https://seeklogo.com/images/C/canal-trece-colombia-2005-2012-logo-CF87FBA249-seeklogo.com.png", CANAL 13 HD
-http://181.78.85.59:2500/play/a006/index.m3u8
+http://190.13.81.218:18000/play/a0hj
 
 #EXTINF:-1 tvg-chno="61" group-title="Regionales" tvg-id="Regionales1" tvg-name="TELEISLAS" tvg-logo="https://teleislas.gov.co/wp-content/uploads/2019/07/cropped-Teleislas_Logo.png", TELEISLAS
 http://190.60.37.154:45000/play/a04i/index.m3u8
