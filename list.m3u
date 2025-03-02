@@ -341,7 +341,6 @@ http://190.60.37.154:45000/play/a01k/index.m3u8
 
 #EXTINF:-1 tvg-chno="114" group-title="Cine" tvg-id="cine22" tvg-name="ADULT SWIM HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/990px-Adult_Swim_2003_logo.svg.png", ADULT SWIM HD
 http://190.0.241.181:8000/play/a0al/index.m3u8
-http://201.182.248.254:8888/play/a0br/index.m3u8
 
 #EXTINF:-1 tvg-chno="115" group-title="Cine" tvg-id="cine23" tvg-name="HBO MUNDI HD" tvg-logo="https://seeklogo.com/images/H/hbo-mundi-logo-236F04C9B4-seeklogo.com.png", HBO MUNDI HD
 http://181.209.95.29:8000/play/a02a/index.m3u8
