@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-chno="1" group-title="Deportes" tvg-id="deportes1" tvg-name="WIN SPORTS HD" tvg-logo="https://files.winsports.co/assets/public/logo.png", WIN SPORTS HD 
+http://181.78.85.59:2500/play/a030/index.m3u8
