@@ -168,7 +168,7 @@ http://190.60.32.178:8178/play/a0au/index.m3u8
 http://181.78.105.146:8800/play/a04f
 
 #EXTINF:-1 tvg-chno="57" group-title="Deportes" tvg-id="deportes11" tvg-name="WIN SPORTS+ HD OP2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/WinSportsM%C3%A1s2022.png", WIN SPORTS+ HD OP2
-http://190.60.50.83:18000/play/a062
+http://190.60.37.154:45000/play/a00q/index.m3u8
 
 #EXTINF:-1 tvg-chno="58" group-title="Religioso" tvg-id="Religioso2" tvg-name="EWTN" tvg-logo="https://www.rapidcitydiocese.org/wp-content/uploads/2020/03/ewtn-logo.jpg", EWTN
 http://201.182.248.254:8888/play/a04o/index.m3u8
