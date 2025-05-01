@@ -24,13 +24,13 @@ http://190.60.37.154:45000/play/a02u/index.m3u8
 http://201.182.248.254:8888/play/a0aa/index.m3u8
 
 #EXTINF:-1 tvg-chno="9" group-title="Entretenimiento" tvg-id="entretenimiento6" tvg-name="TLC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/TLC_logo_%282023%29.svg/1200px-TLC_logo_%282023%29.svg.png", TLC
-http://181.78.105.146:2000/play/a03h
+http://80.80.91.195:8000/play/a052/index.m3u8
 
 #EXTINF:-1 tvg-chno="10" group-title="Cine" tvg-id="Cine16" tvg-name="CLOVER HD" tvg-logo="https://digitaltv.prensariozone.com/wp-content/uploads/2022/01/Captura-de-pantalla-2022-01-13-171716.png", CLOVER HD 
 http://160.20.165.246:8000/play/a006/index.m3u8
 
 #EXTINF:-1 tvg-chno="11" group-title="Infantil" tvg-id="infantil3" tvg-name="DISCOVERY KIDS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Discovery_kids_logo.png", DISCOVERY KIDS HD 
-http://201.182.248.254:8888/play/a0b5/index.m3u8
+http://80.80.91.195:8000/play/a02s/index.m3u8
 
 #EXTINF:-1 tvg-chno="12" group-title="Documentales" tvg-id="documentales1" tvg-name="DISCOVERY THEATER HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/320px-2015_Discovery_theater_HD_logo.svg.png", DISCOVERY THEATER HD 
 http://190.60.37.154:45000/play/a05g/index.m3u8
@@ -81,7 +81,7 @@ http://181.78.109.48:8000/play/a01b/index.m3u8
 http://201.182.248.254:8888/play/a03v/index.m3u8
 
 #EXTINF:-1 tvg-chno="28" group-title="Documentales" tvg-id="documentales2" tvg-name="HISTORY CHANNEL HD" tvg-logo="https://1000logos.net/wp-content/uploads/2023/01/History-Channel-logo.png", HISTORY CHANNEL HD 
-http://190.60.38.114:1010/play/a02a/index.m3u8
+http://80.80.91.195:8000/play/a040/index.m3u8
 
 #EXTINF:-1 tvg-chno="29" group-title="Documentales" tvg-id="documentales10" tvg-name="Discovery ID HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/Logo_id.png", Discovery ID HD 
 http://181.78.109.48:8000/play/a069/index.m3u8
@@ -144,10 +144,10 @@ http://181.209.95.29:8000/play/a02s/index.m3u8
 http://190.0.241.181:8000/play/a09l/index.m3u8
 
 #EXTINF:-1 tvg-chno="49" group-title="Entretenimiento" tvg-id="entretenimiento18" tvg-name="TELEMUNDO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png", TELEMUNDO 
-http://190.0.241.181:8000/play/a0cb/index.m3u8
+http://80.80.91.195:8000/play/a0d1/index.m3u8
 
 #EXTINF:-1 tvg-chno="50" group-title="Entretenimiento" tvg-id="entretenimiento19" tvg-name="TV+ HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/TV%2B_%282018%29.png", TV+ HD 
-http://201.182.248.254:8888/play/a099/index.m3u8
+http://201.182.248.254:8888/play/a0b7/index.m3u8
 
 #EXTINF:-1 tvg-chno="51" group-title="Entretenimiento" tvg-id="entretenimiento20" tvg-name="SyFy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/Syfylogo.png", SyFy
 http://160.20.165.246:8000/play/a01e/index.m3u8
@@ -168,7 +168,7 @@ http://190.60.37.154:45000/play/a00q/index.m3u8
 http://80.80.91.195:8000/play/a03y/index.m3u8
 
 #EXTINF:-1 tvg-chno="57" group-title="Deportes" tvg-id="deportes11" tvg-name="WIN SPORTS+ HD OP2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/WinSportsM%C3%A1s2022.png", WIN SPORTS+ HD OP2
-http://190.60.37.154:45000/play/a00q/index.m3u8
+http://177.8.76.2:8000/play/a0mz
 
 #EXTINF:-1 tvg-chno="58" group-title="Religioso" tvg-id="Religioso2" tvg-name="EWTN" tvg-logo="https://www.rapidcitydiocese.org/wp-content/uploads/2020/03/ewtn-logo.jpg", EWTN
 http://201.182.248.254:8888/play/a04o/index.m3u8
@@ -189,7 +189,7 @@ http://181.209.95.29:8000/play/a02x/index.m3u8
 http://190.0.241.181:8000/play/a0cw/index.m3u8
 
 #EXTINF:-1 tvg-chno="64" group-title="Entretenimiento" tvg-id="entretenimiento25" tvg-name="DISCOVERY H&H HD OP1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/H%26h_Logo.svg/2560px-H%26h_Logo.svg.png", DISCOVERY H&H HD OP1
-http://201.182.248.254:8888/play/a0b6/index.m3u8
+http://80.80.91.195:8000/play/a09o/index.m3u8
 
 #EXTINF:-1 tvg-chno="65" group-title="Documentales" tvg-id="documentales4" tvg-name="DISCOVERY CHANNEL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Discovery_Channel_-_Logo_2019.svg/1200px-Discovery_Channel_-_Logo_2019.svg.png", DISCOVERY CHANNEL HD
 http://80.80.91.195:8000/play/a0a4/index.m3u8
@@ -204,7 +204,7 @@ http://181.78.109.48:8000/play/a02t/index.m3u8
 http://190.60.37.154:45000/play/a04c/index.m3u8
 
 #EXTINF:-1 tvg-chno="69" group-title="Cocina" tvg-id="cocina1" tvg-name="FOOD NETWORK HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Food_Network_logo.svg/2048px-Food_Network_logo.svg.png", FOOD NETWORK HD
-http://190.0.241.181:8000/play/a0ac/index.m3u8
+http://190.102.246.93:9005/play/a03a?checkedby:alliptvlinks.com
 
 #EXTINF:-1 tvg-chno="70" group-title="Deportes" tvg-id="deportes13" tvg-name="ESPN PREMIUM HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/ESPN_Premium_logo.png", ESPN PREMIUM HD
 http://201.182.248.254:8888/play/a0cp/index.m3u8
@@ -213,7 +213,7 @@ http://201.182.248.254:8888/play/a0cp/index.m3u8
 http://190.60.37.154:45000/play/a036/index.m3u8
 
 #EXTINF:-1 tvg-chno="72" group-title="Deportes" tvg-id="deportes14" tvg-name="GolTv HD" tvg-logo="https://w7.pngwing.com/pngs/900/439/png-transparent-television-channel-gol-tv-cnt-sports-zee-tv-logo-television-logo-logo-vector.png", GolTv HD
-http://181.78.105.146:2000/play/a094/index.m3u8
+http://209.45.81.84:8000/play/a054/index.m3u8
 
 #EXTINF:-1 tvg-chno="73" group-title="Cine" tvg-id="cine13" tvg-name="GOLDEN PLUS HD" tvg-logo="https://archive.org/download/logo.brootv_golden/GOLDEN_PLUS.png", GOLDEN PLUS HD
 http://201.182.248.254:8888/play/a0aw/index.m3u8
@@ -276,16 +276,16 @@ http://190.60.37.154:45000/play/a04v/index.m3u8
 http://190.60.37.154:45000/play/a058/index.m3u8
 
 #EXTINF:-1 tvg-chno="93" group-title="Regionales" tvg-id="Regionales12" tvg-name="CABLE NOTICIAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Cable_Noticias_logo.svg/1200px-Cable_Noticias_logo.svg.png", CABLE NOTICIAS
-http://190.60.50.83:18000/play/a04y
+http://201.182.248.254:8888/play/a0bt/index.m3u8
 
 #EXTINF:-1 tvg-chno="94" group-title="Regionales" tvg-id="Regionales13" tvg-name="CANAL CAPITAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/2020_Canal_Capital_logo.svg/640px-2020_Canal_Capital_logo.svg.png", CANAL CAPITAL
 http://190.60.37.154:45000/play/a04k/index.m3u8
 
 #EXTINF:-1 tvg-chno="95" group-title="Regionales" tvg-id="Regionales14" tvg-name="CANAL TRO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Canal_tro_logo.PNG", CANAL TRO
-http://190.60.50.83:18000/play/a05e
+http://177.8.76.2:8000/play/a0qe
 
 #EXTINF:-1 tvg-chno="96" group-title="Regionales" tvg-id="Regionales15" tvg-name="CityTv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/CityTV_Logo_2023_Naranja.webp/768px-CityTV_Logo_2023_Naranja.webp.png", CityTv
-http://190.60.50.83:18000/play/a04f
+http://177.8.76.2:8000/play/a0qh
 
 #EXTINF:-1 tvg-chno="97" group-title="Infantil" tvg-id="infantil8" tvg-name="DISNEY JUNIOR" tvg-logo="https://c0.klipartz.com/pngpicture/362/350/gratis-png-disney-junior-logo-disney-la-chaine-los-graficos-de-walt-disney-company-disney-junior-logo-thumbnail.png", DISNEY JUNIOR
 http://190.60.37.154:45000/play/a03a/index.m3u8
@@ -330,7 +330,7 @@ http://80.80.91.195:8000/play/a0a7/index.m3u8
 http://190.60.37.154:45000/play/a01z/index.m3u8
 
 #EXTINF:-1 tvg-chno="111" group-title="Musica" tvg-id="Musica3" tvg-name="HTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/1200px-Htv_logo.svg.png", HTV
-http://190.60.50.83:18000/play/a06j
+http://80.80.91.195:8000/play/a04j/index.m3u8
 
 #EXTINF:-1 tvg-chno="112" group-title="Cine" tvg-id="cine21" tvg-name="HBO POP HD" tvg-logo="https://seeklogo.com/images/H/hbo-pop-logo-10AD275431-seeklogo.com.png", HBO POP HD
 http://179.1.146.21:8000/play/a03r/index.m3u8
@@ -354,7 +354,7 @@ http://190.60.40.35:12500/play/a0cw/index.m3u8
 http://190.102.123.28:8097/play/a0d2/index.m3u8
 
 #EXTINF:-1 tvg-chno="119" group-title="Nacionales" tvg-id="Nacionales6" tvg-name="RCN HD2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/RCN_HD2_2019.png", RCN HD2
-http://190.60.50.83:18000/play/a02c
+http://190.60.40.35:12500/play/a06l/index.m3u8
 
 #EXTINF:-1 tvg-chno="120" group-title="Nacionales" tvg-id="Nacionales7" tvg-name="CARACOL SD" tvg-logo="https://caracoltv.brightspotcdn.com/dims4/default/0045201/2147483647/strip/true/crop/2048x2048+0+0/resize/120x120!/quality/90/?url=http%3A%2F%2Fcaracol-brightspot.s3.amazonaws.com%2Fe0%2F4f%2Fd0ec59d74f2ba896bc9638e43b9c%2Flogo-ctv.png", CARACOL SD
 http://190.60.37.154:45000/play/a04a/index.m3u8
@@ -363,13 +363,13 @@ http://190.60.37.154:45000/play/a04a/index.m3u8
 http://190.60.37.154:45000/play/a04b/index.m3u8
 
 #EXTINF:-1 tvg-chno="122" group-title="Documentales" tvg-id="documentales11" tvg-name="ANIMAL PLANET SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1067px-2018_Animal_Planet_logo.svg.png", ANIMAL PLANET SD
-http://190.60.50.83:18000/play/a08f
+http://80.80.91.195:8000/play/a050/index.m3u8
 
 #EXTINF:-1 tvg-chno="123" group-title="Documentales" tvg-id="documentales12" tvg-name="DISCOVERY CHANNEL SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Discovery_Channel_-_Logo_2019.svg/1200px-Discovery_Channel_-_Logo_2019.svg.png", DISCOVERY CHANNEL SD
-http://190.60.50.83:18000/play/a08g
+http://80.80.91.195:8000/play/a04z/index.m3u8
 
 #EXTINF:-1 tvg-chno="124" group-title="Entretenimiento" tvg-id="entretenimiento32" tvg-name="DISCOVERY H&H SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/H%26h_Logo.svg/2560px-H%26h_Logo.svg.png", DISCOVERY H&H SD
-http://190.60.38.114:1010/play/a06q/index.m3u8
+http://181.78.109.48:8000/play/a05e/index.m3u8
 
 #EXTINF:-1 tvg-chno="125" group-title="Infantil" tvg-id="infantil19" tvg-name="DISCOVERY KIDS SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Discovery_kids_logo.png", DISCOVERY KIDS SD
 http://160.20.165.246:8000/play/a016/index.m3u8
