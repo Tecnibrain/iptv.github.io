@@ -252,7 +252,7 @@ http://190.60.40.35:12500/play/WINMAS/index.m3u8
 http://cord-cutter.net:8080/zcJ8BG/214917/78698
 
 #EXTINF:-1 tvg-chno="85" group-title="Nacionales" tvg-id="Nacionales3" tvg-name="CARACOL HD" tvg-logo="https://caracoltv.brightspotcdn.com/dims4/default/0045201/2147483647/strip/true/crop/2048x2048+0+0/resize/120x120!/quality/90/?url=http%3A%2F%2Fcaracol-brightspot.s3.amazonaws.com%2Fe0%2F4f%2Fd0ec59d74f2ba896bc9638e43b9c%2Flogo-ctv.png", CARACOL HD
-http://177.8.76.2:8000/play/a0mf
+http://45.68.35.218:4001/play/a01y/index.m3u8
 
 #EXTINF:-1 tvg-chno="86" group-title="Noticias" tvg-id="noticias2" tvg-name="NTN 24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/NTN24_Logo.png", NTN 24
 http://160.20.165.246:8000/play/a00y/index.m3u8
