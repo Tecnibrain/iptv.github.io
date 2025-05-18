@@ -110,7 +110,7 @@ http://201.182.248.254:8888/play/a0ac/index.m3u8
 #EXTINF:-1 tvg-chno="37" group-title="Novelas" tvg-id="novelas1" tvg-name="PASIONES HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pasiones_Tv_logo.svg/2560px-Pasiones_Tv_logo.svg.png", PASIONES HD 
 http://80.80.91.195:8000/play/a0a6/index.m3u8
 
-#EXTINF:-1 tvg-chno="38" group-title="Entretenimiento Adulto" tvg-id="adulto1" tvg-name="MYCAMTV PORNSTAR" tvg-logo="https://mytv.cam/upload/My-TV.png", MYCAMTV
+#EXTINF:-1 tvg-chno="38" group-title="Entretenimiento Adulto" tvg-id="adulto1" tvg-name="MYCAMTV PORNSTAR" tvg-logo="https://assets.strpst.com/assets/icons/headerlogo_mycamtv.com.png", MYCAMTV
 http://cdn.redtraffic.net/pornstar.m3u8
 
 #EXTINF:-1 tvg-chno="39" group-title="Nacionales" tvg-id="Nacionales1" tvg-name="RCN HD" tvg-logo="https://imagenes.canalrcn.com/CanalRCN/imagen-compartir-canal.jpg", RCN HD 
@@ -299,7 +299,7 @@ http://190.60.37.154:45000/play/a04s/index.m3u8
 #EXTINF:-1 tvg-chno="100" group-title="Cine" tvg-id="cine6" tvg-name="DE PELICULA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/De_pelicula_logo.png", DE PELICULA
 http://190.61.116.155:7000/play/a0af
 
-#EXTINF:-1 tvg-chno="101" group-title="Entretenimiento Adulto" tvg-id="adulto2" tvg-name="MYCAMTV LATINA" tvg-logo="https://mytv.cam/upload/My-TV.png", MYCAMTV LATINA
+#EXTINF:-1 tvg-chno="101" group-title="Entretenimiento Adulto" tvg-id="adulto2" tvg-name="MYCAMTV LATINA" tvg-logo="https://assets.strpst.com/assets/icons/headerlogo_mycamtv.com.png", MYCAMTV LATINA
 http://cdn.redtraffic.net/latina.m3u8
 
 #EXTINF:-1 tvg-chno="102" group-title="Entretenimiento Adulto" tvg-id="adulto3" tvg-name="PLAYBOY" tvg-logo="https://w7.pngwing.com/pngs/661/645/png-transparent-playboy-hd-logo-thumbnail.png", PLAYBOY
