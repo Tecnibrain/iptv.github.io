@@ -390,11 +390,7 @@ http://190.60.37.154:45000/play/a02t/index.m3u8
 https://inforedvos.lcdn.claro.net.co/Content/HLS_HLS_DIR/Live/channel(REDMASHDWEB)/06.m3u8
 
 #EXTINF:-1 tvg-chno="131" group-title="Entretenimiento Adulto" tvg-id="adulto5" tvg-name=" Bazzers FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1HWGNc83HguMs48kFsq7p9lY34YxI1EbMtA&s", Bazzers FHD
-http://88.212.7.11/live/test_brazzers_hd_hevc/playlist.m3u8
+https://hidra.live:443/eufTQNgNXv/ojxBLcjY/338144
 
-#EXTINF:-1 tvg-id="Win.Sports.Premium(Win+).co" tvg-name="COL | WIN SPORTS+  (Op.1)" tvg-logo="https://www.winsportsmas.com/sites/default/files/inline-images/WinfutbolNaranja.png" group-title="✅️LIGA COLOMBIANA (WIN SPORTS)",COL | WIN SPORTS+  (Op.1)
-http://socketevolution.online:8080/MarcoCast9337/D334MW9/335222
-#EXTINF:-1 tvg-id="Win.Sports.Premium(Win+).co" tvg-name="COL | WIN SPORTS+ ᴴᴰ (Op.2)" tvg-logo="https://www.winsportsmas.com/sites/default/files/inline-images/WinfutbolNaranja.png" group-title="✅️LIGA COLOMBIANA (WIN SPORTS)",COL | WIN SPORTS+ ᴴᴰ (Op.2)
-http://socketevolution.online:8080/MarcoCast9337/D334MW9/335224
-#EXTINF:-1 tvg-id="" tvg-name="COL | WIN SPORTS+ ᴴᴰ (Op.3)" tvg-logo="https://www.winsportsmas.com/sites/default/files/inline-images/WinfutbolNaranja.png" group-title="✅️LIGA COLOMBIANA (WIN SPORTS)",COL | WIN SPORTS+ ᴴᴰ (Op.3)
-http://socketevolution.online:8080/MarcoCast9337/D334MW9/472064
+#EXTINF:-1 tvg-chno="132" group-title="Entretenimiento Adulto" tvg-id="adulto6" tvg-name="CzechAmateurs.com HD" tvg-logo="http://swedtv.vip/logos/onlyadult.png", CzechAmateurs.com HD
+https://hidra.live:443/eufTQNgNXv/ojxBLcjY/338145
