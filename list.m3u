@@ -389,5 +389,5 @@ http://190.60.37.154:45000/play/a02t/index.m3u8
 #EXTINF:-1 tvg-chno="130" group-title="Regionales" tvg-id="Regionales16" tvg-name="RED + HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/34/Red%2B_2018_logo.png", RED + HD
 https://inforedvos.lcdn.claro.net.co/Content/HLS_HLS_DIR/Live/channel(REDMASHDWEB)/06.m3u8
 
-#EXTINF:-1 tvg-chno="38" group-title="Entretenimiento Adulto" tvg-id="adulto5" tvg-name=" Bazzers FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1HWGNc83HguMs48kFsq7p9lY34YxI1EbMtA&s", Bazzers FHD
+#EXTINF:-1 tvg-chno="131" group-title="Entretenimiento Adulto" tvg-id="adulto5" tvg-name=" Bazzers FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1HWGNc83HguMs48kFsq7p9lY34YxI1EbMtA&s", Bazzers FHD
 http://88.212.7.11/live/test_brazzers_hd_hevc/playlist.m3u8
