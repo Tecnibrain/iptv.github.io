@@ -150,7 +150,7 @@ http://80.80.91.195:8000/play/a0d1/index.m3u8
 http://201.182.248.254:8888/play/a0b7/index.m3u8
 
 #EXTINF:-1 tvg-chno="51" group-title="Entretenimiento" tvg-id="entretenimiento20" tvg-name="SyFy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/Syfylogo.png", SyFy
-http://160.20.165.246:8000/play/a01e/index.m3u8
+http://201.182.248.254:8888/play/a09z/index.m3u8
 
 #EXTINF:-1 tvg-chno="52" group-title="Entretenimiento" tvg-id="entretenimiento21" tvg-name="UNIVERSAL CHANNEL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Universal_Channel_Logo_2013.svg/2560px-Universal_Channel_Logo_2013.svg.png", UNIVERSAL CHANNEL HD 
 http://201.182.248.254:8888/play/a0d8/index.m3u8
@@ -216,7 +216,7 @@ http://190.60.37.154:45000/play/a036/index.m3u8
 http://209.45.81.84:8000/play/a054/index.m3u8
 
 #EXTINF:-1 tvg-chno="73" group-title="Cine" tvg-id="cine13" tvg-name="GOLDEN PLUS HD" tvg-logo="https://archive.org/download/logo.brootv_golden/GOLDEN_PLUS.png", GOLDEN PLUS HD
-http://201.182.248.254:8888/play/a0aw/index.m3u8
+https://hidra.live:443/eufTQNgNXv/ojxBLcjY/34989
 
 #EXTINF:-1 tvg-chno="74" group-title="Documentales" tvg-id="documentales5" tvg-name="HISTORY 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/History2Logo2019.png/640px-History2Logo2019.png", HISTORY 2 HD
 http://181.78.109.48:8000/play/a03k/index.m3u8
@@ -249,7 +249,7 @@ http://190.60.37.154:45000/play/a045/index.m3u8
 http://190.60.40.35:12500/play/WINMAS/index.m3u8
 
 #EXTINF:-1 tvg-chno="84" group-title="Nacionales" tvg-id="Nacionales2" tvg-name="CANAL 1 HD" tvg-logo="https://images.canal1.com.co/site/images/logo_1_como_tu_color.png", CANAL 1 HD
-http://cord-cutter.net:8080/zcJ8BG/214917/78698
+https://hidra.live:443/eufTQNgNXv/ojxBLcjY/304223
 
 #EXTINF:-1 tvg-chno="85" group-title="Nacionales" tvg-id="Nacionales3" tvg-name="CARACOL HD" tvg-logo="https://caracoltv.brightspotcdn.com/dims4/default/0045201/2147483647/strip/true/crop/2048x2048+0+0/resize/120x120!/quality/90/?url=http%3A%2F%2Fcaracol-brightspot.s3.amazonaws.com%2Fe0%2F4f%2Fd0ec59d74f2ba896bc9638e43b9c%2Flogo-ctv.png", CARACOL HD
 http://190.60.40.35:12500/play/a06b/index.m3u8
@@ -297,7 +297,7 @@ http://80.80.91.195:8000/play/a032/index.m3u8
 http://190.60.37.154:45000/play/a04s/index.m3u8
 
 #EXTINF:-1 tvg-chno="100" group-title="Cine" tvg-id="cine6" tvg-name="DE PELICULA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/De_pelicula_logo.png", DE PELICULA
-http://190.60.38.114:1010/play/a08f/index.m3u8
+http://190.61.116.155:7000/play/a0af
 
 #EXTINF:-1 tvg-chno="101" group-title="Entretenimiento Adulto" tvg-id="adulto2" tvg-name="MYCAMTV LATINA" tvg-logo="https://mytv.cam/upload/My-TV.png", MYCAMTV LATINA
 http://cdn.redtraffic.net/latina.m3u8
@@ -327,7 +327,7 @@ http://80.80.91.195:8000/play/a09v/index.m3u8
 http://80.80.91.195:8000/play/a0a7/index.m3u8
 
 #EXTINF:-1 tvg-chno="110" group-title="Cine" tvg-id="cine20" tvg-name="GOLDEN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Golden_logo.png", GOLDEN
-http://190.60.37.154:45000/play/a01z/index.m3u8
+http://80.80.91.195:8000/play/a04k/index.m3u8
 
 #EXTINF:-1 tvg-chno="111" group-title="Musica" tvg-id="Musica3" tvg-name="HTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/1200px-Htv_logo.svg.png", HTV
 http://80.80.91.195:8000/play/a04j/index.m3u8
@@ -342,7 +342,7 @@ http://190.60.37.154:45000/play/a01k/index.m3u8
 http://181.78.109.48:8000/play/a01s/index.m3u8
 
 #EXTINF:-1 tvg-chno="115" group-title="Cine" tvg-id="cine23" tvg-name="HBO MUNDI HD" tvg-logo="https://seeklogo.com/images/H/hbo-mundi-logo-236F04C9B4-seeklogo.com.png", HBO MUNDI HD
-http://181.209.95.29:8000/play/a02a/index.m3u8
+https://hidra.live:443/eufTQNgNXv/ojxBLcjY/312764
 
 #EXTINF:-1 tvg-chno="116" group-title="Cine" tvg-id="cine24" tvg-name="GOLDEN EDGE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Golden_Edge_Logo_2020.png/800px-Golden_Edge_Logo_2020.png", GOLDEN EDGE HD
 http://45.68.35.218:4001/play/a00i/index.m3u8
