@@ -389,7 +389,7 @@ http://190.60.37.154:45000/play/a02t/index.m3u8
 #EXTINF:-1 tvg-chno="130" group-title="Regionales" tvg-id="Regionales16" tvg-name="RED + HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/34/Red%2B_2018_logo.png", RED + HD
 https://inforedvos.lcdn.claro.net.co/Content/HLS_HLS_DIR/Live/channel(REDMASHDWEB)/06.m3u8
 
-#EXTINF:-1 tvg-chno="131" group-title="Entretenimiento Adulto" tvg-id="adulto6" tvg-name="CzechAmateurs HD" tvg-logo="http://swedtv.vip/logos/onlyadult.png", CzechAmateurs HD 
+#EXTINF:-1 tvg-chno="131" group-title="Entretenimiento Adulto" tvg-id="adulto6" tvg-name="CzechAmateurs HD" tvg-logo="https://static.v3.paysites.czechcash.com/media/czechamateurs.com/images/site-logo.svg?1747062528", CzechAmateurs HD 
 https://hidra.live:443/eufTQNgNXv/ojxBLcjY/338145
 
 #EXTINF:-1 tvg-chno="132" group-title="Entretenimiento Adulto" tvg-id="adulto5" tvg-name="Bazzers FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1HWGNc83HguMs48kFsq7p9lY34YxI1EbMtA&s", Bazzers FHD
