@@ -204,7 +204,7 @@ http://181.78.109.48:8000/play/a02t/index.m3u8
 http://190.60.37.154:45000/play/a04c/index.m3u8
 
 #EXTINF:-1 tvg-chno="69" group-title="Cocina" tvg-id="cocina1" tvg-name="FOOD NETWORK HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Food_Network_logo.svg/2048px-Food_Network_logo.svg.png", FOOD NETWORK HD
-http://190.102.246.93:9005/play/a03a?checkedby:alliptvlinks.com
+https://hidra.live:443/eufTQNgNXv/ojxBLcjY/302644
 
 #EXTINF:-1 tvg-chno="70" group-title="Deportes" tvg-id="deportes13" tvg-name="ESPN PREMIUM HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/ESPN_Premium_logo.png", ESPN PREMIUM HD
 http://201.182.248.254:8888/play/a0cp/index.m3u8
