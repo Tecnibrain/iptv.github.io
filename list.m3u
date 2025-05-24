@@ -9,7 +9,7 @@ http://181.78.109.48:8000/play/a02l/index.m3u8
 http://80.80.91.195:8000/play/a0cy/index.m3u8
 
 #EXTINF:-1 tvg-chno="4" group-title="Entretenimiento" tvg-id="entretenimiento4" tvg-name="AXN HD" tvg-logo="https://la.axn.com/themes/custom/responsive_sony_axn/logo.png", AXN HD 
-http://181.78.109.48:8000/play/a05u/index.m3u8
+http://190.61.116.155:7000/play/a01j
 
 #EXTINF:-1 tvg-chno="5" group-title="Entretenimiento" tvg-id="entretenimiento5" tvg-name="LIFETIME" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Lifetime_logo17.svg/1024px-Lifetime_logo17.svg.png", LIFETIME
 http://80.80.91.195:8000/play/a03o/index.m3u8
