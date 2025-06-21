@@ -9,7 +9,7 @@ http://190.61.116.155:7000/play/a0ay
 http://80.80.91.195:8000/play/a0cy/index.m3u8
 
 #EXTINF:-1 tvg-chno="4" group-title="Entretenimiento" tvg-id="entretenimiento4" tvg-name="AXN HD" tvg-logo="https://la.axn.com/themes/custom/responsive_sony_axn/logo.png", AXN HD 
-http://177.8.76.2:8000/play/a0sj
+http://191.52.214.5:8000/play/a08p/index.m3u8
 
 #EXTINF:-1 tvg-chno="5" group-title="Entretenimiento" tvg-id="entretenimiento5" tvg-name="LIFETIME" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Lifetime_logo17.svg/1024px-Lifetime_logo17.svg.png", LIFETIME
 http://80.80.91.195:8000/play/a03o/index.m3u8
@@ -51,7 +51,7 @@ http://80.80.91.195:8000/play/a0dc/index.m3u8
 http://80.80.91.195:8000/play/a0dp/index.m3u8
 
 #EXTINF:-1 tvg-chno="18" group-title="Deportes" tvg-id="deportes4" tvg-name="TNT SPORTS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/TNT_Sports_logo_2021.png", TNT SPORTS HD 
-http://45.68.35.218:4001/play/a030/index.m3u8
+https://livetv.topmediatv.net:443/TopMediaV2/MuwpDJdMm1/462
 
 #EXTINF:-1 tvg-chno="19" group-title="Deportes" tvg-id="deportes5" tvg-name="ESPN HD" tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png", ESPN HD 
 http://tvmate.icu:8080/vNay0H/219352/86765?checkedby:alliptvlinks.com
@@ -114,7 +114,7 @@ http://80.80.91.195:8000/play/a0a6/index.m3u8
 http://cdn.redtraffic.net/pornstar.m3u8
 
 #EXTINF:-1 tvg-chno="39" group-title="Nacionales" tvg-id="Nacionales1" tvg-name="RCN HD" tvg-logo="https://imagenes.canalrcn.com/CanalRCN/imagen-compartir-canal.jpg", RCN - HD 
-http://177.8.76.2:8000/play/a0me
+https://livetv.topmediatv.net:443/TopMediaV2/MuwpDJdMm1/611
 
 #EXTINF:-1 tvg-chno="40" group-title="Cine" tvg-id="cine25" tvg-name="STAR CHANNEL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Star_Channel_2021.png", STAR CHANNEL HD 
 http://80.80.91.195:8000/play/a056/index.m3u8
@@ -141,7 +141,7 @@ http://201.182.248.254:8888/play/a0dk/index.m3u8
 http://190.60.40.35:12500/play/a01f/index.m3u8
 
 #EXTINF:-1 tvg-chno="48" group-title="Entretenimiento" tvg-id="entretenimiento7" tvg-name="TNT SERIES HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png", TNT SERIES HD 
-http://177.8.76.2:8000/play/a0mb
+http://190.61.116.155:7000/play/a00r
 
 #EXTINF:-1 tvg-chno="49" group-title="Entretenimiento" tvg-id="entretenimiento18" tvg-name="TELEMUNDO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png", TELEMUNDO 
 http://80.80.91.195:8000/play/a0d1/index.m3u8
@@ -159,7 +159,7 @@ http://201.182.248.254:8888/play/a0d8/index.m3u8
 http://80.80.91.195:8000/play/a09u/index.m3u8
 
 #EXTINF:-1 tvg-chno="54" group-title="Deportes" tvg-id="deportes9" tvg-name="WIN SPORTS HD" tvg-logo="https://files.winsports.co/assets/public/logo.png", WIN SPORTS HD 
-http://45.68.35.218:4001/play/a032/index.m3u8
+https://hidra.live:443/eufTQNgNXv/ojxBLcjY/34690
 
 #EXTINF:-1 tvg-chno="55" group-title="Deportes" tvg-id="deportes10" tvg-name="WIN SPORTS+ HD OP1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/WinSportsM%C3%A1s2022.png", WIN SPORTS+ HD OP1
 http://190.60.37.154:45000/play/a00q/index.m3u8
@@ -168,7 +168,7 @@ http://190.60.37.154:45000/play/a00q/index.m3u8
 http://80.80.91.195:8000/play/a03y/index.m3u8
 
 #EXTINF:-1 tvg-chno="57" group-title="Deportes" tvg-id="deportes11" tvg-name="WIN SPORTS+ HD OP2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/WinSportsM%C3%A1s2022.png", WIN SPORTS+ HD OP2
-http://177.8.76.2:8000/play/a0mz
+https://hidra.live:443/eufTQNgNXv/ojxBLcjY/34691
 
 #EXTINF:-1 tvg-chno="58" group-title="Religioso" tvg-id="Religioso2" tvg-name="EWTN" tvg-logo="https://www.rapidcitydiocese.org/wp-content/uploads/2020/03/ewtn-logo.jpg", EWTN
 http://201.182.248.254:8888/play/a04o/index.m3u8
@@ -222,10 +222,10 @@ https://hidra.live:443/eufTQNgNXv/ojxBLcjY/34989
 https://hidra.live:443/eufTQNgNXv/ojxBLcjY/312816
 
 #EXTINF:-1 tvg-chno="75" group-title="Entretenimiento" tvg-id="entretenimiento27" tvg-name="LAS ESTRELLAS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png", LAS ESTRELLAS HD
-http://45.68.35.218:4001/play/a00h/index.m3u8
+https://hidra.live:443/eufTQNgNXv/ojxBLcjY/302641
 
 #EXTINF:-1 tvg-chno="76" group-title="Entretenimiento" tvg-id="entretenimiento28" tvg-name="LATINA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logotipo_de_Latina_Televisi%C3%B3n.svg/2048px-Logotipo_de_Latina_Televisi%C3%B3n.svg.png", LATINA HD
-http://201.182.248.254:8888/play/a09i/index.m3u8
+https://hidra.live:443/eufTQNgNXv/ojxBLcjY/304297
 
 #EXTINF:-1 tvg-chno="77" group-title="Entretenimiento" tvg-id="entretenimiento10" tvg-name="MTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/MTV_Logo_2010.svg/2560px-MTV_Logo_2010.svg.png", MTV HD
 http://80.80.91.195:8000/play/a042/index.m3u8
@@ -345,7 +345,7 @@ http://201.182.248.254:8888/play/a0br/index.m3u8
 https://hidra.live:443/eufTQNgNXv/ojxBLcjY/312764
 
 #EXTINF:-1 tvg-chno="116" group-title="Cine" tvg-id="cine24" tvg-name="GOLDEN EDGE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Golden_Edge_Logo_2020.png/800px-Golden_Edge_Logo_2020.png", GOLDEN EDGE HD
-http://45.68.35.218:4001/play/a00i/index.m3u8
+https://hidra.live:443/eufTQNgNXv/ojxBLcjY/302657
 
 #EXTINF:-1 tvg-chno="117" group-title="Entretenimiento" tvg-id="entretenimiento31" tvg-name="DISCOVERY H&H HD OP2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/H%26h_Logo.svg/2560px-H%26h_Logo.svg.png", DISCOVERY H&H HD OP2
 http://190.60.40.35:12500/play/a0cw/index.m3u8
@@ -375,10 +375,10 @@ http://191.52.214.5:8000/play/a07c/index.m3u8
 http://160.20.165.246:8000/play/a016/index.m3u8
 
 #EXTINF:-1 tvg-chno="126" group-title="Cine" tvg-id="cine26" tvg-name="TNT SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/1024px-TNT_Logo_2016.svg.png", TNT SD
-http://181.78.109.48:8000/play/a024/index.m3u8
+https://hidra.live:443/eufTQNgNXv/ojxBLcjY/34957
 
 #EXTINF:-1 tvg-chno="127" group-title="Entretenimiento" tvg-id="entretenimiento33" tvg-name="TNT SERIES SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png", TNT SERIES SD 
-http://181.78.109.48:8000/play/a01w/index.m3u8
+https://hidra.live:443/eufTQNgNXv/ojxBLcjY/34962
 
 #EXTINF:-1 tvg-chno="128" group-title="Cine" tvg-id="cine27" tvg-name="HBO SD" tvg-logo="https://w7.pngwing.com/pngs/7/1013/png-transparent-logo-hbo-hd-scalable-graphics-design-blue-angle-text-thumbnail.png", HBO SD
 http://190.60.37.154:45000/play/a056/index.m3u8
