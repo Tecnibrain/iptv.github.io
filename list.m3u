@@ -42,7 +42,7 @@ http://80.80.91.195:8000/play/a0a5/index.m3u8
 http://181.78.27.128:8000/play/a02o/index.m3u8
 
 #EXTINF:-1 tvg-chno="15" group-title="Deportes" tvg-id="deportes1" tvg-name="ESPN 2 HD" tvg-guide="https://www.tdtchannels.com/epg/TV.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1280px-ESPN2_logo.svg.png", ESPN 2 HD 
-http://201.182.248.254:8888/play/a0ct/index.m3u8
+http://80.80.91.195:8000/play/a0db/index.m3u8
 
 #EXTINF:-1 tvg-chno="16" group-title="Deportes" tvg-id="deportes2" tvg-name="ESPN 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png", ESPN 3 HD 
 http://80.80.91.195:8000/play/a0dc/index.m3u8
@@ -51,16 +51,16 @@ http://80.80.91.195:8000/play/a0dc/index.m3u8
 http://80.80.91.195:8000/play/a0dp/index.m3u8
 
 #EXTINF:-1 tvg-chno="18" group-title="Deportes" tvg-id="deportes4" tvg-name="TNT SPORTS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/TNT_Sports_logo_2021.png", TNT SPORTS HD 
-https://livetv.topmediatv.net:443/TopMediaV2/MuwpDJdMm1/462
+https://hidra.live:443/eufTQNgNXv/ojxBLcjY/34676
 
 #EXTINF:-1 tvg-chno="19" group-title="Deportes" tvg-id="deportes5" tvg-name="ESPN HD" tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png", ESPN HD 
 http://tvmate.icu:8080/vNay0H/219352/86765?checkedby:alliptvlinks.com
 
 #EXTINF:-1 tvg-chno="20" group-title="Cocina" tvg-id="cocina2" tvg-name="EL GOURMET HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/El_Gourmet_logo.png", EL GOURMET HD 
-http://201.182.248.254:8888/play/a0ai/index.m3u8
+http://181.78.27.128:8000/play/a04w/index.m3u8
 
 #EXTINF:-1 tvg-chno="21" group-title="Deportes" tvg-id="deportes6" tvg-name="ESPN 7 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/2560px-ESPN_7_logo.svg.png", ESPN 7 HD 
-http://201.182.248.254:8888/play/a0b0/index.m3u8
+http://191.52.214.5:8000/play/a08r/index.m3u8
 
 #EXTINF:-1 tvg-chno="22" group-title="Entretenimiento" tvg-id="entretenimiento9" tvg-name="FX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/1000px-FX_International_logo.svg.png", FX HD 
 http://80.80.91.195:8000/play/a0d2/index.m3u8
@@ -78,7 +78,7 @@ http://80.80.91.195:8000/play/a02z/index.m3u8
 http://80.80.91.195:8000/play/a033/index.m3u8
 
 #EXTINF:-1 tvg-chno="27" group-title="Musica" tvg-id="Musica2" tvg-name="TRECE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Canal_Trece_logo.svg/1280px-Canal_Trece_logo.svg.png", TRECE 
-http://201.182.248.254:8888/play/a03v/index.m3u8
+http://190.60.32.178:8178/play/a0i9/index.m3u8
 
 #EXTINF:-1 tvg-chno="28" group-title="Documentales" tvg-id="documentales2" tvg-name="HISTORY CHANNEL HD" tvg-logo="https://1000logos.net/wp-content/uploads/2023/01/History-Channel-logo.png", HISTORY CHANNEL HD 
 http://80.80.91.195:8000/play/a040/index.m3u8
@@ -93,7 +93,7 @@ http://160.20.165.246:8000/play/a00d/index.m3u8
 http://80.80.91.195:8000/play/a09p/index.m3u8
 
 #EXTINF:-1 tvg-chno="32" group-title="Entretenimiento" tvg-id="entretenimiento13" tvg-name="MEGA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Logotipo_de_Mega_%282015-2020%29.png/1200px-Logotipo_de_Mega_%282015-2020%29.png", MEGA HD 
-http://201.182.248.254:8888/play/a0bc/index.m3u8
+https://hidra.live:443/eufTQNgNXv/ojxBLcjY/35297
 
 #EXTINF:-1 tvg-chno="33" group-title="Musica" tvg-id="Musica1" tvg-name="MTV LIVE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/MTV_Live_2021_logo.svg/1024px-MTV_Live_2021_logo.svg.png", MTV LIVE HD 
 http://200.60.124.19:29000/play/a0ft/index.m3u8
@@ -105,7 +105,7 @@ http://80.80.91.195:8000/play/a0a2/index.m3u8
 http://80.80.91.195:8000/play/a03d/index.m3u8
 
 #EXTINF:-1 tvg-chno="36" group-title="Cine" tvg-id="cine7" tvg-name="PARAMOUNT HD" tvg-logo="https://e7.pngegg.com/pngimages/825/656/png-clipart-paramount-s-paramount-channel-television-channel-viacom-media-networks-mountain-logo-television-blue.png", PARAMOUNT HD 
-http://201.182.248.254:8888/play/a0ac/index.m3u8
+http://190.60.32.178:8178/play/a0ec/index.m3u8
 
 #EXTINF:-1 tvg-chno="37" group-title="Novelas" tvg-id="novelas1" tvg-name="PASIONES HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pasiones_Tv_logo.svg/2560px-Pasiones_Tv_logo.svg.png", PASIONES HD 
 http://80.80.91.195:8000/play/a0a6/index.m3u8
@@ -114,7 +114,7 @@ http://80.80.91.195:8000/play/a0a6/index.m3u8
 http://cdn.redtraffic.net/pornstar.m3u8
 
 #EXTINF:-1 tvg-chno="39" group-title="Nacionales" tvg-id="Nacionales1" tvg-name="RCN HD" tvg-logo="https://imagenes.canalrcn.com/CanalRCN/imagen-compartir-canal.jpg", RCN - HD 
-https://livetv.topmediatv.net:443/TopMediaV2/MuwpDJdMm1/611
+http://190.60.32.178:8178/play/a0ga/index.m3u8
 
 #EXTINF:-1 tvg-chno="40" group-title="Cine" tvg-id="cine25" tvg-name="STAR CHANNEL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Star_Channel_2021.png", STAR CHANNEL HD 
 http://80.80.91.195:8000/play/a056/index.m3u8
@@ -126,13 +126,13 @@ http://80.80.91.195:8000/play/a0d7/index.m3u8
 http://160.20.165.246:8000/play/a00o/index.m3u8
 
 #EXTINF:-1 tvg-chno="43" group-title="Cine" tvg-id="cine8" tvg-name="SPACE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/1280px-SpaceLogo.svg.png", SPACE HD 
-http://80.80.91.195:8000/play/a061/index.m3u8
+http://190.60.32.178:8178/play/a0hb/index.m3u8
 
 #EXTINF:-1 tvg-chno="44" group-title="Cine" tvg-id="cine9" tvg-name="STUDIO UNIVERSAL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/2560px-Logo_Studio_Universal.svg.png", STUDIO UNIVERSAL HD 
-http://201.182.248.254:8888/play/a09c/index.m3u8
+http://191.52.214.5:8000/play/a08h/index.m3u8
 
 #EXTINF:-1 tvg-chno="45" group-title="Entretenimiento" tvg-id="entretenimiento17" tvg-name="SUN CHANNEL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Sun_Channel_logo.svg/1200px-Sun_Channel_logo.svg.png", SUN CHANNEL HD 
-http://201.182.248.254:8888/play/a0cy/index.m3u8
+http://190.60.32.178:8178/play/a0gy/index.m3u8
 
 #EXTINF:-1 tvg-chno="46" group-title="Cine" tvg-id="cine10" tvg-name="TNT HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/1024px-TNT_Logo_2016.svg.png", TNT HD 
 http://201.182.248.254:8888/play/a0dk/index.m3u8
@@ -147,19 +147,19 @@ http://190.61.116.155:7000/play/a00r
 http://80.80.91.195:8000/play/a0d1/index.m3u8
 
 #EXTINF:-1 tvg-chno="50" group-title="Entretenimiento" tvg-id="entretenimiento19" tvg-name="TV+ HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/TV%2B_%282018%29.png", TV+ HD 
-http://201.182.248.254:8888/play/a0b7/index.m3u8
+https://hidra.live:443/eufTQNgNXv/ojxBLcjY/35306
 
 #EXTINF:-1 tvg-chno="51" group-title="Entretenimiento" tvg-id="entretenimiento20" tvg-name="SyFy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/Syfylogo.png", SyFy
-http://201.182.248.254:8888/play/a09z/index.m3u8
+http://177.93.46.163:8000/play/a00i
 
 #EXTINF:-1 tvg-chno="52" group-title="Entretenimiento" tvg-id="entretenimiento21" tvg-name="UNIVERSAL CHANNEL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Universal_Channel_Logo_2013.svg/2560px-Universal_Channel_Logo_2013.svg.png", UNIVERSAL CHANNEL HD 
-http://201.182.248.254:8888/play/a0d8/index.m3u8
+http://181.78.27.128:8000/play/a04q/index.m3u8
 
 #EXTINF:-1 tvg-chno="53" group-title="Cine" tvg-id="cine12" tvg-name="UNIVERSAL PREMIERE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/Universal_Premiere_2021.png", UNIVERSAL PREMIERE HD 
 http://80.80.91.195:8000/play/a09u/index.m3u8
 
 #EXTINF:-1 tvg-chno="54" group-title="Deportes" tvg-id="deportes9" tvg-name="WIN SPORTS HD" tvg-logo="https://files.winsports.co/assets/public/logo.png", WIN SPORTS HD 
-https://hidra.live:443/eufTQNgNXv/ojxBLcjY/34690
+http://190.60.32.178:8178/play/a0fk/index.m3u8
 
 #EXTINF:-1 tvg-chno="55" group-title="Deportes" tvg-id="deportes10" tvg-name="WIN SPORTS+ HD OP1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/WinSportsM%C3%A1s2022.png", WIN SPORTS+ HD OP1
 http://190.60.37.154:45000/play/a00q/index.m3u8
@@ -171,7 +171,7 @@ http://80.80.91.195:8000/play/a03y/index.m3u8
 https://hidra.live:443/eufTQNgNXv/ojxBLcjY/34691
 
 #EXTINF:-1 tvg-chno="58" group-title="Religioso" tvg-id="Religioso2" tvg-name="EWTN" tvg-logo="https://www.rapidcitydiocese.org/wp-content/uploads/2020/03/ewtn-logo.jpg", EWTN
-http://201.182.248.254:8888/play/a04o/index.m3u8
+http://190.61.116.155:7000/play/a059
 
 #EXTINF:-1 tvg-chno="59" group-title="Documentales" tvg-id="documentales7" tvg-name="ANIMAL PLANET HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1067px-2018_Animal_Planet_logo.svg.png", ANIMAL PLANET HD
 http://80.80.91.195:8000/play/a0cw/index.m3u8
@@ -186,7 +186,7 @@ http://190.60.37.154:45000/play/a04i/index.m3u8
 http://80.80.91.195:8000/play/a09q/index.m3u8
 
 #EXTINF:-1 tvg-chno="63" group-title="Entretenimiento" tvg-id="entretenimiento24" tvg-name="DHE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Canal_DHE_logo.svg/2560px-Canal_DHE_logo.svg.png", DHE HD
-http://201.182.248.254:8888/play/a0cx/index.m3u8
+http://190.60.32.178:8178/play/a0gb/index.m3u8
 
 #EXTINF:-1 tvg-chno="64" group-title="Entretenimiento" tvg-id="entretenimiento25" tvg-name="DISCOVERY H&H HD OP1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/H%26h_Logo.svg/2560px-H%26h_Logo.svg.png", DISCOVERY H&H HD OP1
 http://80.80.91.195:8000/play/a09o/index.m3u8
@@ -246,7 +246,7 @@ http://181.78.27.128:8000/play/a04s/index.m3u8
 http://190.60.37.154:45000/play/a045/index.m3u8
 
 #EXTINF:-1 tvg-chno="83" group-title="Deportes" tvg-id="deportes15" tvg-name="WIN SPORTS+ HD OP3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/WinSportsM%C3%A1s2022.png", WIN SPORTS+ HD OP3
-http://190.60.40.35:12500/play/WINMAS/index.m3u8
+http://190.60.32.178:8178/play/a0ii/index.m3u8
 
 #EXTINF:-1 tvg-chno="84" group-title="Nacionales" tvg-id="Nacionales2" tvg-name="CANAL 1 HD" tvg-logo="https://images.canal1.com.co/site/images/logo_1_como_tu_color.png", CANAL 1 HD
 https://hidra.live:443/eufTQNgNXv/ojxBLcjY/304223
