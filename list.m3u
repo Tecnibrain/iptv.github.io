@@ -135,7 +135,7 @@ http://191.52.214.5:8000/play/a08h/index.m3u8
 http://190.60.32.178:8178/play/a0gy/index.m3u8
 
 #EXTINF:-1 tvg-chno="46" group-title="Cine" tvg-id="cine10" tvg-name="TNT HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/1024px-TNT_Logo_2016.svg.png", TNT HD 
-http://201.182.248.254:8888/play/a0dk/index.m3u8
+http://190.60.32.178:8178/play/a0ic/index.m3u8
 
 #EXTINF:-1 tvg-chno="47" group-title="Deportes" tvg-id="deportes8" tvg-name="TYC SPORTS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/2560px-TyC_Sports_logo.svg.png", TYC SPORTS HD 
 http://190.60.40.35:12500/play/a01f/index.m3u8
@@ -168,7 +168,7 @@ http://190.60.37.154:45000/play/a00q/index.m3u8
 http://80.80.91.195:8000/play/a03y/index.m3u8
 
 #EXTINF:-1 tvg-chno="57" group-title="Deportes" tvg-id="deportes11" tvg-name="WIN SPORTS+ HD OP2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/WinSportsM%C3%A1s2022.png", WIN SPORTS+ HD OP2
-https://hidra.live:443/eufTQNgNXv/ojxBLcjY/34691
+http://38.44.109.41:8003/play/a03n/index.m3u8
 
 #EXTINF:-1 tvg-chno="58" group-title="Religioso" tvg-id="Religioso2" tvg-name="EWTN" tvg-logo="https://www.rapidcitydiocese.org/wp-content/uploads/2020/03/ewtn-logo.jpg", EWTN
 http://190.61.116.155:7000/play/a059
