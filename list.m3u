@@ -342,7 +342,7 @@ http://190.60.37.154:45000/play/a01k/index.m3u8
 http://80.80.91.195:8000/play/a03h/index.m3u8
 
 #EXTINF:-1 tvg-chno="115" group-title="Cine" tvg-id="cine23" tvg-name="HBO MUNDI HD" tvg-logo="https://seeklogo.com/images/H/hbo-mundi-logo-236F04C9B4-seeklogo.com.png", HBO MUNDI HD
-http://playtv44.com:8080/981927688/123456/12340
+http://190.60.40.35:12500/play/a0gt/index.m3u8
 
 #EXTINF:-1 tvg-chno="116" group-title="Cine" tvg-id="cine24" tvg-name="GOLDEN EDGE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Golden_Edge_Logo_2020.png/800px-Golden_Edge_Logo_2020.png", GOLDEN EDGE HD
 http://190.61.116.155:7000/play/a0ae
