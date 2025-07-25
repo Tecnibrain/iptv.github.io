@@ -129,7 +129,7 @@ http://160.20.165.246:8000/play/a00o/index.m3u8
 http://38.44.109.41:8003/play/a01y/index.m3u8
 
 #EXTINF:-1 tvg-chno="44" group-title="Cine" tvg-id="cine9" tvg-name="STUDIO UNIVERSAL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/2560px-Logo_Studio_Universal.svg.png", STUDIO UNIVERSAL HD 
-http://38.44.109.41:8003/play/a03e/index.m3u8
+http://38.211.242.128:8001/play/a0ah/index.m3u8
 
 #EXTINF:-1 tvg-chno="45" group-title="Entretenimiento" tvg-id="entretenimiento17" tvg-name="SUN CHANNEL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Sun_Channel_logo.svg/1200px-Sun_Channel_logo.svg.png", SUN CHANNEL HD 
 http://80.80.91.195:8000/play/a04d/index.m3u8
@@ -342,7 +342,7 @@ http://190.60.37.154:45000/play/a01k/index.m3u8
 http://80.80.91.195:8000/play/a03h/index.m3u8
 
 #EXTINF:-1 tvg-chno="115" group-title="Cine" tvg-id="cine23" tvg-name="HBO MUNDI HD" tvg-logo="https://seeklogo.com/images/H/hbo-mundi-logo-236F04C9B4-seeklogo.com.png", HBO MUNDI HD
-http://190.60.40.35:12500/play/a0gt/index.m3u8
+http://200.60.124.19:29000/play/a0kb/index.m3u8
 
 #EXTINF:-1 tvg-chno="116" group-title="Cine" tvg-id="cine24" tvg-name="GOLDEN EDGE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Golden_Edge_Logo_2020.png/800px-Golden_Edge_Logo_2020.png", GOLDEN EDGE HD
 http://190.61.116.155:7000/play/a0ae
