@@ -397,3 +397,6 @@ http://lunar.pm:8080/shacara/7274249488/122913
 
 #EXTINF:-1 tvg-chno="133" group-title="Entretenimiento Adulto" tvg-id="adulto6" tvg-name="EXOTIC 4K" tvg-logo="http://img-cdn.curl.pk:8880/chimg/asdfasd.gif", EXOTIC 4K
 http://lunar.pm:8080/shacara/7274249488/122875
+
+#EXTINF:-1 tvg-chno="134" group-title="Radio" tvg-id="radio1" tvg-name="Blue Radio" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ae/Logo_oficial_de_Blu_Radio.png", Blue radio
+https://mdstrm.com/live-stream-playlist/58d1921a72e2b22e2905e493.m3u8
