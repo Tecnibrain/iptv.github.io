@@ -400,3 +400,6 @@ http://lunar.pm:8080/shacara/7274249488/122875
 
 #EXTINF:-1 tvg-chno="134" group-title="Radio" tvg-id="radio1" tvg-name="Blue Radio" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ae/Logo_oficial_de_Blu_Radio.png", Blue radio
 https://mdstrm.com/live-stream-playlist/58d1921a72e2b22e2905e493.m3u8
+
+#EXTINF:-1 tvg-chno="135" group-title="Radio" tvg-id="radio2" tvg-name="La Kalle" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/La_Kalle_Colombia_logo.svg/100px-La_Kalle_Colombia_logo.svg.png", La Kalle
+https://mdstrm.com/live-stream-playlist/58d191f07290fbb058025843.m3u8
