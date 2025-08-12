@@ -123,7 +123,7 @@ http://80.80.91.195:8000/play/a056/index.m3u8
 http://80.80.91.195:8000/play/a0d7/index.m3u8
 
 #EXTINF:-1 tvg-chno="42" group-title="Entretenimiento" tvg-id="entretenimiento16" tvg-name="SONY HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png", SONY HD 
-http://160.20.165.246:8000/play/a00o/index.m3u8
+http://190.60.40.35:12500/play/a0mx/index.m3u8
 
 #EXTINF:-1 tvg-chno="43" group-title="Cine" tvg-id="cine8" tvg-name="SPACE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/1280px-SpaceLogo.svg.png", SPACE HD 
 http://38.44.109.41:8003/play/a01y/index.m3u8
