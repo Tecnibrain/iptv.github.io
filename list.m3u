@@ -42,7 +42,7 @@ http://80.80.91.195:8000/play/a0a5/index.m3u8
 http://38.44.109.41:8003/play/a00e/index.m3u8
 
 #EXTINF:-1 tvg-chno="15" group-title="Deportes" tvg-id="deportes1" tvg-name="ESPN 2 HD" tvg-guide="https://www.tdtchannels.com/epg/TV.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1280px-ESPN2_logo.svg.png", ESPN 2 HD 
-http://190.60.40.35:12500/play/a0md/index.m3u8
+http://200.60.124.19:29000/play/a0g1/index.m3u8
 
 #EXTINF:-1 tvg-chno="16" group-title="Deportes" tvg-id="deportes2" tvg-name="ESPN 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png", ESPN 3 HD 
 http://80.80.91.195:8000/play/a0dc/index.m3u8
@@ -252,7 +252,7 @@ http://190.60.32.178:8178/play/a0ii/index.m3u8
 http://190.60.32.178:8178/play/a0gz/index.m3u8
 
 #EXTINF:-1 tvg-chno="85" group-title="Nacionales" tvg-id="Nacionales3" tvg-name="CARACOL HD" tvg-logo="https://caracoltv.brightspotcdn.com/dims4/default/0045201/2147483647/strip/true/crop/2048x2048+0+0/resize/120x120!/quality/90/?url=http%3A%2F%2Fcaracol-brightspot.s3.amazonaws.com%2Fe0%2F4f%2Fd0ec59d74f2ba896bc9638e43b9c%2Flogo-ctv.png", CARACOL HD
-http://190.60.40.35:12500/play/a0o9/index.m3u8
+http://181.78.7.90:12500/play/a06b/index.m3u8
 
 #EXTINF:-1 tvg-chno="86" group-title="Noticias" tvg-id="noticias2" tvg-name="NTN 24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/NTN24_Logo.png", NTN 24
 http://160.20.165.246:8000/play/a00y/index.m3u8
@@ -333,7 +333,7 @@ http://80.80.91.195:8000/play/a04k/index.m3u8
 http://80.80.91.195:8000/play/a04j/index.m3u8
 
 #EXTINF:-1 tvg-chno="112" group-title="Cine" tvg-id="cine21" tvg-name="HBO POP HD" tvg-logo="https://seeklogo.com/images/H/hbo-pop-logo-10AD275431-seeklogo.com.png", HBO POP HD
-http://179.1.146.21:8000/play/a03r/index.m3u8
+http://38.199.6.1:17001/play/a038/index.m3u8
 
 #EXTINF:-1 tvg-chno="113" group-title="Religioso" tvg-id="Religioso3" tvg-name="TELEVID" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/Logo_Tele_VID.png", TELEVID
 http://190.60.37.154:45000/play/a01k/index.m3u8
