@@ -246,7 +246,7 @@ http://190.61.116.155:7000/play/a038
 http://190.60.37.154:45000/play/a045/index.m3u8
 
 #EXTINF:-1 tvg-chno="83" group-title="Deportes" tvg-id="deportes15" tvg-name="WIN SPORTS+ HD OP3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/WinSportsM%C3%A1s2022.png", WIN SPORTS+ HD OP3
-http://flx.lat:8080//live/KyKt7vRe39uq/pgsp4hKAtMQ9/120512.ts
+http://tvlatino.club:2082/Andrade49/RtqJqUe85uC9/4.ts
 
 #EXTINF:-1 tvg-chno="84" group-title="Nacionales" tvg-id="Nacionales2" tvg-name="CANAL 1 HD" tvg-logo="https://images.canal1.com.co/site/images/logo_1_como_tu_color.png", CANAL 1 HD
 http://190.60.32.178:8178/play/a0gz/index.m3u8
