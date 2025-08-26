@@ -159,7 +159,7 @@ http://190.61.116.155:7000/play/a0ax
 http://80.80.91.195:8000/play/a09u/index.m3u8
 
 #EXTINF:-1 tvg-chno="54" group-title="Deportes" tvg-id="deportes9" tvg-name="WIN SPORTS HD" tvg-logo="https://files.winsports.co/assets/public/logo.png", WIN SPORTS HD 
-http://cord-cutter.net:8080/X5xRz0/944877/78717?checkedby:alliptvlinks.com
+http://45.175.139.194:8000/play/16
 
 #EXTINF:-1 tvg-chno="55" group-title="Deportes" tvg-id="deportes10" tvg-name="WIN SPORTS+ HD OP1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/WinSportsM%C3%A1s2022.png", WIN SPORTS+ HD OP1
 http://190.60.37.154:45000/play/a00q/index.m3u8
@@ -246,7 +246,7 @@ http://190.61.116.155:7000/play/a038
 http://190.60.37.154:45000/play/a045/index.m3u8
 
 #EXTINF:-1 tvg-chno="83" group-title="Deportes" tvg-id="deportes15" tvg-name="WIN SPORTS+ HD OP3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/WinSportsM%C3%A1s2022.png", WIN SPORTS+ HD OP3
-http://tvlatino.club:2082/Andrade49/RtqJqUe85uC9/4.ts
+http://home-playtv.com:8080/RayGL63501/jqDzGNAQ2Z/479415
 
 #EXTINF:-1 tvg-chno="84" group-title="Nacionales" tvg-id="Nacionales2" tvg-name="CANAL 1 HD" tvg-logo="https://images.canal1.com.co/site/images/logo_1_como_tu_color.png", CANAL 1 HD
 http://38.44.109.41:8003/play/a020/index.m3u8
