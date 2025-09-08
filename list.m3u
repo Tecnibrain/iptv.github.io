@@ -246,7 +246,7 @@ http://80.80.91.195:8000/play/a057/index.m3u8
 http://190.60.37.154:45000/play/a045/index.m3u8
 
 #EXTINF:-1 tvg-chno="83" group-title="Deportes" tvg-id="deportes15" tvg-name="WIN SPORTS+ HD OP3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/WinSportsM%C3%A1s2022.png", WIN SPORTS+ HD OP3
-http://home-playtv.com:8080/RayGL63501/jqDzGNAQ2Z/479415
+http://181.78.7.90:12500/play/WINMAS/index.m3u8
 
 #EXTINF:-1 tvg-chno="84" group-title="Nacionales" tvg-id="Nacionales2" tvg-name="CANAL 1 HD" tvg-logo="https://images.canal1.com.co/site/images/logo_1_como_tu_color.png", CANAL 1 HD
 http://38.44.109.41:8003/play/a020/index.m3u8
@@ -263,8 +263,8 @@ http://tv.proyectox.vip:8080/USA4425010260/LgucHzwXKr/8501
 #EXTINF:-1 tvg-chno="88" group-title="Nacionales" tvg-id="Nacionales5" tvg-name="SENAL COLOMBIA HD" tvg-logo="https://w7.pngwing.com/pngs/275/625/png-transparent-senal-colombia-rtvc-sistema-de-medios-publicos-colombia-oro-y-paz-television-logo-bola-television-text-spiral.png", SENAL COLOMBIA HD
 http://38.44.109.41:8003/play/a018/index.m3u8
 
-#EXTINF:-1 tvg-chno="89" group-title="Regionales" tvg-id="Regionales8" tvg-name="TELEANTIOQUIA" tvg-logo="https://teleantioquia.co/Go/wp-content/uploads/2023/04/Recurso-2Go-1024x1024.png", TELEANTIOQUIA
-http://cord-cutter.net:8080/k4Svp2/645504/78706
+#EXTINF:-1 tvg-chno="89" group-title="Regionales" tvg-id="Regionales8" tvg-name="TELEANTIOQUIA HD" tvg-logo="https://teleantioquia.co/Go/wp-content/uploads/2023/04/Recurso-2Go-1024x1024.png", TELEANTIOQUIA HD
+http://45.175.139.194:8000/play/4
 
 #EXTINF:-1 tvg-chno="90" group-title="Regionales" tvg-id="Regionales9" tvg-name="TELECAFE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Telecaf%C3%A9_logo.svg/1280px-Telecaf%C3%A9_logo.svg.png", TELECAFE
 http://190.60.37.154:45000/play/a04w/index.m3u8
@@ -406,3 +406,6 @@ https://mdstrm.com/live-stream-playlist/58d191f07290fbb058025843.m3u8
 
 #EXTINF:-1 tvg-chno="136" group-title="Religioso" tvg-id="Religioso4" tvg-name="TV Familia" tvg-logo="https://tvfamilia.com/wp-content/uploads/2020/09/loop-TVF.gif", TV Familia
 https://59d39900ebfb8.streamlock.net/tvfamilia_480p/tvfamilia_480p/chunklist_w1359855435.m3u8
+
+#EXTINF:-1 tvg-chno="137" group-title="Regionales" tvg-id="Regionales17" tvg-name="TELEANTIOQUIA SD" tvg-logo="https://teleantioquia.co/Go/wp-content/uploads/2023/04/Recurso-2Go-1024x1024.png", TELEANTIOQUIA SD
+http://190.60.37.154:45000/play/a057/index.m3u8
