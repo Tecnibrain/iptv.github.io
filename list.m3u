@@ -1,12 +1,12 @@
 #EXTM3U
 #EXTINF:-1 tvg-chno="1" group-title="Entretenimiento" tvg-id="entretenimiento1" tvg-name="A&E HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/768px-A%26E_Network_logo.svg.png", A&E HD
-http://80.80.91.195:8000/play/a0cz/index.m3u8
+http://38.199.6.1:17001/play/a031/index.m3u8
 
 #EXTINF:-1 tvg-chno="2" group-title="Entretenimiento" tvg-id="entretenimiento2" tvg-name="AMC HD "tvg-logo="https://cdn.amcnetworks.com/amc/theme/web/amc_logo_bk_bg.png", AMC HD
-http://190.61.116.155:7000/play/a0ay
+http://200.60.124.19:29000/play/a0fn/index.m3u8
 
 #EXTINF:-1 tvg-chno="3" group-title="Entretenimiento" tvg-id="entretenimiento3" tvg-name="Film & arts HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/FILMANDARTS.png", Film & arts HD
-http://80.80.91.195:8000/play/a0cy/index.m3u8
+http://200.60.124.19:29000/play/a0l1/index.m3u8
 
 #EXTINF:-1 tvg-chno="4" group-title="Entretenimiento" tvg-id="entretenimiento4" tvg-name="AXN HD" tvg-logo="https://la.axn.com/themes/custom/responsive_sony_axn/logo.png", AXN HD 
 http://38.44.109.41:8003/play/a031/index.m3u8
@@ -15,7 +15,7 @@ http://38.44.109.41:8003/play/a031/index.m3u8
 http://80.80.91.195:8000/play/a03o/index.m3u8
 
 #EXTINF:-1 tvg-chno="6" group-title="Infantil" tvg-id="infantil1" tvg-name="CARTOON NETWORK HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1200px-Cartoon_Network_2010_logo.svg.png", CARTOON NETWORK HD  
-http://190.61.116.155:7000/play/a02b
+http://200.60.124.19:29000/play/a0j6/index.m3u8
 
 #EXTINF:-1 tvg-chno="7" group-title="Cine" tvg-id="cine1" tvg-name="CINECANAL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png", CINECANAL HD 
 http://38.44.109.41:8003/play/a03a/index.m3u8
@@ -54,7 +54,7 @@ http://80.80.91.195:8000/play/a0dp/index.m3u8
 http://200.60.124.19:29000/play/a0kv/index.m3u8
 
 #EXTINF:-1 tvg-chno="19" group-title="Deportes" tvg-id="deportes5" tvg-name="ESPN HD" tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png", ESPN HD 
-http://fortv.cc:8080/0n8u9R/169324/86765
+http://tv.proyectox.vip:8080/USA4425010260/LgucHzwXKr/9516
 
 #EXTINF:-1 tvg-chno="20" group-title="Cocina" tvg-id="cocina2" tvg-name="EL GOURMET HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/El_Gourmet_logo.png", EL GOURMET HD 
 http://80.80.91.195:8000/play/a04c/index.m3u8
@@ -114,7 +114,7 @@ http://80.80.91.195:8000/play/a0a6/index.m3u8
 http://cdn.redtraffic.net/pornstar.m3u8
 
 #EXTINF:-1 tvg-chno="39" group-title="Nacionales" tvg-id="Nacionales1" tvg-name="RCN HD" tvg-logo="https://imagenes.canalrcn.com/CanalRCN/imagen-compartir-canal.jpg", RCN - HD 
-http://38.199.6.1:17001/play/a04w/index.m3u8
+http://45.175.139.194:8000/play/a04m
 
 #EXTINF:-1 tvg-chno="40" group-title="Cine" tvg-id="cine25" tvg-name="STAR CHANNEL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Star_Channel_2021.png", STAR CHANNEL HD 
 http://80.80.91.195:8000/play/a056/index.m3u8
@@ -216,7 +216,7 @@ http://190.60.37.154:45000/play/a036/index.m3u8
 http://38.199.6.1:17001/play/a05s/index.m3u8
 
 #EXTINF:-1 tvg-chno="73" group-title="Cine" tvg-id="cine13" tvg-name="GOLDEN PLUS HD" tvg-logo="https://archive.org/download/logo.brootv_golden/GOLDEN_PLUS.png", GOLDEN PLUS HD
-http://thevdm.xyz:25461/Rt762/Cus762/19907
+http://tv.proyectox.vip:8080/USA4425010260/LgucHzwXKr/9661
 
 #EXTINF:-1 tvg-chno="74" group-title="Documentales" tvg-id="documentales5" tvg-name="HISTORY 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/History2Logo2019.png/640px-History2Logo2019.png", HISTORY 2 HD
 http://38.199.6.1:17001/play/a06h/index.m3u8
@@ -225,13 +225,13 @@ http://38.199.6.1:17001/play/a06h/index.m3u8
 http://177.93.46.163:8000/play/a019
 
 #EXTINF:-1 tvg-chno="76" group-title="Entretenimiento" tvg-id="entretenimiento28" tvg-name="LATINA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logotipo_de_Latina_Televisi%C3%B3n.svg/2048px-Logotipo_de_Latina_Televisi%C3%B3n.svg.png", LATINA HD
-http://200.60.124.19:29000/play/a0gc/index.m3u8
+http://tv.proyectox.vip:8080/USA4425010260/LgucHzwXKr/8453
 
 #EXTINF:-1 tvg-chno="77" group-title="Entretenimiento" tvg-id="entretenimiento10" tvg-name="MTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/MTV_Logo_2010.svg/2560px-MTV_Logo_2010.svg.png", MTV HD
 http://80.80.91.195:8000/play/a042/index.m3u8
 
 #EXTINF:-1 tvg-chno="78" group-title="Infantil" tvg-id="infantil7" tvg-name="NICK HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Nick_%28Logo%29.png", NICK HD
-http://190.61.116.155:7000/play/a0bg
+http://80.80.91.195:8000/play/a09l/index.m3u8
 
 #EXTINF:-1 tvg-chno="79" group-title="Entretenimiento" tvg-id="entretenimiento29" tvg-name="TRUTV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/TruTV_logo_2014.png", TRUTV HD
 http://80.80.91.195:8000/play/a03h/index.m3u8
@@ -240,13 +240,13 @@ http://80.80.91.195:8000/play/a03h/index.m3u8
 http://80.80.91.195:8000/play/a09x/index.m3u8
 
 #EXTINF:-1 tvg-chno="81" group-title="Cine" tvg-id="cine14" tvg-name="WARNER CHANNEL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Warner_Channel.svg/1200px-Warner_Channel.svg.png", WARNER CHANNEL HD
-http://190.61.116.155:7000/play/a038
+http://80.80.91.195:8000/play/a057/index.m3u8
 
 #EXTINF:-1 tvg-chno="82" group-title="Novelas" tvg-id="novelas2" tvg-name="TNT NOVELAS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Logo_TNT_Novelas.png", TNT NOVELAS HD
 http://190.60.37.154:45000/play/a045/index.m3u8
 
 #EXTINF:-1 tvg-chno="83" group-title="Deportes" tvg-id="deportes15" tvg-name="WIN SPORTS+ HD OP3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/WinSportsM%C3%A1s2022.png", WIN SPORTS+ HD OP3
-http://181.78.7.90:12500/play/WINMAS/index.m3u8
+http://home-playtv.com:8080/RayGL63501/jqDzGNAQ2Z/479415
 
 #EXTINF:-1 tvg-chno="84" group-title="Nacionales" tvg-id="Nacionales2" tvg-name="CANAL 1 HD" tvg-logo="https://images.canal1.com.co/site/images/logo_1_como_tu_color.png", CANAL 1 HD
 http://38.44.109.41:8003/play/a020/index.m3u8
@@ -258,7 +258,7 @@ http://181.78.7.90:12500/play/a06b/index.m3u8
 http://160.20.165.246:8000/play/a00y/index.m3u8
 
 #EXTINF:-1 tvg-chno="87" group-title="Regionales" tvg-id="Regionales6" tvg-name="TELEMEDELLIN" tvg-logo="https://telemedellin.tv/wp-content/uploads/2022/01/Telemedellin-en-el-programa-En-Manos-de-Todos-a-traves-del-Canal-CNC.jpg", TELEMEDELLIN
-http://cord-cutter.net:8080/25464931/30585186/78722?checkedby:alliptvlinks.com
+http://tv.proyectox.vip:8080/USA4425010260/LgucHzwXKr/8501
 
 #EXTINF:-1 tvg-chno="88" group-title="Nacionales" tvg-id="Nacionales5" tvg-name="SENAL COLOMBIA HD" tvg-logo="https://w7.pngwing.com/pngs/275/625/png-transparent-senal-colombia-rtvc-sistema-de-medios-publicos-colombia-oro-y-paz-television-logo-bola-television-text-spiral.png", SENAL COLOMBIA HD
 http://38.44.109.41:8003/play/a018/index.m3u8
@@ -282,7 +282,7 @@ http://45.175.139.194:8000/play/79
 http://190.60.37.154:45000/play/a04k/index.m3u8
 
 #EXTINF:-1 tvg-chno="95" group-title="Regionales" tvg-id="Regionales14" tvg-name="CANAL TRO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Canal_tro_logo.PNG", CANAL TRO
-http://45.176.193.222:2405/play/a06v
+http://45.175.139.194:8000/play/76
 
 #EXTINF:-1 tvg-chno="96" group-title="Regionales" tvg-id="Regionales15" tvg-name="CityTv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/CityTV_Logo_2023_Naranja.webp/768px-CityTV_Logo_2023_Naranja.webp.png", CityTv
 http://190.60.37.154:45000/play/a04j/index.m3u8
@@ -297,13 +297,13 @@ http://80.80.91.195:8000/play/a032/index.m3u8
 http://190.60.37.154:45000/play/a04s/index.m3u8
 
 #EXTINF:-1 tvg-chno="100" group-title="Cine" tvg-id="cine6" tvg-name="DE PELICULA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/De_pelicula_logo.png", DE PELICULA
-http://190.61.116.155:7000/play/a0af
+http://38.199.6.1:17001/play/a0bh/index.m3u8
 
 #EXTINF:-1 tvg-chno="101" group-title="Entretenimiento Adulto" tvg-id="adulto2" tvg-name="MYCAMTV LATINA" tvg-logo="https://assets.strpst.com/assets/icons/headerlogo_mycamtv.com.png", MYCAMTV LATINA
 http://cdn.redtraffic.net/latina.m3u8
 
 #EXTINF:-1 tvg-chno="102" group-title="Entretenimiento Adulto" tvg-id="adulto3" tvg-name="PLAYBOY" tvg-logo="https://w7.pngwing.com/pngs/661/645/png-transparent-playboy-hd-logo-thumbnail.png", PLAYBOY
-http://190.61.116.155:7000/play/a02h
+http://tv.proyectox.vip:8080/USA4425010260/LgucHzwXKr/10085
 
 #EXTINF:-1 tvg-chno="103" group-title="Entretenimiento Adulto" tvg-id="adulto4" tvg-name="VENUS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Canal_Venus_logo_%282%29.svg/800px-Canal_Venus_logo_%282%29.svg.png", VENUS
 http://80.80.91.195:8000/play/a0ds/index.m3u8
@@ -315,7 +315,7 @@ http://80.80.91.195:8000/play/a031/index.m3u8
 http://80.80.91.195:8000/play/a0a9/index.m3u8
 
 #EXTINF:-1 tvg-chno="106" group-title="Cine" tvg-id="cine19" tvg-name="UNIVERSAL PREMIERE + HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/Universal_Premiere_2021.png", UNIVERSAL PREMIERE HD
-http://190.61.116.155:7000/play/a00f
+http://38.199.6.1:17001/play/a0dg/index.m3u8
 
 #EXTINF:-1 tvg-chno="107" group-title="Cine" tvg-id="cine19" tvg-name="UNIVERSAL PREMIERE O HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/Universal_Premiere_2021.png", UNIVERSAL PREMIERE O HD
 http://80.80.91.195:8000/play/a09u/index.m3u8
@@ -345,16 +345,16 @@ http://80.80.91.195:8000/play/a03h/index.m3u8
 http://200.60.124.19:29000/play/a0kb/index.m3u8
 
 #EXTINF:-1 tvg-chno="116" group-title="Cine" tvg-id="cine24" tvg-name="GOLDEN EDGE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Golden_Edge_Logo_2020.png/800px-Golden_Edge_Logo_2020.png", GOLDEN EDGE HD
-http://190.61.116.155:7000/play/a0ae
+http://45.175.139.194:8000/play/29
 
 #EXTINF:-1 tvg-chno="117" group-title="Entretenimiento" tvg-id="entretenimiento31" tvg-name="DISCOVERY H&H HD OP2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/H%26h_Logo.svg/2560px-H%26h_Logo.svg.png", DISCOVERY H&H HD OP2
 http://38.44.109.41:8003/play/a016/index.m3u8
 
 #EXTINF:-1 tvg-chno="118" group-title="Nacionales" tvg-id="Nacionales4" tvg-name="CARACOL HD2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Caracol_HD2_2017.png", CARACOL HD2
-http://190.102.123.28:8097/play/a0d2/index.m3u8
+http://45.175.139.194:8000/play/a04j
 
 #EXTINF:-1 tvg-chno="119" group-title="Nacionales" tvg-id="Nacionales6" tvg-name="RCN HD2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/RCN_HD2_2019.png", RCN HD2
-http://190.102.123.28:8097/play/a0d3/index.m3u8
+http://181.78.7.90:12500/play/a06l/index.m3u8
 
 #EXTINF:-1 tvg-chno="120" group-title="Nacionales" tvg-id="Nacionales7" tvg-name="CARACOL SD" tvg-logo="https://caracoltv.brightspotcdn.com/dims4/default/0045201/2147483647/strip/true/crop/2048x2048+0+0/resize/120x120!/quality/90/?url=http%3A%2F%2Fcaracol-brightspot.s3.amazonaws.com%2Fe0%2F4f%2Fd0ec59d74f2ba896bc9638e43b9c%2Flogo-ctv.png", CARACOL SD
 http://190.60.37.154:45000/play/a04a/index.m3u8
@@ -389,8 +389,8 @@ http://190.60.37.154:45000/play/a02t/index.m3u8
 #EXTINF:-1 tvg-chno="130" group-title="Regionales" tvg-id="Regionales16" tvg-name="RED + HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/34/Red%2B_2018_logo.png", RED + HD
 https://inforedvos.lcdn.claro.net.co/Content/HLS_HLS_DIR/Live/channel(REDMASHDWEB)/06.m3u8
 
-#EXTINF:-1 tvg-chno="131" group-title="Entretenimiento Adulto" tvg-id="adulto6" tvg-name="24/7 XXX HD" tvg-logo="http://tvlatino.club:2082/images/c6e276b09f6233073c2a8c725b0eae97.png", 24/7 XXX HD 
-http://tvlatino.club:2082/cheviprem1year/VUT3yt9zA86d/471888
+#EXTINF:-1 tvg-chno="131" group-title="Entretenimiento Adulto" tvg-id="adulto6" tvg-name="SEXMEX" tvg-logo="https://sexmex.xxx/nats/logo.png", SEXMEX
+http://tv.proyectox.vip:8080/USA4425010260/LgucHzwXKr/10089
 
 #EXTINF:-1 tvg-chno="132" group-title="Entretenimiento Adulto" tvg-id="adulto5" tvg-name="Brazzers FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1HWGNc83HguMs48kFsq7p9lY34YxI1EbMtA&s", Brazzers FHD
 http://flx.lat:8080//live/feltre/tsCmGYDb84KV/267104.ts
