@@ -335,8 +335,10 @@ http://38.199.6.1:17001/play/a0et/index.m3u8
 #EXTINF:-1 tvg-chno="112" group-title="Cine" tvg-id="cine21" tvg-name="HBO POP HD" tvg-logo="https://seeklogo.com/images/H/hbo-pop-logo-10AD275431-seeklogo.com.png", HBO POP HD
 http://38.199.6.1:17001/play/a038/index.m3u8
 
-#EXTINF:-1 tvg-chno="113" group-title="Religioso" tvg-id="Religioso3" tvg-name="TELEVID" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/Logo_Tele_VID.png", TELEVID
-https://tecnibrain.github.io/iptv.github.io/televid.m3u8
+#EXTINF:-1 tvg-chno="113" tvg-id="Religioso3" tvg-name="TELEVID" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/Logo_Tele_VID.png" group-title="Religioso",TELEVID
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
+https://liveingesta118.cdnmedia.tv/televidtvlive/smil:dvrlive.smil/playlist.m3u8?DVR=
+
 
 #EXTINF:-1 tvg-chno="114" group-title="Cine" tvg-id="cine22" tvg-name="ADULT SWIM HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/990px-Adult_Swim_2003_logo.svg.png", ADULT SWIM HD
 http://38.199.6.1:17001/play/a04c/index.m3u8
