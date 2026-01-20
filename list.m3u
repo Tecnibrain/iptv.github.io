@@ -114,7 +114,7 @@ http://38.199.6.1:17001/play/a03z/index.m3u8
 http://cdn.redtraffic.net/pornstar.m3u8
 
 #EXTINF:-1 tvg-chno="39" group-title="Nacionales" tvg-id="Nacionales1" tvg-name="RCN HD" tvg-logo="https://imagenes.canalrcn.com/CanalRCN/imagen-compartir-canal.jpg", RCN - HD 
-http://38.199.6.1:17001/play/a04w/index.m3u8
+http://190.60.32.178:8178/play/a0ga/index.m3u8
 
 #EXTINF:-1 tvg-chno="40" group-title="Cine" tvg-id="cine25" tvg-name="STAR CHANNEL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Star_Channel_2021.png", STAR CHANNEL HD 
 http://38.199.6.1:17001/play/a067/index.m3u8
@@ -282,7 +282,7 @@ http://tv.proyectox.vip:8080/USA4425010260/LgucHzwXKr/84908
 http://190.60.37.154:45000/play/a04k/index.m3u8
 
 #EXTINF:-1 tvg-chno="95" group-title="Regionales" tvg-id="Regionales14" tvg-name="CANAL TRO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Canal_tro_logo.PNG", CANAL TRO
-http://189.50.210.3:8008/play/a06e/index.m3u8
+http://190.60.37.154:45000/play/a04h/index.m3u8
 
 #EXTINF:-1 tvg-chno="96" group-title="Regionales" tvg-id="Regionales15" tvg-name="CityTv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/CityTV_Logo_2023_Naranja.webp/768px-CityTV_Logo_2023_Naranja.webp.png", CityTv
 http://190.60.37.154:45000/play/a04j/index.m3u8
@@ -336,7 +336,7 @@ http://38.199.6.1:17001/play/a0et/index.m3u8
 http://38.199.6.1:17001/play/a038/index.m3u8
 
 #EXTINF:-1 tvg-chno="113" group-title="Religioso" tvg-id="Religioso3" tvg-name="TELEVID" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/Logo_Tele_VID.png", TELEVID
-http://190.60.37.154:45000/play/a01k/index.m3u8
+https://tecnibrain.github.io/iptv.github.io/televid.m3u8
 
 #EXTINF:-1 tvg-chno="114" group-title="Cine" tvg-id="cine22" tvg-name="ADULT SWIM HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/990px-Adult_Swim_2003_logo.svg.png", ADULT SWIM HD
 http://38.199.6.1:17001/play/a04c/index.m3u8
