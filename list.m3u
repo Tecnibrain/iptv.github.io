@@ -168,7 +168,7 @@ http://181.78.7.90:12500/play/a08y/index.m3u8
 http://181.78.8.199:8000/play/a06v/index.m3u8
 
 #EXTINF:-1 tvg-chno="58" group-title="Religioso" tvg-id="Religioso2" tvg-name="EWTN" tvg-logo="https://www.rapidcitydiocese.org/wp-content/uploads/2020/03/ewtn-logo.jpg", EWTN
-http://181.78.8.199:8000/play/a0ee/index.m3u8
+http://45.5.119.43:4000/play/a04x/index.m3u8
 
 #EXTINF:-1 tvg-chno="59" group-title="Documentales" tvg-id="documentales7" tvg-name="ANIMAL PLANET HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1067px-2018_Animal_Planet_logo.svg.png", ANIMAL PLANET HD
 http://181.78.8.199:8000/play/a06w/index.m3u8
@@ -177,7 +177,7 @@ http://181.78.8.199:8000/play/a06w/index.m3u8
 http://189.50.210.3:8008/play/a02s/index.m3u8
 
 #EXTINF:-1 tvg-chno="61" group-title="Regionales" tvg-id="Regionales1" tvg-name="TELEISLAS" tvg-logo="https://teleislas.gov.co/wp-content/uploads/2019/07/cropped-Teleislas_Logo.png", TELEISLAS
-http://190.102.123.28:8097/play/a0dg/index.m3u8
+http://181.78.85.59:2500/play/a01y/index.m3u8
 
 #EXTINF:-1 tvg-chno="62" group-title="Entretenimiento" tvg-id="entretenimiento23" tvg-name="COMEDY CENTRAL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/1000px-Comedy_Central_2018.svg.png", COMEDY CENTRAL HD
 http://38.49.128.38:8000/play/a0b3/index.m3u8
