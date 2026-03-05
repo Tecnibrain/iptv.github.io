@@ -54,7 +54,7 @@ http://181.78.8.199:8000/play/a0do/index.m3u8
 http://189.50.210.3:8008/play/a074/index.m3u8
 
 #EXTINF:-1 tvg-chno="19" group-title="Deportes" tvg-id="deportes5" tvg-name="ESPN HD" tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png", ESPN HD 
-http://181.78.8.199:8000/play/a08y/index.m3u8
+http://181.78.8.199:8000/play/a0b1/index.m3u8
 
 #EXTINF:-1 tvg-chno="20" group-title="Cocina" tvg-id="cocina2" tvg-name="EL GOURMET HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/El_Gourmet_logo.png", EL GOURMET HD 
 http://45.5.119.43:4000/play/a04v/index.m3u8
