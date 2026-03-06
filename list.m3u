@@ -18,7 +18,7 @@ http://189.50.210.3:8008/play/a05w/index.m3u8
 http://181.78.8.199:8000/play/a095/index.m3u8
 
 #EXTINF:-1 tvg-chno="7" group-title="Cine" tvg-id="cine1" tvg-name="CINECANAL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png", CINECANAL HD 
-http://38.44.109.41:8003/play/a03a/index.m3u8
+http://181.78.8.199:8000/play/a0bz/index.m3u8
 
 #EXTINF:-1 tvg-chno="8" group-title="Cine" tvg-id="cine2" tvg-name="CINEMAX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/1200px-Cinemax_%28Yellow%29.svg.png", CINEMAX HD 
 http://38.44.109.41:8003/play/a023/index.m3u8
@@ -333,7 +333,7 @@ http://181.78.8.199:8000/play/a081/index.m3u8
 http://189.50.210.3:8008/play/a07e/index.m3u8
 
 #EXTINF:-1 tvg-chno="113" group-title="Religioso" tvg-id="Religioso3" tvg-name="TELEVID" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/Logo_Tele_VID.png", TELEVID
-https://raw.githubusercontent.com/Tecnibrain/iptv.github.io/main/televid.m3u
+https://youtu.be/oSG6IsxQ7kM
 
 #EXTINF:-1 tvg-chno="114" group-title="Cine" tvg-id="cine22" tvg-name="ADULT SWIM HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/990px-Adult_Swim_2003_logo.svg.png", ADULT SWIM HD
 http://181.78.8.199:8000/play/a0cs/index.m3u8
@@ -363,7 +363,7 @@ http://181.78.85.59:2500/play/a01v/index.m3u8
 http://45.5.119.43:4000/play/a0hu/index.m3u8
 
 #EXTINF:-1 tvg-chno="124" group-title="Entretenimiento" tvg-id="entretenimiento33" tvg-name="TNT SERIES SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png", TNT SERIES SD 
-https://hidra.live:443/eufTQNgNXv/ojxBLcjY/34962
+http://181.78.8.199:8000/play/a098/index.m3u8
 
 #EXTINF:-1 tvg-chno="127" group-title="Regionales" tvg-id="Regionales16" tvg-name="RED + HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/34/Red%2B_2018_logo.png", RED + HD
 https://inforedvos.lcdn.claro.net.co/Content/HLS_HLS_DIR/Live/channel(REDMASHDWEB)/06.m3u8
