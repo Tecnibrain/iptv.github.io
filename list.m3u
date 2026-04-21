@@ -276,7 +276,7 @@ http://181.78.8.199:8000/play/a0d7/index.m3u8
 http://181.78.8.199:8000/play/a0e8/index.m3u8
 
 #EXTINF:-1 tvg-chno="94" group-title="Regionales" tvg-id="Regionales13" tvg-name="CANAL CAPITAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/2020_Canal_Capital_logo.svg/640px-2020_Canal_Capital_logo.svg.png", CANAL CAPITAL
-http://181.78.8.199:8000/play/a0dk/index.m3u8
+https://co-e1-p-e-aa1.cdn.mdstrm.com/live-stream/6952dc88cb62083467eb6ab4/publish/media_5000.m3u8?aid=694e81af27a64bef4f1ec07c&pid=oSCHoy4JQsNmenuQmYz42fZm3xvx5qVw&sid=lubQLjHRCtJG8JlI37iqPOWZkpyNXb3s&uid=ltJfKCRTJADzZdMiWreWMXNvTM06oRe8&es=co-e1-p-e-aa1.cdn.mdstrm.com&ote=1776876134788&ot=1GF47fwpJw3ez2QXcO2FLw&proto=https&pz=us
 
 #EXTINF:-1 tvg-chno="95" group-title="Regionales" tvg-id="Regionales14" tvg-name="CANAL TRO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Canal_tro_logo.PNG", CANAL TRO
 http://181.78.8.199:8000/play/a0dh/index.m3u8
