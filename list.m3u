@@ -268,7 +268,8 @@ http://181.78.8.199:8000/play/a0dd/index.m3u8
 http://181.78.8.199:8000/play/a0de/index.m3u8
 
 #EXTINF:-1 tvg-chno="91" group-title="Regionales" tvg-id="Regionales10" tvg-name="TELECARIBE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Telecaribe2017.png/640px-Telecaribe2017.png", TELECARIBE
-http://181.78.8.199:8000/play/a0d6/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
+https://liveingesta118.cdnmedia.tv/telecaribetvlive/smil:rtmp02.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="92" group-title="Regionales" tvg-id="Regionales11" tvg-name="TELEPACIFICO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/Telepac%C3%ADfico.png", TELEPACIFICO
 http://181.78.8.199:8000/play/a0d7/index.m3u8
