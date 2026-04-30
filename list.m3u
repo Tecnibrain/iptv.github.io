@@ -170,7 +170,9 @@ http://190.60.40.34:8001/play/a0ef
 http://190.61.43.118:45000/play/a024
 
 #EXTINF:-1 tvg-chno="56" group-title="Religioso" tvg-id="Religioso1" tvg-name="ENLACE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Enlace_Televisi%C3%B3n_logo.svg/2560px-Enlace_Televisi%C3%B3n_logo.svg.png", ENLACE
-http://38.199.4.105:9999/play/a0m5/index.m3u8
+http://181.78.8.199:8000/play/a0dq/index.m3u8
+http://45.5.119.43:4000/play/a0gj/index.m3u8
+http://38.199.4.105:9999/play/a0ot/index.m3u8
 
 #EXTINF:-1 tvg-chno="57" group-title="Deportes" tvg-id="deportes11" tvg-name="WIN SPORTS+ HD OP2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/WinSportsM%C3%A1s2022.png", WIN SPORTS+ HD OP2
 http://190.60.40.34:8001/play/a02r
@@ -236,7 +238,8 @@ http://38.199.4.105:9999/play/a0pi/index.m3u8
 http://181.78.85.59:2500/play/a00k/index.m3u8
 
 #EXTINF:-1 tvg-chno="78" group-title="Infantil" tvg-id="infantil7" tvg-name="NICK HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Nick_%28Logo%29.png", NICK HD
-http://38.199.4.105:9999/play/a0oa/index.m3u8
+http://181.78.8.199:8000/play/a07l/index.m3u8
+http://181.224.200.5:2277/play/a0bm/index.m3u8
 
 #EXTINF:-1 tvg-chno="79" group-title="Entretenimiento" tvg-id="entretenimiento29" tvg-name="TRUTV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/TruTV_logo_2014.png", TRUTV HD
 http://45.5.119.43:4000/play/a051/index.m3u8
@@ -349,7 +352,7 @@ https://youtu.be/oSG6IsxQ7kM
 http://181.78.8.199:8000/play/a0cs/index.m3u8
 
 #EXTINF:-1 tvg-chno="115" group-title="Cine" tvg-id="cine23" tvg-name="HBO MUNDI HD" tvg-logo="https://seeklogo.com/images/H/hbo-mundi-logo-236F04C9B4-seeklogo.com.png", HBO MUNDI HD
-http://38.199.4.105:9999/play/a0in/index.m3u8
+http://38.49.128.38:8000/play/a0jj/index.m3u8
 
 #EXTINF:-1 tvg-chno="116" group-title="Cine" tvg-id="cine24" tvg-name="GOLDEN EDGE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Golden_Edge_Logo_2020.png/800px-Golden_Edge_Logo_2020.png", GOLDEN EDGE HD
 http://181.78.8.199:8000/play/a0ab/index.m3u8
@@ -361,7 +364,7 @@ http://181.224.200.5:2277/play/a00p/index.m3u8
 http://190.60.32.178:8178/play/a0aj/index.m3u8
 
 #EXTINF:-1 tvg-chno="119" group-title="Nacionales" tvg-id="Nacionales6" tvg-name="RCN HD2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/RCN_HD2_2019.png", RCN HD2
-http://181.78.7.90:12500/play/a06l/index.m3u8
+http://190.60.49.242:4000/play/a0ph/index.m3u8
 
 #EXTINF:-1 tvg-chno="120" group-title="Nacionales" tvg-id="Nacionales7" tvg-name="CARACOL" tvg-logo="https://caracoltv.brightspotcdn.com/dims4/default/0045201/2147483647/strip/true/crop/2048x2048+0+0/resize/120x120!/quality/90/?url=http%3A%2F%2Fcaracol-brightspot.s3.amazonaws.com%2Fe0%2F4f%2Fd0ec59d74f2ba896bc9638e43b9c%2Flogo-ctv.png", CARACOL
 http://181.78.8.199:8000/play/a0aw/index.m3u8
