@@ -73,7 +73,7 @@ http://181.78.8.199:8000/play/a0bw/index.m3u8
 http://45.5.119.43:4000/play/a00c/index.m3u8
 
 #EXTINF:-1 tvg-chno="25" group-title="Cine" tvg-id="cine4" tvg-name="HBO HD" tvg-logo="https://cdn.mitvstatic.com/channels/co_hbo-hd-este_m.png", HBO HD
-http://45.5.119.43:4000/play/a0l6/index.m3u8
+http://45.5.119.43:4000/play/a0l2/index.m3u8
 
 #EXTINF:-1 tvg-chno="26" group-title="Cine" tvg-id="cine5" tvg-name="HBO XTREME HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/960px-HBO_Xtreme.svg.png", HBO XTREME HD
 http://45.5.119.43:4000/play/a0l6/index.m3u8
