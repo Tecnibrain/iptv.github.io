@@ -290,6 +290,7 @@ http://38.44.109.41:8003/play/a020/index.m3u8
 #EXTINF:-1 tvg-chno="85" group-title="Nacionales" tvg-id="Nacionales3" tvg-name="CARACOL HD" tvg-logo="https://raw.githubusercontent.com/Tecnibrain/iptv.github.io/main/LOGOS/085_CARACOL_HD.png", CARACOL HD
 http://181.78.8.199:8000/play/a0b0/index.m3u8
 http://181.78.82.6:46090/play/a074/index.m3u8
+http://181.78.79.131:8000/play/a0l0
 
 #EXTINF:-1 tvg-chno="86" group-title="Noticias" tvg-id="noticias2" tvg-name="NTN 24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/NTN24_Logo.png", NTN 24
 http://181.224.200.5:2277/play/a026/index.m3u8
