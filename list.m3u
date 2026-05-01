@@ -37,7 +37,9 @@ http://181.78.85.59:2500/play/a00w/index.m3u8
 http://38.199.4.105:9999/play/a0hv/index.m3u8
 
 #EXTINF:-1 tvg-chno="13" group-title="Documentales" tvg-id="documentales9" tvg-name="DISCOVERY WORLD HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/1200px-World_Discovery_HD_logo.svg.png", DISCOVERY WORLD HD
+http://170.244.209.30:8000/play/a048/index.m3u8
 http://45.5.119.43:4000/play/a0kp/index.m3u8
+http://181.78.79.131:8000/play/a0n8
 
 #EXTINF:-1 tvg-chno="14" group-title="Infantil" tvg-id="infantil4" tvg-name="DISNEY CHANNEL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Disney_Channel_logo_%282014%29.svg/1200px-Disney_Channel_logo_%282014%29.svg.png", DISNEY CHANNEL HD 
 http://38.44.109.41:8003/play/a00e/index.m3u8
