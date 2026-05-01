@@ -118,8 +118,9 @@ http://38.199.4.105:9999/play/a0mc/index.m3u8
 #EXTINF:-1 tvg-chno="38" group-title="Entretenimiento Adulto" tvg-id="adulto1" tvg-name="MYCAMTV PORNSTAR" tvg-logo="https://assets.strpst.com/assets/icons/headerlogo_mycamtv.com.png", MYCAMTV
 http://cdn.redtraffic.net/pornstar.m3u8
 
-#EXTINF:-1 tvg-chno="39" group-title="Nacionales" tvg-id="Nacionales1" tvg-name="RCN HD" tvg-logo="https://imagenes.canalrcn.com/CanalRCN/imagen-compartir-canal.jpg", RCN - HD 
+#EXTINF:-1 tvg-chno="39" group-title="Nacionales" tvg-id="Nacionales1" tvg-name="RCN HD" tvg-logo="https://imagenes.canalrcn.com/CanalRCN/imagen-compartir-canal.jpg", RCN HD 
 http://181.78.8.199:8000/play/a09l/index.m3u8
+http://181.78.82.6:46090/play/a05v/index.m3u8
 
 #EXTINF:-1 tvg-chno="40" group-title="Cine" tvg-id="cine25" tvg-name="STAR CHANNEL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/960px-Star_Channel_2020.svg.png", STAR CHANNEL HD 
 http://38.44.109.41:8003/play/a012/index.m3u8
@@ -269,6 +270,7 @@ http://38.44.109.41:8003/play/a020/index.m3u8
 
 #EXTINF:-1 tvg-chno="85" group-title="Nacionales" tvg-id="Nacionales3" tvg-name="CARACOL HD" tvg-logo="https://caracoltv.brightspotcdn.com/dims4/default/0045201/2147483647/strip/true/crop/2048x2048+0+0/resize/120x120!/quality/90/?url=http%3A%2F%2Fcaracol-brightspot.s3.amazonaws.com%2Fe0%2F4f%2Fd0ec59d74f2ba896bc9638e43b9c%2Flogo-ctv.png", CARACOL HD
 http://181.78.8.199:8000/play/a0b0/index.m3u8
+http://181.78.82.6:46090/play/a074/index.m3u8
 
 #EXTINF:-1 tvg-chno="86" group-title="Noticias" tvg-id="noticias2" tvg-name="NTN 24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/NTN24_Logo.png", NTN 24
 http://181.224.200.5:2277/play/a026/index.m3u8
@@ -376,9 +378,11 @@ http://181.224.200.5:2277/play/a00p/index.m3u8
 
 #EXTINF:-1 tvg-chno="118" group-title="Nacionales" tvg-id="Nacionales4" tvg-name="CARACOL HD2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Caracol_HD2_2017.png", CARACOL HD2
 http://190.60.32.178:8178/play/a0aj/index.m3u8
+http://181.78.82.6:46090/play/a05y/index.m3u8
 
 #EXTINF:-1 tvg-chno="119" group-title="Nacionales" tvg-id="Nacionales6" tvg-name="RCN HD2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/RCN_HD2_2019.png", RCN HD2
 http://190.60.49.242:4000/play/a0ph/index.m3u8
+http://181.78.82.6:46090/play/a05w/index.m3u8
 
 #EXTINF:-1 tvg-chno="120" group-title="Nacionales" tvg-id="Nacionales7" tvg-name="CARACOL" tvg-logo="https://caracoltv.brightspotcdn.com/dims4/default/0045201/2147483647/strip/true/crop/2048x2048+0+0/resize/120x120!/quality/90/?url=http%3A%2F%2Fcaracol-brightspot.s3.amazonaws.com%2Fe0%2F4f%2Fd0ec59d74f2ba896bc9638e43b9c%2Flogo-ctv.png", CARACOL
 http://181.78.8.199:8000/play/a0aw/index.m3u8
