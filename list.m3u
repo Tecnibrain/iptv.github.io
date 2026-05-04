@@ -4,6 +4,9 @@ http://181.78.8.199:8000/play/a0al/index.m3u8
 http://181.224.200.5:2277/play/a01e/index.m3u8
 
 #EXTINF:-1 tvg-chno="2" group-title="Entretenimiento" tvg-id="entretenimiento2" tvg-name="AMC HD" tvg-logo="https://raw.githubusercontent.com/Tecnibrain/iptv.github.io/main/LOGOS/002_AMC_HD.png", AMC HD
+http://181.78.82.6:46090/play/a08a/index.m3u8
+http://170.244.209.30:8000/play/a03p/index.m3u8
+http://181.78.79.131:8000/play/a0n2
 http://45.5.119.43:4000/play/a0gu/index.m3u8
 
 #EXTINF:-1 tvg-chno="3" group-title="Entretenimiento" tvg-id="entretenimiento3" tvg-name="Film & arts HD" tvg-logo="https://raw.githubusercontent.com/Tecnibrain/iptv.github.io/main/LOGOS/003_Film__arts_HD.png", Film & arts HD
@@ -23,6 +26,8 @@ http://181.78.8.199:8000/play/a095/index.m3u8
 http://181.78.8.199:8000/play/a0bz/index.m3u8
 
 #EXTINF:-1 tvg-chno="8" group-title="Cine" tvg-id="cine2" tvg-name="CINEMAX HD" tvg-logo="https://raw.githubusercontent.com/Tecnibrain/iptv.github.io/main/LOGOS/008_CINEMAX_HD.png", CINEMAX HD 
+http://170.244.209.30:8000/play/a055/index.m3u8
+http://200.229.147.142:8000/play/a04h/index.m3u8
 http://181.78.85.59:2500/play/a021/index.m3u8
 
 #EXTINF:-1 tvg-chno="9" group-title="Entretenimiento" tvg-id="entretenimiento6" tvg-name="TLC" tvg-logo="https://raw.githubusercontent.com/Tecnibrain/iptv.github.io/main/LOGOS/009_TLC.png", TLC
@@ -32,6 +37,8 @@ http://181.78.8.199:8000/play/a0ch/index.m3u8
 http://181.78.8.199:8000/play/a09q/index.m3u8
 
 #EXTINF:-1 tvg-chno="11" group-title="Infantil" tvg-id="infantil3" tvg-name="DISCOVERY KIDS HD" tvg-logo="https://raw.githubusercontent.com/Tecnibrain/iptv.github.io/main/LOGOS/011_DISCOVERY_KIDS_HD.png", DISCOVERY KIDS HD 
+http://170.244.209.30:8000/play/a00k/index.m3u8
+http://200.229.147.142:8000/play/a00f/index.m3u8
 http://181.78.85.59:2500/play/a00w/index.m3u8
 
 #EXTINF:-1 tvg-chno="12" group-title="Documentales" tvg-id="documentales1" tvg-name="DISCOVERY THEATER HD" tvg-logo="https://raw.githubusercontent.com/Tecnibrain/iptv.github.io/main/LOGOS/012_DISCOVERY_THEATER_HD.png", DISCOVERY THEATER HD 
@@ -49,6 +56,8 @@ http://38.44.109.41:8003/play/a00e/index.m3u8
 http://181.78.8.199:8000/play/a08z/index.m3u8
 
 #EXTINF:-1 tvg-chno="16" group-title="Deportes" tvg-id="deportes2" tvg-name="ESPN 3 HD" tvg-logo="https://raw.githubusercontent.com/Tecnibrain/iptv.github.io/main/LOGOS/016_ESPN_3_HD.png", ESPN 3 HD 
+http://181.78.79.131:8000/play/a0s6
+http://170.244.209.30:8000/play/a042/index.m3u8
 http://181.78.8.199:8000/play/a07f/index.m3u8
 
 #EXTINF:-1 tvg-chno="17" group-title="Deportes" tvg-id="deportes3" tvg-name="ESPN 4 HD" tvg-logo="https://raw.githubusercontent.com/Tecnibrain/iptv.github.io/main/LOGOS/017_ESPN_4_HD.png", ESPN 4 HD 
@@ -178,6 +187,7 @@ http://181.78.8.199:8000/play/a09x/index.m3u8
 http://181.78.8.199:8000/play/a09t/index.m3u8
 
 #EXTINF:-1 tvg-chno="53" group-title="Cine" tvg-id="cine12" tvg-name="UNIVERSAL PREMIERE HD" tvg-logo="https://raw.githubusercontent.com/Tecnibrain/iptv.github.io/main/LOGOS/053_UNIVERSAL_PREMIERE_HD.png", UNIVERSAL PREMIERE HD 
+http://170.244.209.30:8000/play/a0y4/index.m3u8
 http://45.5.119.43:4000/play/a0i1/index.m3u8
 
 #EXTINF:-1 tvg-chno="54" group-title="Deportes" tvg-id="deportes9" tvg-name="WIN SPORTS HD" tvg-logo="https://raw.githubusercontent.com/Tecnibrain/iptv.github.io/main/LOGOS/054_WIN_SPORTS_HD.png", WIN SPORTS HD 
@@ -279,6 +289,8 @@ http://45.5.119.43:4000/play/a051/index.m3u8
 http://45.5.119.43:4000/play/a0i5/index.m3u8
 
 #EXTINF:-1 tvg-chno="81" group-title="Cine" tvg-id="cine14" tvg-name="WARNER CHANNEL HD" tvg-logo="https://raw.githubusercontent.com/Tecnibrain/iptv.github.io/main/LOGOS/081_WARNER_CHANNEL_HD.png", WARNER CHANNEL HD
+http://170.244.209.30:8000/play/a0nt/index.m3u8
+http://181.78.79.131:8000/play/a0pz
 http://181.224.200.5:2277/play/a01g/index.m3u8
 
 #EXTINF:-1 tvg-chno="82" group-title="Novelas" tvg-id="novelas2" tvg-name="TNT NOVELAS HD" tvg-logo="https://raw.githubusercontent.com/Tecnibrain/iptv.github.io/main/LOGOS/082_TNT_NOVELAS_HD.png", TNT NOVELAS HD
