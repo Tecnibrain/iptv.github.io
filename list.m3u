@@ -554,5 +554,4 @@ https://mdstrm.com/live-stream-playlist/58d1921a72e2b22e2905e493.m3u8
 https://mdstrm.com/live-stream-playlist/58d191f07290fbb058025843.m3u8
 
 #EXTINF:-1 tvg-chno="130" group-title="Religioso" tvg-id="Religioso4" tvg-name="TV Familia" tvg-logo="https://raw.githubusercontent.com/Tecnibrain/iptv.github.io/main/LOGOS/130_TV_FAMILIA.png", TV Familia
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
-https://player.streamingconnect.com/cliente/index.php
+https://59d39900ebfb8.streamlock.net/tvfamilia_480p/tvfamilia_480p/chunklist_w1359855435.m3u8
