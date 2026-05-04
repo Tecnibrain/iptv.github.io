@@ -103,7 +103,7 @@ https://liveingesta118.cdnmedia.tv/trecetvlive/smil:rtmp01.smil/playlist.m3u8
 #EXTINF:-1 tvg-chno="28" group-title="Documentales" tvg-id="documentales2" tvg-name="HISTORY CHANNEL HD" tvg-logo="https://raw.githubusercontent.com/Tecnibrain/iptv.github.io/main/LOGOS/028_HISTORY_CHANNEL_HD.png", HISTORY CHANNEL HD 
 http://181.78.8.199:8000/play/a0cv/index.m3u8
 
-#EXTINF:-1 tvg-chno="29" group-title="Documentales" tvg-id="documentales10" tvg-name="Discovery ID HD" tvg-logo="https://raw.githubusercontent.com/Tecnibrain/iptv.github.io/main/LOGOS/029_Discovery_ID_HD.png, Discovery ID HD 
+#EXTINF:-1 tvg-chno="29" group-title="Documentales" tvg-id="documentales10" tvg-name="Discovery ID HD" tvg-logo="https://raw.githubusercontent.com/Tecnibrain/iptv.github.io/main/LOGOS/029_DiscoveryID_HD.png, Discovery ID HD 
 http://170.244.209.30:8000/play/a0n5/index.m3u8
 http://181.224.200.5:2277/play/a00m/index.m3u8
 http://181.78.85.59:2500/play/a01p/index.m3u8
@@ -386,7 +386,9 @@ http://45.5.119.43:4000/play/a0kr/index.m3u8
 
 #EXTINF:-1 tvg-chno="110" group-title="Cine" tvg-id="cine20" tvg-name="GOLDEN" tvg-logo="https://raw.githubusercontent.com/Tecnibrain/iptv.github.io/main/LOGOS/110_GOLDEN.png", GOLDEN
 http://181.224.200.5:2277/play/a0do/index.m3u8
-http://181.78.85.59:2500/play/a02s/index.m3u8
+http://181.66.249.173:8080/play/a06f/index.m3u8
+http://190.60.55.141:9083/play/a0he/index.m3u8
+http://38.224.175.2:8000/play/a027/index.m3u8
 
 #EXTINF:-1 tvg-chno="111" group-title="Musica" tvg-id="Musica3" tvg-name="HTV" tvg-logo="https://raw.githubusercontent.com/Tecnibrain/iptv.github.io/main/LOGOS/111_HTV.png", HTV
 http://181.78.8.199:8000/play/a081/index.m3u8
