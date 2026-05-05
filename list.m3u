@@ -118,6 +118,8 @@ http://187.245.231.226:8000/play/a0tm/index.m3u8
 
 #EXTINF:-1 tvg-chno="24" group-title="Cine" tvg-id="cine3" tvg-name="HBO 2 HD" tvg-logo="https://raw.githubusercontent.com/Tecnibrain/iptv.github.io/main/LOGOS/024_HBO_2_HD.png", HBO 2 HD
 http://45.5.119.43:4000/play/a00c/index.m3u8
+http://186.33.3.130:5000/play/a0gm/index.m3u8
+http://190.60.37.154:45000/play/a052/index.m3u8
 http://181.66.249.173:8080/play/a06w/index.m3u8
 
 
@@ -305,8 +307,9 @@ http://181.78.8.199:8000/play/a086/index.m3u8
 http://181.78.79.131:8000/play/a0qv
 
 #EXTINF:-1 tvg-chno="64" group-title="Entretenimiento" tvg-id="entretenimiento25" tvg-name="DISCOVERY H&H HD" tvg-logo="https://raw.githubusercontent.com/Tecnibrain/iptv.github.io/main/LOGOS/064_DISCOVERY_H&H_HD.png", DISCOVERY H&H HD
-http://190.60.48.151:8010/play/a08y/index.m3u8
-http://181.224.200.5:2277/play/a00p/index.m3u8
+http://187.245.231.226:8000/play/a0ol/index.m3u8
+http://170.244.209.30:8000/play/a13m/index.m3u8
+http://45.171.64.30:6060/play/a03k/index.m3u8
 
 #EXTINF:-1 tvg-chno="65" group-title="Documentales" tvg-id="documentales4" tvg-name="DISCOVERY CHANNEL HD" tvg-logo="https://raw.githubusercontent.com/Tecnibrain/iptv.github.io/main/LOGOS/065_DISCOVERY_CHANNEL_HD.png", DISCOVERY CHANNEL HD
 http://38.199.4.105:9999/play/a0mh/index.m3u8
@@ -359,12 +362,12 @@ http://170.244.209.30:8000/play/a15n/index.m3u8
 #EXTINF:-1 tvg-chno="75" group-title="Entretenimiento" tvg-id="entretenimiento27" tvg-name="LAS ESTRELLAS HD" tvg-logo="https://raw.githubusercontent.com/Tecnibrain/iptv.github.io/main/LOGOS/075_LAS_ESTRELLAS_HD.png", LAS ESTRELLAS HD
 http://181.78.8.199:8000/play/a0as/index.m3u8
 http://181.66.249.173:8080/play/a0bl/index.m3u8
-http://190.60.55.141:9083/play/a0m3/index.m3u8
+http://181.78.79.131:8000/play/a0qu
 
 #EXTINF:-1 tvg-chno="76" group-title="Entretenimiento" tvg-id="entretenimiento28" tvg-name="LATINA HD" tvg-logo="https://raw.githubusercontent.com/Tecnibrain/iptv.github.io/main/LOGOS/076_LATINA_HD.png", LATINA HD
 http://38.199.4.105:9999/play/a0pi/index.m3u8
 http://38.224.175.2:8000/play/a07c/index.m3u8
-http://190.60.48.151:8010/play/a09d/index.m3u8
+https://peaky.techcoder40.workers.dev/6175.m3u8
 
 #EXTINF:-1 tvg-chno="77" group-title="Entretenimiento" tvg-id="entretenimiento10" tvg-name="MTV" tvg-logo="https://raw.githubusercontent.com/Tecnibrain/iptv.github.io/main/LOGOS/077_MTV_HD.png", MTV HD
 http://170.244.209.30:8000/play/a0h7/index.m3u8
