@@ -260,8 +260,9 @@ http://181.78.8.199:8000/play/a06v/index.m3u8
 
 #EXTINF:-1 tvg-chno="55" group-title="Deportes" tvg-id="deportes10" tvg-name="WIN SPORTS+ HD" tvg-logo="https://raw.githubusercontent.com/Tecnibrain/iptv.github.io/main/LOGOS/055_WIN_SPORTS_HD_OP1.png", WIN SPORTS+ HD
 http://190.60.37.118:4000/play/a0bw
-http://181.78.74.146:18000/play/a03g
+http://40.160.51.72:8000/play/a004/index.m3u8
 http://181.78.79.131:8000/play/a0n1
+http://181.78.74.146:18000/play/a03g
 
 #EXTINF:-1 tvg-chno="56" group-title="Religioso" tvg-id="Religioso1" tvg-name="ENLACE" tvg-logo="https://raw.githubusercontent.com/Tecnibrain/iptv.github.io/main/LOGOS/056_ENLACE.png", ENLACE
 http://38.199.4.105:9999/play/a0ot/index.m3u8
