@@ -12,7 +12,7 @@ http://45.5.119.43:4000/play/a0gu/index.m3u8
 
 #EXTINF:-1 tvg-chno="3" group-title="Entretenimiento" tvg-id="entretenimiento3" tvg-name="Film & arts HD" tvg-logo="https://raw.githubusercontent.com/Tecnibrain/iptv.github.io/main/LOGOS/003_Film__arts_HD.png", Film & arts HD
 http://45.171.64.30:6060/play/a02f/index.m3u8
-http://187.245.231.226:8000/play/a0ma/index.m3u8
+http://141.136.61.2:8000/play/a0ck/index.m3u8
 http://45.5.119.43:4000/play/a0gs/index.m3u8
 
 #EXTINF:-1 tvg-chno="4" group-title="Entretenimiento" tvg-id="entretenimiento4" tvg-name="AXN HD" tvg-logo="https://raw.githubusercontent.com/Tecnibrain/iptv.github.io/main/LOGOS/004_AXN_HD.png", AXN HD 
@@ -45,8 +45,9 @@ http://181.78.85.59:2500/play/a021/index.m3u8
 
 #EXTINF:-1 tvg-chno="9" group-title="Entretenimiento" tvg-id="entretenimiento6" tvg-name="TLC" tvg-logo="https://raw.githubusercontent.com/Tecnibrain/iptv.github.io/main/LOGOS/009_TLC.png", TLC
 http://181.78.8.199:8000/play/a0ch/index.m3u8
-http://187.245.231.226:8000/play/a0o5/index.m3u8
 http://190.60.48.151:8010/play/a02q/index.m3u8
+http://8.243.126.131:8000/play/a04t/index.m3u8
+http://200.35.176.154:8000/play/a039/index.m3u8
 
 #EXTINF:-1 tvg-chno="10" group-title="Cine" tvg-id="Cine16" tvg-name="CINE PREMIUM HD" tvg-logo="https://raw.githubusercontent.com/Tecnibrain/iptv.github.io/main/LOGOS/010_CINE_PREMIUM_HD.png", CINE PREMIUM HD 
 http://181.78.8.199:8000/play/a09q/index.m3u8
@@ -116,13 +117,12 @@ http://181.78.79.131:8000/play/a0q5
 #EXTINF:-1 tvg-chno="23" group-title="Deportes" tvg-id="deportes7" tvg-name="ESPN 6 HD" tvg-logo="https://raw.githubusercontent.com/Tecnibrain/iptv.github.io/main/LOGOS/023_ESPN_6_HD.png", ESPN 6 HD 
 http://181.78.8.199:8000/play/a0bw/index.m3u8
 http://190.60.48.151:8010/play/a07a/index.m3u8
-http://187.245.231.226:8000/play/a0tm/index.m3u8
+http://200.35.176.154:8000/play/a055/index.m3u8
 
 #EXTINF:-1 tvg-chno="24" group-title="Cine" tvg-id="cine3" tvg-name="HBO 2 HD" tvg-logo="https://raw.githubusercontent.com/Tecnibrain/iptv.github.io/main/LOGOS/024_HBO_2_HD.png", HBO 2 HD
 http://45.5.119.43:4000/play/a00c/index.m3u8
 http://186.33.3.130:5000/play/a0gm/index.m3u8
-http://190.60.37.154:45000/play/a052/index.m3u8
-http://181.66.249.173:8080/play/a06w/index.m3u8
+http://200.35.176.154:8000/play/a00m/index.m3u8
 
 
 #EXTINF:-1 tvg-chno="25" group-title="Cine" tvg-id="cine4" tvg-name="HBO HD" tvg-logo="https://raw.githubusercontent.com/Tecnibrain/iptv.github.io/main/LOGOS/025_HBO_HD.png", HBO HD
