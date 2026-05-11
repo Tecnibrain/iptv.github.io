@@ -577,6 +577,9 @@ http://181.78.82.6:46090/play/a05y/index.m3u8
 http://190.60.49.242:4000/play/a0ph/index.m3u8
 http://181.78.82.6:46090/play/a05w/index.m3u8
 
+#EXTINF:-1 tvg-chno="120" group-title="Entretenimiento Adulto" tvg-id="adulto6" tvg-name="Reality Kings" tvg-logo="https://raw.githubusercontent.com/Tecnibrain/iptv.github.io/main/LOGOS/120_Reality_Kings.png", Reality Kings
+http://79.127.207.193:80/RealityKings/playlist.m3u8
+
 #EXTINF:-1 tvg-chno="124" group-title="Entretenimiento" tvg-id="entretenimiento33" tvg-name="TNT SERIES SD" tvg-logo="https://raw.githubusercontent.com/Tecnibrain/iptv.github.io/main/LOGOS/124_TNT_SERIES_SD.png", TNT SERIES SD 
 http://181.78.8.199:8000/play/a098/index.m3u8
 
