@@ -27,9 +27,9 @@ http://190.60.48.151:8010/play/a02x/index.m3u8
 
 #EXTINF:-1 tvg-chno="6" group-title="Infantil" tvg-id="infantil1" tvg-name="CARTOON NETWORK HD" tvg-logo="https://raw.githubusercontent.com/Tecnibrain/iptv.github.io/main/LOGOS/006_CARTOON_NETWORK_HD.png", CARTOON NETWORK HD  
 http://181.78.8.199:8000/play/a095/index.m3u8
-http://190.60.55.141:9083/play/a0nb/index.m3u8
-http://190.60.48.151:8010/play/a0cw/index.m3u8
-http://38.224.175.2:8000/play/a07j/index.m3u8
+http://181.78.21.174:8015/play/a02s/index.m3u8
+http://181.209.96.155:10000/play/a163/index.m3u8
+http://190.14.249.223:17032/play/a048/index.m3u8
 
 #EXTINF:-1 tvg-chno="7" group-title="Cine" tvg-id="cine1" tvg-name="CINECANAL HD" tvg-logo="https://raw.githubusercontent.com/Tecnibrain/iptv.github.io/main/LOGOS/007_CINECANAL_HD.png", CINECANAL HD 
 http://181.78.8.199:8000/play/a0bz/index.m3u8
