@@ -130,7 +130,7 @@ http://200.35.176.154:8000/play/a00m/index.m3u8
 
 #EXTINF:-1 tvg-chno="25" group-title="Cine" tvg-id="cine4" tvg-name="HBO HD" tvg-logo="https://raw.githubusercontent.com/Tecnibrain/iptv.github.io/main/LOGOS/025_HBO_HD.png", HBO HD
 http://38.199.4.105:9999/play/a0p1/index.m3u8
-http://186.33.3.130:5000/play/a0gl/index.m3u8
+http://190.217.66.92:8000/play/a0pt/index.m3u8u?hls
 http://190.60.55.141:9083/play/a0h5/index.m3u8
 
 #EXTINF:-1 tvg-chno="26" group-title="Cine" tvg-id="cine5" tvg-name="HBO XTREME HD" tvg-logo="https://raw.githubusercontent.com/Tecnibrain/iptv.github.io/main/LOGOS/026_HBO_XTREME_HD.png", HBO XTREME HD
