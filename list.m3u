@@ -7,7 +7,8 @@ http://186.33.3.130:5000/play/a0bp/index.m3u8
 #EXTINF:-1 tvg-chno="2" group-title="Entretenimiento" tvg-id="entretenimiento2" tvg-name="AMC HD" tvg-logo="https://raw.githubusercontent.com/Tecnibrain/iptv.github.io/main/LOGOS/002_AMC_HD.png", AMC HD
 http://181.78.79.131:8000/play/a0n2
 http://38.210.105.10:8000/play/a03b/index.m3u8
-http://45.5.119.43:4000/play/a0gu/index.m3u8
+http://190.60.48.151:8010/play/a03l/index.m3u8
+http://190.217.66.92:8000/play/a0pr/index.m3u8u?hls
 
 #EXTINF:-1 tvg-chno="3" group-title="Entretenimiento" tvg-id="entretenimiento3" tvg-name="Film & arts HD" tvg-logo="https://raw.githubusercontent.com/Tecnibrain/iptv.github.io/main/LOGOS/003_Film__arts_HD.png", Film & arts HD
 http://45.171.64.30:6060/play/a02f/index.m3u8
