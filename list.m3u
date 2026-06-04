@@ -47,7 +47,6 @@ http://181.78.85.59:2500/play/a021/index.m3u8
 http://181.78.8.199:8000/play/a0ch/index.m3u8
 http://190.60.48.151:8010/play/a02q/index.m3u8
 http://8.243.126.131:8000/play/a04t/index.m3u8
-http://200.35.176.154:8000/play/a039/index.m3u8
 
 #EXTINF:-1 tvg-chno="10" group-title="Cine" tvg-id="Cine16" tvg-name="CINE PREMIUM HD" tvg-logo="https://raw.githubusercontent.com/Tecnibrain/iptv.github.io/main/LOGOS/010_CINE_PREMIUM_HD.png", CINE PREMIUM HD 
 http://181.78.8.199:8000/play/a09q/index.m3u8
