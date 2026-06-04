@@ -22,8 +22,8 @@ http://190.60.48.151:8010/play/a03x/index.m3u8
 
 #EXTINF:-1 tvg-chno="5" group-title="Entretenimiento" tvg-id="entretenimiento5" tvg-name="LIFETIME" tvg-logo="https://raw.githubusercontent.com/Tecnibrain/iptv.github.io/main/LOGOS/005_LIFETIME.png", LIFETIME
 http://181.78.8.199:8000/play/a0ai/index.m3u8
+http://190.14.249.223:17032/play/a04d/index.m3u8
 http://190.60.48.151:8010/play/a02x/index.m3u8
-http://38.224.175.2:8000/play/a03d/index.m3u8
 
 #EXTINF:-1 tvg-chno="6" group-title="Infantil" tvg-id="infantil1" tvg-name="CARTOON NETWORK HD" tvg-logo="https://raw.githubusercontent.com/Tecnibrain/iptv.github.io/main/LOGOS/006_CARTOON_NETWORK_HD.png", CARTOON NETWORK HD  
 http://181.78.8.199:8000/play/a095/index.m3u8
