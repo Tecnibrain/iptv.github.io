@@ -41,7 +41,7 @@ http://181.66.249.173:8080/play/a0e3/index.m3u8
 http://190.60.48.151:8010/play/a0bk/index.m3u8
 http://38.210.105.10:8000/play/a0c5/index.m3u8
 http://200.229.147.142:8000/play/a04h/index.m3u8
-http://181.78.85.59:2500/play/a021/index.m3u8
+http://181.78.85.59:2500
 
 #EXTINF:-1 tvg-chno="9" group-title="Entretenimiento" tvg-id="entretenimiento6" tvg-name="TLC" tvg-logo="https://raw.githubusercontent.com/Tecnibrain/iptv.github.io/main/LOGOS/009_TLC.png", TLC
 http://181.78.8.199:8000/play/a0ch/index.m3u8
@@ -279,7 +279,6 @@ http://181.78.21.174:8015/play/a05q/index.m3u8
 http://181.78.85.59:2500/play/a030/index.m3u8
 
 #EXTINF:-1 tvg-chno="55" group-title="Deportes" tvg-id="deportes10" tvg-name="WIN SPORTS+ HD" tvg-logo="https://raw.githubusercontent.com/Tecnibrain/iptv.github.io/main/LOGOS/055_WIN_SPORTS_HD_OP1.png", WIN SPORTS+ HD
-http://200.69.92.222:8000/play/a04r/index.m3u8
 http://190.217.66.92:8000/play/a0qs/index.m3u8
 http://181.78.74.146:18000/play/a03g
 
