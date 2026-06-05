@@ -221,7 +221,6 @@ http://181.66.249.173:8080/play/a0g5/index.m3u8
 http://181.78.79.131:8000/play/a0q2
 
 #EXTINF:-1 tvg-chno="44" group-title="Cine" tvg-id="cine9" tvg-name="STUDIO UNIVERSAL HD" tvg-logo="https://raw.githubusercontent.com/Tecnibrain/iptv.github.io/main/LOGOS/044_STUDIO_UNIVERSAL_HD.png", STUDIO UNIVERSAL HD 
-http://181.78.8.199:8000/play/a09w/index.m3u8
 http://38.210.105.10:8000/play/a07i/index.m3u8
 http://38.224.175.2:8000/play/a06e/index.m3u8
 http://181.224.200.5:2277/play/a01j/index.m3u8
