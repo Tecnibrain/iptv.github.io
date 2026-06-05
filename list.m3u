@@ -233,8 +233,9 @@ http://45.5.119.43:4000/play/a050/index.m3u8
 
 #EXTINF:-1 tvg-chno="46" group-title="Cine" tvg-id="cine10" tvg-name="TNT HD" tvg-logo="https://raw.githubusercontent.com/Tecnibrain/iptv.github.io/main/LOGOS/046_TNT_HD.png", TNT HD 
 http://190.60.49.242:4000/play/a0kn/index.m3u8
+http://181.66.249.173:8080/play/a0g2/index.m3u8
 http://38.199.4.105:9999/play/a0mk/index.m3u8
-http://45.5.119.43:4000/play/a0hu/index.m3u8
+http://38.210.105.10:8000/play/a0f3/index.m3u8
 
 
 #EXTINF:-1 tvg-chno="47" group-title="Deportes" tvg-id="deportes8" tvg-name="TYC SPORTS HD" tvg-logo="https://raw.githubusercontent.com/Tecnibrain/iptv.github.io/main/LOGOS/047_TYC_SPORTS_HD.png", TYC SPORTS HD 
