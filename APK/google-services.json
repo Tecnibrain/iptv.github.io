@@ -1,16 +1,29 @@
-rules_version = '2';
-service cloud.firestore {
-  match /databases/{database}/documents {
-    // Cada usuario solo accede a SUS propios datos
-    match /users/{uid} {
-      allow read: if request.auth != null && request.auth.uid == uid;
-      allow write: if false;  // solo el admin edita usuarios (desde consola)
-
-      match /dispositivos/{deviceId} {
-        allow read: if request.auth != null && request.auth.uid == uid;
-        allow create, update: if request.auth != null && request.auth.uid == uid;
-        allow delete: if request.auth != null && request.auth.uid == uid;
+{
+  "project_info": {
+    "project_number": "373401847107",
+    "project_id": "iptvcat",
+    "storage_bucket": "iptvcat.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:373401847107:android:6f0865497c0697323a9bf6",
+        "android_client_info": {
+          "package_name": "com.streamdroid.iptv"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC61dZsB6Kvz-AEbju4ZXasxJ0kIbBHAfs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
       }
     }
-  }
+  ],
+  "configuration_version": "1"
 }
