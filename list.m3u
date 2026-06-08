@@ -588,6 +588,19 @@ http://astra.fibernetisp.com.co/play/a0e3/index.m3u8
 #EXTINF:-1 tvg-chno="120" group-title="Entretenimiento Adulto" tvg-id="adulto6" tvg-name="Reality Kings" tvg-logo="https://raw.githubusercontent.com/Tecnibrain/iptv.github.io/main/LOGOS/120_Reality_Kings.png", Reality Kings
 http://79.127.207.193:80/RealityKings/playlist.m3u8
 
+#EXTINF:-1 tvg-chno="121" group-title="Deportes" tvg-id="deportes15" tvg-name="DIRECTV SPORTS" tvg-logo="https://raw.githubusercontent.com/Tecnibrain/iptv.github.io/main/LOGOS/121_DIRECTV_SPORTS.png", DIRECTV SPORTS
+http://190.117.20.37:8000/play/a08d/index.m3u8
+http://147.135.114.221:8001/play/a00m/index.m3u8
+http://181.224.255.210:8001/play/a0s8/index.m3u8
+http://8.243.126.131:8000/play/a05a/index.m3u8
+http://157.100.248.242:8880/play/a0dy/index.m3u8?h
+
+#EXTINF:-1 tvg-chno="122" group-title="Deportes" tvg-id="deportes16" tvg-name="DIRECTV SPORTS +" tvg-logo="https://raw.githubusercontent.com/Tecnibrain/iptv.github.io/main/LOGOS/122_DIRECTV_SPORTS+.png", DIRECTV SPORTS +
+http://cablemaxsigloxxi.com:8000/play/a011/index.m3u8?hls
+
+#EXTINF:-1 tvg-chno="123" group-title="Deportes" tvg-id="deportes17" tvg-name="DIRECTV SPORTS 2" tvg-logo="https://raw.githubusercontent.com/Tecnibrain/iptv.github.io/main/LOGOS/123_DIRECTV_SPORTS2.png", DIRECTV SPORTS 2
+http://157.100.248.242:8880/play/a0dx/index.m3u8?h
+
 #EXTINF:-1 tvg-chno="124" group-title="Entretenimiento" tvg-id="entretenimiento33" tvg-name="TNT SERIES SD" tvg-logo="https://raw.githubusercontent.com/Tecnibrain/iptv.github.io/main/LOGOS/124_TNT_SERIES_SD.png", TNT SERIES SD 
 http://181.78.8.199:8000/play/a098/index.m3u8
 
