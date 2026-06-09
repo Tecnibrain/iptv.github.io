@@ -1,6 +1,6 @@
 {
-  "versionCode": 8,
-  "versionName": "1.2.4",
+  "versionCode": 10,
+  "versionName": "1.2.6",
   "apkUrl": "https://github.com/Tecnibrain/iptv.github.io/releases/latest/download/app-debug.apk",
   "changelog": "• Login y registro de usuarios\n• Recuperar contraseña\n• Contacto por WhatsApp\n• Nuevo diseño",
   "mandatory": true
