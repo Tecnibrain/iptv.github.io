@@ -194,6 +194,8 @@ http://181.78.8.199:8000/play/a09l/index.m3u8
 http://200.122.223.13:55000/play/rcn-hd-tdt/index.m3u8
 http://181.78.79.131:8000/play/a0l4
 http://181.78.211.244:8005/play/a0ak/index.m3u8
+http://181.78.21.174:8015/play/a072/index.m3u8
+http://181.78.79.131:8000/play/a0l4
 
 #EXTINF:-1 tvg-chno="40" group-title="Cine" tvg-id="cine25" tvg-name="STAR CHANNEL HD" tvg-logo="https://raw.githubusercontent.com/Tecnibrain/iptv.github.io/main/LOGOS/040_STAR_CHANNEL_HD.png", STAR CHANNEL HD 
 http://38.210.105.10:8000/play/a02p/index.m3u8
@@ -584,7 +586,6 @@ http://astra.fibernetisp.com.co/play/a0e2/index.m3u8
 #EXTINF:-1 tvg-chno="119" group-title="Nacionales" tvg-id="Nacionales6" tvg-name="RCN HD2" tvg-logo="https://raw.githubusercontent.com/Tecnibrain/iptv.github.io/main/LOGOS/119_RCN_HD2.png", RCN HD2
 http://190.60.49.242:4000/play/a0ph/index.m3u8
 http://astra.fibernetisp.com.co/play/a0e3/index.m3u8
-http://181.78.21.174:8015/play/a072/index.m3u8
 
 #EXTINF:-1 tvg-chno="120" group-title="Entretenimiento Adulto" tvg-id="adulto6" tvg-name="Reality Kings" tvg-logo="https://raw.githubusercontent.com/Tecnibrain/iptv.github.io/main/LOGOS/120_Reality_Kings.png", Reality Kings
 http://79.127.207.193:80/RealityKings/playlist.m3u8
