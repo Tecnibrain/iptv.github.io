@@ -1,7 +1,7 @@
 {
-  "versionCode": 14,
-  "versionName": "1.3.0",
+  "versionCode": 15,
+  "versionName": "1.3.1",
   "apkUrl": "https://github.com/Tecnibrain/iptv.github.io/releases/latest/download/app-debug.apk",
-  "changelog": "• Reproducción más robusta: si un canal carga el audio pero no la imagen, la app cambia sola al decodificador que sí funciona\n• Acceso con usuario: login, registro y recuperar contraseña\n• Límite de dispositivos por cuenta\n• Favoritos guardados en tu cuenta (multi-dispositivo)\n• Audio MP2/AC3 dentro de la app\n• Menú de ajustes más ordenado",
+  "changelog": "• Arranque más rápido: los canales de alto bitrate ya no se quedan 'cargando para siempre'\n• Reproducción más robusta (recuperación automática si la imagen no carga)\n• Acceso con usuario, favoritos en la nube, audio MP2/AC3",
   "mandatory": true
 }
