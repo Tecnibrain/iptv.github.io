@@ -1,7 +1,7 @@
 {
-  "versionCode": 12,
-  "versionName": "1.2.8",
+  "versionCode": 13,
+  "versionName": "1.2.9",
   "apkUrl": "https://github.com/Tecnibrain/iptv.github.io/releases/latest/download/app-debug.apk",
-  "changelog": "• Acceso con usuario: login, registro y recuperar contraseña\n• Límite de dispositivos por cuenta\n• Favoritos guardados en tu cuenta (multi-dispositivo)\n• Audio MP2/AC3 dentro de la app\n• Video más fluido (sin lag)\n• Menú de ajustes más ordenado\n• Nuevo diseño",
+  "changelog": "• Corrige la reproducción de canales\n• Acceso con usuario: login, registro y recuperar contraseña\n• Límite de dispositivos por cuenta\n• Favoritos guardados en tu cuenta (multi-dispositivo)\n• Audio MP2/AC3 dentro de la app\n• Menú de ajustes más ordenado\n• Nuevo diseño",
   "mandatory": true
 }
