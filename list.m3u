@@ -425,8 +425,8 @@ http://181.78.79.131:8000/play/a0s2
 http://190.60.55.141:9083/play/a0jd/index.m3u8
 
 #EXTINF:-1 tvg-chno="85" group-title="Nacionales" tvg-id="Nacionales3" tvg-name="CARACOL HD" tvg-logo="https://raw.githubusercontent.com/Tecnibrain/iptv.github.io/main/LOGOS/085_CARACOL_HD.png", CARACOL HD
-http://181.78.8.199:8000/play/a0b0/index.m3u8
-http://181.78.12.119:16123/play/ch58/index.m3u8
+http://181.78.85.59:2500/play/a02z/index.m3u8
+http://astra.fibernetisp.com.co/play/a03r/index.m3u8
 http://181.78.79.131:8000/play/a0l0
 http://200.122.223.13:55000/play/caracol-tv-hd-tdt/index.m3u8
 
@@ -584,6 +584,7 @@ http://astra.fibernetisp.com.co/play/a0e2/index.m3u8
 #EXTINF:-1 tvg-chno="119" group-title="Nacionales" tvg-id="Nacionales6" tvg-name="RCN HD2" tvg-logo="https://raw.githubusercontent.com/Tecnibrain/iptv.github.io/main/LOGOS/119_RCN_HD2.png", RCN HD2
 http://190.60.49.242:4000/play/a0ph/index.m3u8
 http://astra.fibernetisp.com.co/play/a0e3/index.m3u8
+http://181.78.21.174:8015/play/a072/index.m3u8
 
 #EXTINF:-1 tvg-chno="120" group-title="Entretenimiento Adulto" tvg-id="adulto6" tvg-name="Reality Kings" tvg-logo="https://raw.githubusercontent.com/Tecnibrain/iptv.github.io/main/LOGOS/120_Reality_Kings.png", Reality Kings
 http://79.127.207.193:80/RealityKings/playlist.m3u8
