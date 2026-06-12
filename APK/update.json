@@ -1,7 +1,7 @@
 {
-  "versionCode": 18,
-  "versionName": "1.3.4",
+  "versionCode": 19,
+  "versionName": "1.3.5",
   "apkUrl": "https://github.com/Tecnibrain/iptv.github.io/releases/latest/download/app-debug.apk",
-  "changelog": "• La opción 'Ajuste de frecuencia TV' ahora muestra qué detecta (fps y Hz) para diagnosticar el lag\n• Reproducción estable: video por hardware + audio MP2/AC3\n• Acceso con usuario, favoritos en la nube",
+  "changelog": "• Ajuste de frecuencia TV mejorado (método del sistema): puede poner el TV a 50Hz aunque no liste el modo. Requiere activar 'Coincidencia de frecuencia' en Ajustes Android TV\n• Reproducción estable: video por hardware + audio MP2/AC3",
   "mandatory": true
 }
