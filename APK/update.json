@@ -1,7 +1,7 @@
 {
-  "versionCode": 20,
-  "versionName": "1.3.6",
+  "versionCode": 21,
+  "versionName": "1.3.7",
   "apkUrl": "https://github.com/Tecnibrain/iptv.github.io/releases/latest/download/app-debug.apk",
-  "changelog": "• Modo TV fluido: ahora enruta el video por el procesador del TV (tunneling) → mejor para canales 1080i entrelazados, que son los que más laguean. Actívalo en Ajustes → Reproducción\n• Reproducción estable: video por hardware + audio MP2/AC3",
+  "changelog": "• Arregla canales con imagen pero SIN audio: el modo TV fluido (túnel) dejaba mudos los canales con audio MP2. Ahora se recupera el audio solo (reconstruye sin túnel ese canal)\n• Canales 1080i fluidos por el túnel; canales MP2 conservan el audio\n• Reproducción estable",
   "mandatory": true
 }
