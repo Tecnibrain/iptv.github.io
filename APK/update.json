@@ -1,7 +1,7 @@
 {
-  "versionCode": 19,
-  "versionName": "1.3.5",
+  "versionCode": 20,
+  "versionName": "1.3.6",
   "apkUrl": "https://github.com/Tecnibrain/iptv.github.io/releases/latest/download/app-debug.apk",
-  "changelog": "• Ajuste de frecuencia TV mejorado (método del sistema): puede poner el TV a 50Hz aunque no liste el modo. Requiere activar 'Coincidencia de frecuencia' en Ajustes Android TV\n• Reproducción estable: video por hardware + audio MP2/AC3",
+  "changelog": "• Modo TV fluido: ahora enruta el video por el procesador del TV (tunneling) → mejor para canales 1080i entrelazados, que son los que más laguean. Actívalo en Ajustes → Reproducción\n• Reproducción estable: video por hardware + audio MP2/AC3",
   "mandatory": true
 }
