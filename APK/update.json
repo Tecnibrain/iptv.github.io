@@ -1,7 +1,7 @@
 {
-  "versionCode": 21,
-  "versionName": "1.3.7",
+  "versionCode": 22,
+  "versionName": "1.3.8",
   "apkUrl": "https://github.com/Tecnibrain/iptv.github.io/releases/latest/download/app-debug.apk",
-  "changelog": "• Arregla canales con imagen pero SIN audio: el modo TV fluido (túnel) dejaba mudos los canales con audio MP2. Ahora se recupera el audio solo (reconstruye sin túnel ese canal)\n• Canales 1080i fluidos por el túnel; canales MP2 conservan el audio\n• Reproducción estable",
+  "changelog": "• Arregla canales con imagen pero SIN sonido (audio AC-3): la app ahora decodifica el AC-3 a PCM en vez de pasarlo comprimido al TV → suena en cualquier TV\n• Modo TV fluido para canales 1080i; audio MP2/AC3 dentro de la app",
   "mandatory": true
 }
