@@ -1,7 +1,7 @@
 {
-  "versionCode": 16,
-  "versionName": "1.3.2",
+  "versionCode": 17,
+  "versionName": "1.3.3",
   "apkUrl": "https://github.com/Tecnibrain/iptv.github.io/releases/latest/download/app-debug.apk",
-  "changelog": "• Corrige el video: vuelve a verse la imagen (se había quedado solo audio en algunos canales)\n• Reproducción estable como antes: video por hardware + audio MP2/AC3\n• Acceso con usuario, favoritos en la nube",
+  "changelog": "• NUEVO (solo TV): Ajuste de frecuencia / anti-judder. Actívalo en Ajustes → Reproducción si la imagen se ve a tirones en tu TV\n• Reproducción estable: video por hardware + audio MP2/AC3\n• Acceso con usuario, favoritos en la nube",
   "mandatory": true
 }
