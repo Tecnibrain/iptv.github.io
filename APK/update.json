@@ -1,7 +1,7 @@
 {
-  "versionCode": 46,
-  "versionName": "1.6.7",
+  "versionCode": 47,
+  "versionName": "1.7.0",
   "apkUrl": "https://github.com/Tecnibrain/iptv.github.io/releases/latest/download/app-debug.apk",
-  "changelog": "• Modo compatible mejorado para equipos sin imagen (Google TV): ahora dibuja el video en otra vista que se ve en casi todos los equipos\n• Mantiene desentrelazado. Auto o manual en Ajustes › Reproducción › 'Modo compatible'",
+  "changelog": "• Nuevo motor que funciona en TODOS los equipos (incluido Google TV que antes no mostraba imagen)\n• App mucho más liviana (24 MB) y vuelve a soportar Android 6+\n• Se conservan todas las funciones: failover, mejor enlace, anti-pausas, audio MP2/Dolby, favoritos, gestos, diagnóstico, PIP, MultiView",
   "mandatory": true
 }
