@@ -1,7 +1,7 @@
 {
-  "versionCode": 49,
-  "versionName": "1.7.2",
+  "versionCode": 50,
+  "versionName": "1.7.3",
   "apkUrl": "https://github.com/Tecnibrain/iptv.github.io/releases/latest/download/app-debug.apk",
-  "changelog": "• Anti-pausas avanzado: precarga el siguiente enlace por debajo y cambia casi sin corte cuando uno se queda sin buffer\n• Vigila el buffer por delante para actuar antes del corte\n• Estabilidad anti-pausas por defecto en 10s",
+  "changelog": "• Arreglo: se quitó la caché que en vivo repetía el mismo segmento en bucle\n• Red más simple y directa para IPTV\n• Se conserva el anti-pausas: buffer, reintento, failover y precarga del siguiente enlace",
   "mandatory": true
 }
