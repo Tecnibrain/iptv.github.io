@@ -1,7 +1,7 @@
 {
-  "versionCode": 38,
-  "versionName": "1.5.5",
+  "versionCode": 39,
+  "versionName": "1.6.0",
   "apkUrl": "https://github.com/Tecnibrain/iptv.github.io/releases/latest/download/app-debug.apk",
-  "changelog": "• El ajuste de Estabilidad anti-pausas ahora SÍ cambia el colchón en los canales\n• Cambio de enlace inteligente: si el buffer baja, salta a otro antes del corte\n• Mensaje de búsqueda de enlace en su sitio (no sobre el nombre del canal)\n• Siempre elige el mejor enlace al abrir\n• Ajustes más simples (el motor siempre es mpv)",
+  "changelog": "• Reproductor 100% mpv (más liviano y estable)\n• Preview del listado y MultiView ahora con mpv\n• Mejor manejo de buffer y enlaces\n• Requiere Android 8 o superior",
   "mandatory": true
 }
