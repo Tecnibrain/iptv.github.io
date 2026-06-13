@@ -1,7 +1,7 @@
 {
-  "versionCode": 47,
-  "versionName": "1.7.0",
+  "versionCode": 48,
+  "versionName": "1.7.1",
   "apkUrl": "https://github.com/Tecnibrain/iptv.github.io/releases/latest/download/app-debug.apk",
-  "changelog": "• Nuevo motor que funciona en TODOS los equipos (incluido Google TV que antes no mostraba imagen)\n• App mucho más liviana (24 MB) y vuelve a soportar Android 6+\n• Se conservan todas las funciones: failover, mejor enlace, anti-pausas, audio MP2/Dolby, favoritos, gestos, diagnóstico, PIP, MultiView",
+  "changelog": "• Red Cronet (HTTP/3) para conexiones más estables y menos pausas\n• Reintento inteligente ante cortes breves (sin saltar de enlace)\n• Caché de resiliencia para suavizar el directo",
   "mandatory": true
 }
