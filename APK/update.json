@@ -1,7 +1,7 @@
 {
-  "versionCode": 48,
-  "versionName": "1.7.1",
+  "versionCode": 49,
+  "versionName": "1.7.2",
   "apkUrl": "https://github.com/Tecnibrain/iptv.github.io/releases/latest/download/app-debug.apk",
-  "changelog": "• Red Cronet (HTTP/3) para conexiones más estables y menos pausas\n• Reintento inteligente ante cortes breves (sin saltar de enlace)\n• Caché de resiliencia para suavizar el directo",
+  "changelog": "• Anti-pausas avanzado: precarga el siguiente enlace por debajo y cambia casi sin corte cuando uno se queda sin buffer\n• Vigila el buffer por delante para actuar antes del corte\n• Estabilidad anti-pausas por defecto en 10s",
   "mandatory": true
 }
