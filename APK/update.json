@@ -1,7 +1,7 @@
 {
-  "versionCode": 26,
-  "versionName": "1.3.12",
+  "versionCode": 27,
+  "versionName": "1.3.13",
   "apkUrl": "https://github.com/Tecnibrain/iptv.github.io/releases/latest/download/app-debug.apk",
-  "changelog": "• Vuelve el modo TV fluido: los canales 1080i se ven fluidos otra vez (sin lag)\n• Se mantiene el audio en los canales AC-3/MP2 (cada uno se quita el túnel solo)\n• Se mantiene el arreglo del bucle de cambios de enlace",
+  "changelog": "• Canales 1080i con audio AC-3: ahora pueden tener imagen FLUIDA + AUDIO a la vez. Requisito: poner el TV en PCM (Ajustes del TV → Sonido → Salida de audio digital → PCM) y dejar Modo TV fluido ON\n• Sin bucle de cambios de enlace",
   "mandatory": true
 }
