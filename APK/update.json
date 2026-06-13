@@ -1,7 +1,7 @@
 {
-  "versionCode": 30,
-  "versionName": "1.4.1",
+  "versionCode": 31,
+  "versionName": "1.4.2",
   "apkUrl": "https://github.com/Tecnibrain/iptv.github.io/releases/latest/download/app-debug.apk",
-  "changelog": "• El Motor VLC ahora tiene la interfaz COMPLETA: barras, botones (favorito, aspecto, anterior/siguiente, siguiente enlace, reintentar), gestos (volumen/brillo/cambiar canal) y selector de PISTA DE AUDIO (elige MP2 o Dolby)\n• Actívalo en Ajustes → Reproducción → Motor VLC",
+  "changelog": "• El Motor VLC ahora tiene las mejoras del reproductor: auto mejor enlace, watchdog anti-congelamiento, reconexión automática y buffer configurable\n• Interfaz completa (barras, botones, gestos, selector de audio)",
   "mandatory": false
 }
