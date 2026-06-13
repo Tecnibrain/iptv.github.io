@@ -1,7 +1,7 @@
 {
-  "versionCode": 41,
-  "versionName": "1.6.2",
+  "versionCode": 43,
+  "versionName": "1.6.4",
   "apkUrl": "https://github.com/Tecnibrain/iptv.github.io/releases/latest/download/app-debug.apk",
-  "changelog": "• Cambio de enlace sin corte (carga el siguiente por debajo)\n• Estabilidad anti-pausas: opción de 5s y por defecto (abre rápido)\n• Más fluido y estable",
+  "changelog": "• Cambio de enlace mejorado: ahora la imagen del nuevo enlace entra correctamente (antes podía quedar en solo audio)\n• Más estable al recuperar canales",
   "mandatory": true
 }
