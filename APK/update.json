@@ -1,7 +1,7 @@
 {
-  "versionCode": 32,
-  "versionName": "1.4.3",
+  "versionCode": 33,
+  "versionName": "1.5.0",
   "apkUrl": "https://github.com/Tecnibrain/iptv.github.io/releases/latest/download/app-debug.apk",
-  "changelog": "• Corrige el doble audio del preview al usar el Motor VLC (ahora detiene el preview al abrir el canal)\n• Motor VLC con interfaz completa y mejoras (auto enlace, watchdog, reconexión)",
+  "changelog": "• NUEVO Motor avanzado mpv (reemplaza VLC): mejor para canales difíciles (1080i/Dolby) y la app pesa mucho menos (44 MB en vez de 105)\n• Interfaz completa + mejoras (auto enlace, watchdog, reconexión, selector de audio)\n• Actívalo en Ajustes → Reproducción. Requiere Android 8+; equipos viejos siguen con ExoPlayer",
   "mandatory": false
 }
