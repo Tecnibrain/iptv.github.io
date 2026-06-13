@@ -1,7 +1,7 @@
 {
-  "versionCode": 37,
-  "versionName": "1.5.4",
+  "versionCode": 38,
+  "versionName": "1.5.5",
   "apkUrl": "https://github.com/Tecnibrain/iptv.github.io/releases/latest/download/app-debug.apk",
-  "changelog": "• Motor mpv: canales 1080i/Dolby fluidos y con audio\n• Anti-pausas completo: buffer de 50s, buffer adelante, live offset y mejor enlace automático\n• Cambia de enlace solo si uno se pausa mucho\n• Diagnóstico con toque prolongado: buffer en segundos + aviso cuando baja\n• App más liviana. Requiere Android 8+ (equipos viejos siguen con el motor anterior)",
-  "mandatory": false
+  "changelog": "• El ajuste de Estabilidad anti-pausas ahora SÍ cambia el colchón en los canales\n• Cambio de enlace inteligente: si el buffer baja, salta a otro antes del corte\n• Mensaje de búsqueda de enlace en su sitio (no sobre el nombre del canal)\n• Siempre elige el mejor enlace al abrir\n• Ajustes más simples (el motor siempre es mpv)",
+  "mandatory": true
 }
