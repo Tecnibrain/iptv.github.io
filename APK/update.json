@@ -1,7 +1,7 @@
 {
-  "versionCode": 39,
-  "versionName": "1.6.0",
+  "versionCode": 41,
+  "versionName": "1.6.2",
   "apkUrl": "https://github.com/Tecnibrain/iptv.github.io/releases/latest/download/app-debug.apk",
-  "changelog": "• Reproductor 100% mpv (más liviano y estable)\n• Preview del listado y MultiView ahora con mpv\n• Mejor manejo de buffer y enlaces\n• Requiere Android 8 o superior",
+  "changelog": "• Cambio de enlace sin corte (carga el siguiente por debajo)\n• Estabilidad anti-pausas: opción de 5s y por defecto (abre rápido)\n• Más fluido y estable",
   "mandatory": true
 }
