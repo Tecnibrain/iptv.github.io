@@ -1,7 +1,7 @@
 {
-  "versionCode": 45,
-  "versionName": "1.6.6",
+  "versionCode": 46,
+  "versionName": "1.6.7",
   "apkUrl": "https://github.com/Tecnibrain/iptv.github.io/releases/latest/download/app-debug.apk",
-  "changelog": "• Modo compatible para equipos que mostraban solo audio sin imagen (algunos Google TV): ahora el video se dibuja directo por el equipo\n• Se activa solo, o manual en Ajustes › Reproducción › 'Modo compatible'",
+  "changelog": "• Modo compatible mejorado para equipos sin imagen (Google TV): ahora dibuja el video en otra vista que se ve en casi todos los equipos\n• Mantiene desentrelazado. Auto o manual en Ajustes › Reproducción › 'Modo compatible'",
   "mandatory": true
 }
