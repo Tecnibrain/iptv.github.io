@@ -1,7 +1,7 @@
 {
-  "versionCode": 25,
-  "versionName": "1.3.11",
+  "versionCode": 26,
+  "versionName": "1.3.12",
   "apkUrl": "https://github.com/Tecnibrain/iptv.github.io/releases/latest/download/app-debug.apk",
-  "changelog": "• Audio arreglado: se quitó el modo túnel que dejaba mudos los canales AC-3/MP2; ahora suenan en todos\n• Corregido el bucle de cambios de enlace (tope de cambios por canal)\n• Reproducción estable",
+  "changelog": "• Vuelve el modo TV fluido: los canales 1080i se ven fluidos otra vez (sin lag)\n• Se mantiene el audio en los canales AC-3/MP2 (cada uno se quita el túnel solo)\n• Se mantiene el arreglo del bucle de cambios de enlace",
   "mandatory": true
 }
