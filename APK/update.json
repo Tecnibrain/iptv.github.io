@@ -1,7 +1,7 @@
 {
-  "versionCode": 29,
-  "versionName": "1.4.0",
+  "versionCode": 30,
+  "versionName": "1.4.1",
   "apkUrl": "https://github.com/Tecnibrain/iptv.github.io/releases/latest/download/app-debug.apk",
-  "changelog": "• NUEVO: Motor VLC. Actívalo en Ajustes → Reproducción para que los canales 1080i con audio Dolby se vean fluidos Y con audio (el motor de VLC dentro de la app)\n• La app pesa más (~100MB) por las librerías de VLC; para canales normales puedes dejarlo en OFF y usar el reproductor rápido",
+  "changelog": "• El Motor VLC ahora tiene la interfaz COMPLETA: barras, botones (favorito, aspecto, anterior/siguiente, siguiente enlace, reintentar), gestos (volumen/brillo/cambiar canal) y selector de PISTA DE AUDIO (elige MP2 o Dolby)\n• Actívalo en Ajustes → Reproducción → Motor VLC",
   "mandatory": false
 }
