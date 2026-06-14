@@ -1,7 +1,7 @@
 {
-  "versionCode": 53,
-  "versionName": "1.7.6",
+  "versionCode": 54,
+  "versionName": "1.7.7",
   "apkUrl": "https://github.com/Tecnibrain/iptv.github.io/releases/latest/download/app-debug.apk",
-  "changelog": "• Arranque de canal más rápido y recuperación más veloz tras un corte\n• Buffer en modo continuo para menos pausas\n• Mejoras de estabilidad basadas en buenas prácticas de Media3",
+  "changelog": "• Red mejorada (OkHttp): conexiones reutilizables → zapping y reconexión más rápidos\n• Precarga del siguiente canal: cambiar de canal es casi instantáneo (se cancela si el actual va justo, para no afectar)",
   "mandatory": true
 }
