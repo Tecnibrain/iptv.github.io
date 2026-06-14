@@ -1,7 +1,7 @@
 {
-  "versionCode": 51,
-  "versionName": "1.7.4",
+  "versionCode": 52,
+  "versionName": "1.7.5",
   "apkUrl": "https://github.com/Tecnibrain/iptv.github.io/releases/latest/download/app-debug.apk",
-  "changelog": "• Decodificador vuelve a Automático y se mantiene (ya no se queda pegado al cambiar de enlace)\n• El círculo de carga ya no se queda en pantalla cuando el canal está funcionando\n• Audio MP2/AC3/Dolby sigue funcionando (FFmpeg de respaldo por stream)",
+  "changelog": "• Arreglo: si un canal se queda cargando (sin error), ahora salta solo al siguiente enlace o reconecta — ya no se queda pegado\n• Usa el enlace precargado para cambiar más rápido cuando se detecta el atasco",
   "mandatory": true
 }
