@@ -189,8 +189,10 @@ http://38.210.105.10:8000/play/a02l/index.m3u8
 #EXTINF:-1 tvg-chno="38" group-title="Entretenimiento Adulto" tvg-id="adulto1" tvg-name="MYCAMTV PORNSTAR" tvg-logo="https://raw.githubusercontent.com/Tecnibrain/iptv.github.io/main/LOGOS/038_MYCAMTV_PORNSTAR.png", MYCAMTV
 http://cdn.redtraffic.net/pornstar.m3u8
 
-#EXTINF:-1 tvg-chno="39" group-title="Nacionales" tvg-id="Nacionales1" tvg-name="RCN HD" tvg-logo="https://raw.githubusercontent.com/Tecnibrain/iptv.github.io/main/LOGOS/039_RCN_HD.png", RCN HD 
-http://200.122.223.13:55000/play/rcn-hd-tdt/index.m3u8
+#EXTINF:-1 tvg-chno="39" group-title="Nacionales" tvg-id="Nacionales1" tvg-name="RCN HD" tvg-logo="https://raw.githubusercontent.com/Tecnibrain/iptv.github.io/main/LOGOS/039_RCN_HD.png", RCN HD 
+
+http://200.122.223.13:55000/play/rcn-hd-tdt/index.m3u8
+
 http://181.78.211.244:8005/play/a0ak/index.m3u8
 http://181.78.21.174:8015/play/a072/index.m3u8
 http://181.78.79.131:8000/play/a0l4
@@ -275,7 +277,8 @@ http://190.14.249.223:17032/play/a044/index.m3u8
 http://181.78.21.174:8015/play/a05q/index.m3u8
 http://181.78.85.59:2500/play/a030/index.m3u8
 
-#EXTINF:-1 tvg-chno="55" group-title="Deportes" tvg-id="deportes10" tvg-name="WIN SPORTS+ HD" tvg-logo="https://raw.githubusercontent.com/Tecnibrain/iptv.github.io/main/LOGOS/055_WIN_SPORTS_HD_OP1.png", WIN SPORTS+ HD
+#EXTINF:-1 tvg-chno="55" group-title="Deportes" tvg-id="deportes10" tvg-name="WIN SPORTS+ HD" tvg-logo="https://raw.githubusercontent.com/Tecnibrain/iptv.github.io/main/LOGOS/055_WIN_SPORTS_HD_OP1.png", WIN SPORTS+ HD
+
 http://181.78.74.146:18000/play/a03g
 http://190.60.37.118:4000/play/a0bw
 http://186.33.52.206:7900/play/a0pm/index.m3u8
@@ -426,9 +429,9 @@ http://38.44.109.41:8003/play/a020/index.m3u8
 http://181.78.79.131:8000/play/a0s2
 http://190.60.55.141:9083/play/a0jd/index.m3u8
 
-#EXTINF:-1 tvg-chno="85" group-title="Nacionales" tvg-id="Nacionales3" tvg-name="CARACOL HD" tvg-logo="https://raw.githubusercontent.com/Tecnibrain/iptv.github.io/main/LOGOS/085_CARACOL_HD.png", CARACOL HD
+#EXTINF:-1 tvg-chno="85" group-title="Nacionales" tvg-id="Nacionales3" tvg-name="CARACOL HD" tvg-logo="https://raw.githubusercontent.com/Tecnibrain/iptv.github.io/main/LOGOS/085_CARACOL_HD.png", CARACOL HD
 http://181.78.79.131:8000/play/a0l0
-http://200.122.223.13:55000/play/caracol-tv-hd-tdt/index.m3u8
+http://200.122.223.13:55000/play/caracol-tv-hd-tdt/index.m3u8
 http://181.78.17.52:8000/play/a0os/index.m3u8
 
 #EXTINF:-1 tvg-chno="86" group-title="Noticias" tvg-id="noticias2" tvg-name="NTN 24" tvg-logo="https://raw.githubusercontent.com/Tecnibrain/iptv.github.io/main/LOGOS/086_NTN_24.png", NTN 24
