@@ -431,6 +431,8 @@ http://181.78.85.59:2500/play/a02z/index.m3u8
 http://astra.fibernetisp.com.co/play/a03r/index.m3u8
 http://181.78.79.131:8000/play/a0l0
 http://200.122.223.13:55000/play/caracol-tv-hd-tdt/index.m3u8
+http://181.78.21.46:8009/play/a00g
+http://181.78.17.52:8000/play/a0os/index.m3u8
 
 #EXTINF:-1 tvg-chno="86" group-title="Noticias" tvg-id="noticias2" tvg-name="NTN 24" tvg-logo="https://raw.githubusercontent.com/Tecnibrain/iptv.github.io/main/LOGOS/086_NTN_24.png", NTN 24
 http://181.224.200.5:2277/play/a026/index.m3u8
@@ -580,8 +582,8 @@ http://181.78.8.199:8000/play/a0ab/index.m3u8
 http://38.224.175.2:8000/play/a03v/index.m3u8
 
 #EXTINF:-1 tvg-chno="118" group-title="Nacionales" tvg-id="Nacionales4" tvg-name="CARACOL HD2" tvg-logo="https://raw.githubusercontent.com/Tecnibrain/iptv.github.io/main/LOGOS/118_CARACOL_HD2.png", CARACOL HD2
-http://190.60.32.178:8178/play/a0aj/index.m3u8
 http://astra.fibernetisp.com.co/play/a0e2/index.m3u8
+http://179.1.139.84:8000/play/a03s/index.m3u8
 
 #EXTINF:-1 tvg-chno="119" group-title="Nacionales" tvg-id="Nacionales6" tvg-name="RCN HD2" tvg-logo="https://raw.githubusercontent.com/Tecnibrain/iptv.github.io/main/LOGOS/119_RCN_HD2.png", RCN HD2
 http://190.60.49.242:4000/play/a0ph/index.m3u8
@@ -595,8 +597,8 @@ http://190.117.20.37:8000/play/a08d/index.m3u8
 http://147.135.114.221:8001/play/a00m/index.m3u8
 http://181.224.255.210:8001/play/a0s8/index.m3u8
 http://8.243.126.131:8000/play/a05a/index.m3u8
-http://157.100.248.242:8880/play/a0dy/index.m3u8?h
 http://38.199.4.105:9999/play/1119/index.m3u8
+http://190.108.93.180:8000/play/a054/index.m3u8
 
 #EXTINF:-1 tvg-chno="122" group-title="Deportes" tvg-id="deportes16" tvg-name="DIRECTV SPORTS +" tvg-logo="https://raw.githubusercontent.com/Tecnibrain/iptv.github.io/main/LOGOS/122_DIRECTV_SPORTS+.png", DIRECTV SPORTS +
 http://cablemaxsigloxxi.com:8000/play/a011/index.m3u8?hls
