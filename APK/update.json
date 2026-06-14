@@ -1,7 +1,7 @@
 {
-  "versionCode": 52,
-  "versionName": "1.7.5",
+  "versionCode": 53,
+  "versionName": "1.7.6",
   "apkUrl": "https://github.com/Tecnibrain/iptv.github.io/releases/latest/download/app-debug.apk",
-  "changelog": "• Arreglo: si un canal se queda cargando (sin error), ahora salta solo al siguiente enlace o reconecta — ya no se queda pegado\n• Usa el enlace precargado para cambiar más rápido cuando se detecta el atasco",
+  "changelog": "• Arranque de canal más rápido y recuperación más veloz tras un corte\n• Buffer en modo continuo para menos pausas\n• Mejoras de estabilidad basadas en buenas prácticas de Media3",
   "mandatory": true
 }
