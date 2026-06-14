@@ -189,10 +189,8 @@ http://38.210.105.10:8000/play/a02l/index.m3u8
 #EXTINF:-1 tvg-chno="38" group-title="Entretenimiento Adulto" tvg-id="adulto1" tvg-name="MYCAMTV PORNSTAR" tvg-logo="https://raw.githubusercontent.com/Tecnibrain/iptv.github.io/main/LOGOS/038_MYCAMTV_PORNSTAR.png", MYCAMTV
 http://cdn.redtraffic.net/pornstar.m3u8
 
-#EXTINF:-1 tvg-chno="39" group-title="Nacionales" tvg-id="Nacionales1" tvg-name="RCN HD" tvg-logo="https://raw.githubusercontent.com/Tecnibrain/iptv.github.io/main/LOGOS/039_RCN_HD.png", RCN HD 
-http://181.78.8.199:8000/play/a09l/index.m3u8
-http://200.122.223.13:55000/play/rcn-hd-tdt/index.m3u8
-http://181.78.79.131:8000/play/a0l4
+#EXTINF:-1 tvg-chno="39" group-title="Nacionales" tvg-id="Nacionales1" tvg-name="RCN HD" tvg-logo="https://raw.githubusercontent.com/Tecnibrain/iptv.github.io/main/LOGOS/039_RCN_HD.png", RCN HD 
+http://200.122.223.13:55000/play/rcn-hd-tdt/index.m3u8
 http://181.78.211.244:8005/play/a0ak/index.m3u8
 http://181.78.21.174:8015/play/a072/index.m3u8
 http://181.78.79.131:8000/play/a0l4
