@@ -373,6 +373,7 @@ http://181.78.79.131:8000/play/a0s2
 http://190.60.55.141:9083/play/a0jd/index.m3u8
 
 #EXTINF:-1 tvg-chno="85" group-title="Nacionales" tvg-id="Nacionales3" tvg-name="CARACOL HD" tvg-logo="https://raw.githubusercontent.com/Tecnibrain/iptv.github.io/main/LOGOS/085_CARACOL_HD.png", CARACOL HD
+http://181.118.153.15:8000/play/pv44/index.m3u8?hls
 http://astra.fibernetisp.com.co/play/a03r/index.m3u8
 http://200.122.223.13:55000/play/caracol-tv-hd-tdt/index.m3u8
 http://181.78.17.52:8000/play/a0os/index.m3u8
@@ -562,7 +563,3 @@ https://mdstrm.com/live-stream-playlist/58d191f07290fbb058025843.m3u8
 
 #EXTINF:-1 tvg-chno="130" group-title="Religioso" tvg-id="Religioso4" tvg-name="TV Familia" tvg-logo="https://raw.githubusercontent.com/Tecnibrain/iptv.github.io/main/LOGOS/130_TV_FAMILIA.png", TV Familia
 https://59d39900ebfb8.streamlock.net/tvfamilia_480p/tvfamilia_480p/chunklist_w1359855435.m3u8
-
-#EXTINF:-1 tvg-chno="1000" group-title="Regionales" tvg-id="Regionales100" tvg-name="prueba" tvg-logo="", prueba
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
-https://mdstrm.com/live-stream-playlist/574463697b9817cf0886fc17.m3u8
