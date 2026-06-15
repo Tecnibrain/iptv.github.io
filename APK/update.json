@@ -1,7 +1,7 @@
 {
-  "versionCode": 54,
-  "versionName": "1.7.7",
+  "versionCode": 55,
+  "versionName": "1.7.8",
   "apkUrl": "https://github.com/Tecnibrain/iptv.github.io/releases/latest/download/app-debug.apk",
-  "changelog": "• Red mejorada (OkHttp): conexiones reutilizables → zapping y reconexión más rápidos\n• Precarga del siguiente canal: cambiar de canal es casi instantáneo (se cancela si el actual va justo, para no afectar)",
+  "changelog": "• Imagen más estable en TVs lentos: con audio MP2/AC3/DTS ya no se entrecorta el video (se quita el resampleo que lo causaba)\n• Más colchón de audio: menos micro-cortes cuando el decodificador por software tiene un hipo",
   "mandatory": true
 }
