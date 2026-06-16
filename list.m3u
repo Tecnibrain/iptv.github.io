@@ -234,9 +234,9 @@ http://186.33.25.234:8125/play/a04y/index.m3u8
 http://181.78.85.59:2500/play/a013/index.m3u8
 
 #EXTINF:-1 tvg-chno="54" group-title="Deportes" tvg-id="deportes9" tvg-name="WIN SPORTS HD" tvg-logo="https://raw.githubusercontent.com/Tecnibrain/iptv.github.io/main/LOGOS/054_WIN_SPORTS_HD.png", WIN SPORTS HD
-http://200.69.92.222:8000/play/a04r/index.m3u8
-http://205.235.6.29:8000/play/a10e/index.m3u8
-http://190.217.66.92:8000/play/a0qs/index.m3u8u?hls
+http://181.118.153.15:8000/play/op88/index.m3u8?hls
+http://181.78.21.174:8015/play/a05q/index.m3u8
+http://190.217.66.92:8000/play/a0fh/index.m3u8u?hls
 
 #EXTINF:-1 tvg-chno="55" group-title="Deportes" tvg-id="deportes10" tvg-name="WIN SPORTS+ HD" tvg-logo="https://raw.githubusercontent.com/Tecnibrain/iptv.github.io/main/LOGOS/055_WIN_SPORTS_HD_OP1.png", WIN SPORTS+ HD
 http://200.69.92.222:8000/play/a04r/index.m3u8
@@ -514,7 +514,9 @@ http://38.199.4.105:9999/play/a0xs/index.m3u8
 http://38.49.128.38:8000/play/a0jj/index.m3u8
 
 #EXTINF:-1 tvg-chno="116" group-title="Cine" tvg-id="cine24" tvg-name="GOLDEN EDGE HD" tvg-logo="https://raw.githubusercontent.com/Tecnibrain/iptv.github.io/main/LOGOS/116_GOLDEN_EDGE_HD.png", GOLDEN EDGE HD
-http://181.78.8.199:8000/play/a0ab/index.m3u8
+http://201.77.60.62:8002/play/a0o7/index.m3u8?hls
+http://181.78.8.199:8000/play/a0ck/index.m3u8
+http://181.118.153.15:8000/play/qa67/index.m3u8?hls
 
 #EXTINF:-1 tvg-chno="118" group-title="Nacionales" tvg-id="Nacionales4" tvg-name="CARACOL HD2" tvg-logo="https://raw.githubusercontent.com/Tecnibrain/iptv.github.io/main/LOGOS/118_CARACOL_HD2.png", CARACOL HD2
 http://200.122.223.13:55000/play/caracol-hd-2-tdt/index.m3u8
@@ -532,6 +534,7 @@ http://79.127.207.193:80/RealityKings/playlist.m3u8
 http://147.135.114.221:8001/play/a00m/index.m3u8
 http://190.117.20.37:8000/play/a08d/index.m3u8
 http://200.59.191.177:8000/play/a00h/index.m3u8
+http://38.210.105.10:8000/play/a0ai/index.m3u8
 
 #EXTINF:-1 tvg-chno="122" group-title="Deportes" tvg-id="deportes16" tvg-name="DIRECTV SPORTS +" tvg-logo="https://raw.githubusercontent.com/Tecnibrain/iptv.github.io/main/LOGOS/122_DIRECTV_SPORTS+.png", DIRECTV SPORTS +
 http://cablemaxsigloxxi.com:8000/play/a011/index.m3u8?hls
