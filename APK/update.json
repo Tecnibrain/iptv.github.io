@@ -1,7 +1,7 @@
 {
-  "versionCode": 57,
-  "versionName": "1.7.10",
+  "versionCode": 58,
+  "versionName": "1.7.11",
   "apkUrl": "https://github.com/Tecnibrain/iptv.github.io/releases/latest/download/app-debug.apk",
-  "changelog": "• Diagnóstico ampliado (toque prolongado): muestra si el video/audio va por hardware o software, los fps y los frames perdidos — para hallar la causa real del lag",
+  "changelog": "• Si un canal ofrece varias pistas de audio, ahora prefiere la de hardware (AAC) sobre MP2/AC3 → menos atascos de imagen en TVs lentos",
   "mandatory": true
 }
