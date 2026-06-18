@@ -1,7 +1,7 @@
 {
-  "versionCode": 58,
-  "versionName": "1.7.11",
+  "versionCode": 59,
+  "versionName": "1.8.0",
   "apkUrl": "https://github.com/Tecnibrain/iptv.github.io/releases/latest/download/app-debug.apk",
-  "changelog": "• Si un canal ofrece varias pistas de audio, ahora prefiere la de hardware (AAC) sobre MP2/AC3 → menos atascos de imagen en TVs lentos",
+  "changelog": "• NUEVO MOTOR (libVLC): adiós al lag de imagen en canales con audio MP2/AC3\n• Reproductor, preview y multi-vista renovados\n• Se conservan failover, mejor enlace, aspecto, pistas, gestos y PiP",
   "mandatory": true
 }
