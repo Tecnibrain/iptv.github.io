@@ -168,9 +168,9 @@ http://38.199.4.105:9999/play/a0mc/index.m3u8
 http://cdn.redtraffic.net/pornstar.m3u8
 
 #EXTINF:-1 tvg-chno="39" group-title="Nacionales" tvg-id="Nacionales1" tvg-name="RCN HD" tvg-logo="https://raw.githubusercontent.com/Tecnibrain/iptv.github.io/main/LOGOS/039_RCN_HD.png", RCN HD
+http://200.122.223.13:55000/play/rcn-hd-tdt/index.m3u8
+http://181.78.17.52:8000/play/a0ec/index.m3u8
 http://181.118.153.15:8000/play/zv50/index.m3u8?hls
-http://181.78.8.199:8000/play/a09l/index.m3u8
-http://181.78.85.59:2500/play/a01v/index.m3u8
 
 #EXTINF:-1 tvg-chno="40" group-title="Cine" tvg-id="cine25" tvg-name="STAR CHANNEL HD" tvg-logo="https://raw.githubusercontent.com/Tecnibrain/iptv.github.io/main/LOGOS/040_STAR_CHANNEL_HD.png", STAR CHANNEL HD
 http://38.210.105.10:8000/play/a02p/index.m3u8
@@ -375,7 +375,7 @@ http://190.60.55.141:9083/play/a0jd/index.m3u8
 #EXTINF:-1 tvg-chno="85" group-title="Nacionales" tvg-id="Nacionales3" tvg-name="CARACOL HD" tvg-logo="https://raw.githubusercontent.com/Tecnibrain/iptv.github.io/main/LOGOS/085_CARACOL_HD.png", CARACOL HD
 http://200.122.223.13:55000/play/caracol-tv-hd-tdt/index.m3u8
 http://152.231.29.139:8000/play/a0ax/index.m3u8
-http://181.118.153.15:8000/play/pv44/index.m3u8?hls
+http://181.78.17.52:8000/play/a0os/index.m3u8
 
 #EXTINF:-1 tvg-chno="86" group-title="Noticias" tvg-id="noticias2" tvg-name="NTN 24" tvg-logo="https://raw.githubusercontent.com/Tecnibrain/iptv.github.io/main/LOGOS/086_NTN_24.png", NTN 24
 http://190.60.55.141:9083/play/a0hn/index.m3u8
@@ -531,10 +531,9 @@ http://181.78.8.199:8000/play/a09l/index.m3u8
 http://79.127.207.193:80/RealityKings/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="121" group-title="Deportes" tvg-id="deportes15" tvg-name="DIRECTV SPORTS" tvg-logo="https://raw.githubusercontent.com/Tecnibrain/iptv.github.io/main/LOGOS/121_DIRECTV_SPORTS.png", DIRECTV SPORTS
-http://147.135.114.221:8001/play/a00m/index.m3u8
+http://148.222.230.201:8000/play/a0pk/index.m3u8
 http://190.117.20.37:8000/play/a08d/index.m3u8
-http://200.59.191.177:8000/play/a00h/index.m3u8
-http://38.210.105.10:8000/play/a0ai/index.m3u8
+http://181.224.255.210:8001/play/a0s8/index.m3u8
 
 #EXTINF:-1 tvg-chno="122" group-title="Deportes" tvg-id="deportes16" tvg-name="DIRECTV SPORTS +" tvg-logo="https://raw.githubusercontent.com/Tecnibrain/iptv.github.io/main/LOGOS/122_DIRECTV_SPORTS+.png", DIRECTV SPORTS +
 http://cablemaxsigloxxi.com:8000/play/a011/index.m3u8?hls
