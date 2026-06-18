@@ -1,7 +1,7 @@
 {
-  "versionCode": 61,
-  "versionName": "1.8.2",
+  "versionCode": 62,
+  "versionName": "1.8.3",
   "apkUrl": "https://github.com/Tecnibrain/iptv.github.io/releases/latest/download/app-debug.apk",
-  "changelog": "• Corrige 'la app no responde' (ANR). Reproductor estable mientras se termina el motor nuevo.",
+  "changelog": "• Motor nuevo (libVLC) SIN el problema de 'la app no responde'\n• Arregla el lag de imagen en canales con audio MP2/AC3\n• Todas las operaciones de video fuera del hilo principal (probado a fondo)",
   "mandatory": true
 }
