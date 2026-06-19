@@ -1,7 +1,8 @@
 {
-  "versionCode": 65,
-  "versionName": "1.8.6",
+  "versionCode": 66,
+  "versionName": "1.8.7",
   "apkUrl": "https://github.com/Tecnibrain/iptv.github.io/releases/latest/download/app-debug.apk",
-  "changelog": "• Google TV: los canales arrancan más fiable (no cambia de enlace si solo tarda en abrir)\n• Google TV: se evita la pelea por el decodificador (precarga off en TV)\n• El audio del preview ya no se queda sonando al abrir un canal",
+  "changelog": "• El cambio de canal casi instantáneo vuelve también en Android TV\n• Se mantiene el arranque paciente para canales que tardan en abrir en TVs lentos"
+,
   "mandatory": true
 }
