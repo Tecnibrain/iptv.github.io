@@ -1,7 +1,7 @@
 {
-  "versionCode": 64,
-  "versionName": "1.8.5",
+  "versionCode": 65,
+  "versionName": "1.8.6",
   "apkUrl": "https://github.com/Tecnibrain/iptv.github.io/releases/latest/download/app-debug.apk",
-  "changelog": "• Ajustes más limpios (se quitaron opciones que ya no aplican)\n• Buffer anti-pausas real (Bajo/Medio/Alto/Máximo)\n• Cambio de enlace más rápido si uno falla (~9s)\n• La lista de canales se actualiza al abrir la app",
+  "changelog": "• Google TV: los canales arrancan más fiable (no cambia de enlace si solo tarda en abrir)\n• Google TV: se evita la pelea por el decodificador (precarga off en TV)\n• El audio del preview ya no se queda sonando al abrir un canal",
   "mandatory": true
 }
