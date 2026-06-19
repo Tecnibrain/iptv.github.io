@@ -1,7 +1,7 @@
 {
-  "versionCode": 63,
-  "versionName": "1.8.4",
+  "versionCode": 64,
+  "versionName": "1.8.5",
   "apkUrl": "https://github.com/Tecnibrain/iptv.github.io/releases/latest/download/app-debug.apk",
-  "changelog": "• Cambio de canal casi instantáneo (precarga del siguiente canal)\n• Sobre la base estable de libVLC (sin ANR) + arreglo del lag MP2/AC3",
+  "changelog": "• Ajustes más limpios (se quitaron opciones que ya no aplican)\n• Buffer anti-pausas real (Bajo/Medio/Alto/Máximo)\n• Cambio de enlace más rápido si uno falla (~9s)\n• La lista de canales se actualiza al abrir la app",
   "mandatory": true
 }
