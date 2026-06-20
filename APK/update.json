@@ -1,8 +1,7 @@
 {
-  "versionCode": 66,
-  "versionName": "1.8.7",
+  "versionCode": 67,
+  "versionName": "1.8.8",
   "apkUrl": "https://github.com/Tecnibrain/iptv.github.io/releases/latest/download/app-debug.apk",
-  "changelog": "• El cambio de canal casi instantáneo vuelve también en Android TV\n• Se mantiene el arranque paciente para canales que tardan en abrir en TVs lentos"
-,
+  "changelog": "• Buffer inteligente que se ajusta solo según tu equipo y tu red (menos pausas)\n• Si la imagen va lenta (no solo si se corta), cambia de enlace automáticamente\n• Reconexión más estable cuando un canal falla",
   "mandatory": true
 }
