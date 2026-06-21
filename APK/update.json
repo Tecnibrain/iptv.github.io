@@ -1,7 +1,7 @@
 {
-  "versionCode": 70,
-  "versionName": "1.9.1",
+  "versionCode": 71,
+  "versionName": "1.9.2",
   "apkUrl": "https://github.com/Tecnibrain/iptv.github.io/releases/latest/download/app-debug.apk",
-  "changelog": "• Menos lag de imagen en TV con audio SD (más colchón de audio y menos carga en equipos lentos)\n• Interfaz adaptada a móvil, tablet y TV\n• Menús de ajustes más limpios\n• Sigue en ExoPlayer, app liviana",
+  "changelog": "• Cambio de canal instantáneo (zapping) activo en TODOS los equipos, incluido el TV\n• Sin perder ninguna función; app liviana en ExoPlayer",
   "mandatory": true
 }
