@@ -1,7 +1,7 @@
 {
-  "versionCode": 68,
-  "versionName": "1.8.9",
+  "versionCode": 69,
+  "versionName": "1.9.0",
   "apkUrl": "https://github.com/Tecnibrain/iptv.github.io/releases/latest/download/app-debug.apk",
-  "changelog": "• Reproducción más estable y con menos pausas\n• App mucho más liviana y rápida (instala en segundos)\n• Mejor compatibilidad de audio en varios canales",
+  "changelog": "• NUEVO: lista rápida de canales dentro del reproductor (botón cuadrícula) para saltar sin salir\n• NUEVO: marca el número del canal con el control remoto para ir directo\n• Buffer automático según tu equipo y red (menos pausas; menos RAM en TVs lentos)\n• Reproducción más estable",
   "mandatory": true
 }
