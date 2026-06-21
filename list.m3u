@@ -236,8 +236,8 @@ http://181.78.85.59:2500/play/a013/index.m3u8
 
 #EXTINF:-1 tvg-chno="54" group-title="Deportes" tvg-id="deportes9" tvg-name="WIN SPORTS HD" tvg-logo="https://raw.githubusercontent.com/Tecnibrain/iptv.github.io/main/LOGOS/054_WIN_SPORTS_HD.png", WIN SPORTS HD
 http://181.118.153.15:8000/play/op88/index.m3u8?hls
-http://190.217.66.92:8000/play/a0fh/index.m3u8u?hls
-http://190.102.247.126:8000/play/a00q/index.m3u8
+http://181.78.8.199:8000/play/a09s/index.m3u8
+http://209.14.119.95:9080/play/a0p4
 
 #EXTINF:-1 tvg-chno="55" group-title="Deportes" tvg-id="deportes10" tvg-name="WIN SPORTS+ HD" tvg-logo="https://raw.githubusercontent.com/Tecnibrain/iptv.github.io/main/LOGOS/055_WIN_SPORTS_HD_OP1.png", WIN SPORTS+ HD
 http://200.69.92.222:8000/play/a04r/index.m3u8
