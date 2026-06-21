@@ -1,7 +1,7 @@
 {
-  "versionCode": 76,
-  "versionName": "1.9.7",
+  "versionCode": 77,
+  "versionName": "1.9.8",
   "apkUrl": "https://github.com/Tecnibrain/iptv.github.io/releases/latest/download/app-debug.apk",
-  "changelog": "• Pantalla de inicio mejor organizada: los tamaños se ajustan solos y se ve parejo en celular, tablet y TV\n• Versión visible corregida\n• Zapping instantáneo y todas las funciones intactas",
+  "changelog": "• Arreglado: 'Buscar Actualización APP' en Ajustes ahora abre la ventana para descargar e instalar (antes solo avisaba)\n• Zapping instantáneo y todas las funciones intactas",
   "mandatory": true
 }
