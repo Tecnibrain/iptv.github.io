@@ -1,7 +1,7 @@
 {
-  "versionCode": 71,
-  "versionName": "1.9.2",
+  "versionCode": 72,
+  "versionName": "1.9.3",
   "apkUrl": "https://github.com/Tecnibrain/iptv.github.io/releases/latest/download/app-debug.apk",
-  "changelog": "• Cambio de canal instantáneo (zapping) activo en TODOS los equipos, incluido el TV\n• Sin perder ninguna función; app liviana en ExoPlayer",
+  "changelog": "• App más rápida y fluida (arranque y listas optimizados)\n• Nueva pantalla de Ajustes más clara y ordenada\n• Carga de logos mejorada\n• Cambio de canal instantáneo intacto en todos los equipos, sin perder funciones",
   "mandatory": true
 }
