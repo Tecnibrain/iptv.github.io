@@ -1,7 +1,7 @@
 {
-  "versionCode": 72,
-  "versionName": "1.9.3",
+  "versionCode": 73,
+  "versionName": "1.9.4",
   "apkUrl": "https://github.com/Tecnibrain/iptv.github.io/releases/latest/download/app-debug.apk",
-  "changelog": "• App más rápida y fluida (arranque y listas optimizados)\n• Nueva pantalla de Ajustes más clara y ordenada\n• Carga de logos mejorada\n• Cambio de canal instantáneo intacto en todos los equipos, sin perder funciones",
+  "changelog": "• El TV y la tablet vuelven a usar la distribución del celular (más clara y ordenada)\n• Cambio de canal instantáneo y todas las funciones intactas",
   "mandatory": true
 }
