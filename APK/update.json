@@ -1,7 +1,7 @@
 {
-  "versionCode": 77,
-  "versionName": "1.9.8",
+  "versionCode": 78,
+  "versionName": "1.9.9",
   "apkUrl": "https://github.com/Tecnibrain/iptv.github.io/releases/latest/download/app-debug.apk",
-  "changelog": "• Arreglado: 'Buscar Actualización APP' en Ajustes ahora abre la ventana para descargar e instalar (antes solo avisaba)\n• Zapping instantáneo y todas las funciones intactas",
+  "changelog": "• Menos consumo de CPU/batería en TV y equipos lentos: la miniatura de la lista muestra el logo del canal en vez de decodificar video en vivo (mismo diseño)\n• Nuevo interruptor 'Preview en vivo en la lista' en Ajustes › Interfaz\n• Zapping instantáneo y todas las funciones intactas",
   "mandatory": true
 }
