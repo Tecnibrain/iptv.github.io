@@ -534,7 +534,6 @@ http://79.127.207.193:80/RealityKings/playlist.m3u8
 #EXTINF:-1 tvg-chno="121" group-title="Deportes" tvg-id="deportes15" tvg-name="DIRECTV SPORTS" tvg-logo="https://raw.githubusercontent.com/Tecnibrain/iptv.github.io/main/LOGOS/121_DIRECTV_SPORTS.png", DIRECTV SPORTS
 http://200.59.191.177:8000/play/a00h/index.m3u8
 http://190.108.93.180:8000/play/a054/index.m3u8
-http://45.176.240.128:8889/play/a04d/index.m3u8
 
 #EXTINF:-1 tvg-chno="122" group-title="Deportes" tvg-id="deportes16" tvg-name="DIRECTV SPORTS +" tvg-logo="https://raw.githubusercontent.com/Tecnibrain/iptv.github.io/main/LOGOS/122_DIRECTV_SPORTS+.png", DIRECTV SPORTS +
 http://186.33.52.206:7900/play/a0pm/index.m3u8
