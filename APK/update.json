@@ -1,7 +1,7 @@
 {
-  "versionCode": 83,
-  "versionName": "1.9.14",
+  "versionCode": 84,
+  "versionName": "1.9.15",
   "apkUrl": "https://github.com/Tecnibrain/iptv.github.io/releases/latest/download/app-debug.apk",
-  "changelog": "• La app deja de re-procesar el listado de canales una y otra vez: ahora se guarda en memoria y se refresca solo al actualizar la lista (menos CPU al navegar)\n• Todas las funciones intactas",
+  "changelog": "• Más fluidez y menos calor en TV/equipos lentos: el reproductor deja de preparar el siguiente canal en segundo plano (ese 2º decodificador competía con la reproducción)\n• El salto instantáneo entre los enlaces de respaldo de un mismo canal SIGUE igual (failover sin esperas)\n• Nota: cambiar de canal ahora tiene una breve carga (antes era instantáneo)",
   "mandatory": true
 }
