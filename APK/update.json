@@ -1,7 +1,7 @@
 {
-  "versionCode": 81,
-  "versionName": "1.9.12",
+  "versionCode": 82,
+  "versionName": "1.9.13",
   "apkUrl": "https://github.com/Tecnibrain/iptv.github.io/releases/latest/download/app-debug.apk",
-  "changelog": "• Menos consumo de CPU/batería en TV y equipos lentos: las animaciones de carga (shimmer) y de foco se vuelven instantáneas, y la memoria de imágenes se ajusta al equipo\n• Mismo diseño; en celulares potentes todo sigue animado igual\n• Zapping instantáneo y todas las funciones intactas",
+  "changelog": "• Lista de canales más fluida: se quitó sobredibujado redundante y, en TV/equipos lentos, la animación de aparición del logo es instantánea\n• Mismo diseño; todas las funciones intactas",
   "mandatory": true
 }
