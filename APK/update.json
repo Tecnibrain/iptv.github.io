@@ -1,7 +1,7 @@
 {
-  "versionCode": 82,
-  "versionName": "1.9.13",
+  "versionCode": 83,
+  "versionName": "1.9.14",
   "apkUrl": "https://github.com/Tecnibrain/iptv.github.io/releases/latest/download/app-debug.apk",
-  "changelog": "• Lista de canales más fluida: se quitó sobredibujado redundante y, en TV/equipos lentos, la animación de aparición del logo es instantánea\n• Mismo diseño; todas las funciones intactas",
+  "changelog": "• La app deja de re-procesar el listado de canales una y otra vez: ahora se guarda en memoria y se refresca solo al actualizar la lista (menos CPU al navegar)\n• Todas las funciones intactas",
   "mandatory": true
 }
