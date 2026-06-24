@@ -1,7 +1,7 @@
 {
-  "versionCode": 80,
-  "versionName": "1.9.11",
+  "versionCode": 81,
+  "versionName": "1.9.12",
   "apkUrl": "https://github.com/Tecnibrain/iptv.github.io/releases/latest/download/app-debug.apk",
-  "changelog": "• Banner para el menú de Android TV / Amazon Fire TV (la app sale con su logo en 'Tus aplicaciones')\n• Sin cambios en las funciones; zapping instantáneo y todo lo demás intacto",
+  "changelog": "• Menos consumo de CPU/batería en TV y equipos lentos: las animaciones de carga (shimmer) y de foco se vuelven instantáneas, y la memoria de imágenes se ajusta al equipo\n• Mismo diseño; en celulares potentes todo sigue animado igual\n• Zapping instantáneo y todas las funciones intactas",
   "mandatory": true
 }
