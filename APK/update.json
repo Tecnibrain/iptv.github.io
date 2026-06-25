@@ -1,7 +1,7 @@
 {
-  "versionCode": 85,
-  "versionName": "1.9.16",
+  "versionCode": 86,
+  "versionName": "1.9.17",
   "apkUrl": "https://github.com/Tecnibrain/iptv.github.io/releases/latest/download/app-debug.apk",
-  "changelog": "• La lista de canales se actualiza sola cada vez que abres la app (con internet) → siempre tienes la última versión, sin tocar nada\n• Si estás sin internet, conserva la lista guardada (no se borra)\n• Todas las funciones intactas",
+  "changelog": "• Arreglado: en canales con varias pistas de audio (p. ej. inglés/español), al elegir una pista la app ya la respeta y no la revierte sola al idioma por defecto\n• Aplica sobre todo a audios MP2/AC3 (decodificados por software)\n• Todas las funciones intactas",
   "mandatory": true
 }
