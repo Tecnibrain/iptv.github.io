@@ -1,7 +1,7 @@
 {
-  "versionCode": 86,
-  "versionName": "1.9.17",
+  "versionCode": 87,
+  "versionName": "1.9.18",
   "apkUrl": "https://github.com/Tecnibrain/iptv.github.io/releases/latest/download/app-debug.apk",
-  "changelog": "• Arreglado: en canales con varias pistas de audio (p. ej. inglés/español), al elegir una pista la app ya la respeta y no la revierte sola al idioma por defecto\n• Aplica sobre todo a audios MP2/AC3 (decodificados por software)\n• Todas las funciones intactas",
+  "changelog": "• Arreglado: en canales con varios audios muxeados (p. ej. inglés + español en el mismo stream), ahora la app detecta y muestra TODAS las pistas de audio (antes solo aparecía una)\n• Nota: esos canales HLS pueden tardar un instante más en abrir (la app revisa las pistas reales del stream)\n• Todas las funciones intactas",
   "mandatory": true
 }
