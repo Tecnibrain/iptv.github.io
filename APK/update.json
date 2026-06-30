@@ -1,7 +1,7 @@
 {
-  "versionCode": 87,
-  "versionName": "1.9.18",
+  "versionCode": 88,
+  "versionName": "1.9.19",
   "apkUrl": "https://github.com/Tecnibrain/iptv.github.io/releases/latest/download/app-debug.apk",
-  "changelog": "• Arreglado: en canales con varios audios muxeados (p. ej. inglés + español en el mismo stream), ahora la app detecta y muestra TODAS las pistas de audio (antes solo aparecía una)\n• Nota: esos canales HLS pueden tardar un instante más en abrir (la app revisa las pistas reales del stream)\n• Todas las funciones intactas",
+  "changelog": "• Menos consumo y SIN tironeo de imagen en canales con audio MP2: el reproductor ahora usa UN SOLO decodificador (antes abría un 2º en segundo plano para el respaldo de enlaces, que saturaba los TVs/equipos lentos)\n• El cambio automático al siguiente enlace sigue activo: ahora precalienta la conexión en vez de abrir un 2º reproductor → salto rápido (puede tener un parpadeo mínimo)\n• Todas las funciones intactas",
   "mandatory": true
 }
