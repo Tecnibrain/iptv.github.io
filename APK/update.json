@@ -1,7 +1,7 @@
 {
-  "versionCode": 89,
-  "versionName": "1.9.20",
+  "versionCode": 90,
+  "versionName": "1.9.21",
   "apkUrl": "https://github.com/Tecnibrain/iptv.github.io/releases/latest/download/app-debug.apk",
-  "changelog": "• Estabilidad mejorada: recuperado el cambio PROACTIVO de enlace → salta al respaldo ANTES de que se congele la imagen (no solo cuando ya falló), y sigue con UN SOLO decodificador (sin recargar el equipo, sin el lag MP2)\n• Tres capas anti-pausa: proactivo (antes del corte) + rápido (3s congelado) + red de seguridad (7s), todas sobre la conexión del siguiente enlace ya precalentada, con tope para no hacer ping-pong\n• Todas las funciones intactas",
+  "changelog": "• Salto de enlace MÁS FLUIDO: mantiene la última imagen en pantalla mientras engancha el respaldo (sin parpadeo a negro / sin recargar desde cero visualmente)\n• Salta un poco ANTES cuando un enlace empieza a fallar\n• Sigue con UN SOLO decodificador (sin recargar el equipo, sin lag MP2)\n• Todas las funciones intactas",
   "mandatory": true
 }
