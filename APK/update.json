@@ -1,7 +1,7 @@
 {
-  "versionCode": 88,
-  "versionName": "1.9.19",
+  "versionCode": 89,
+  "versionName": "1.9.20",
   "apkUrl": "https://github.com/Tecnibrain/iptv.github.io/releases/latest/download/app-debug.apk",
-  "changelog": "• Menos consumo y SIN tironeo de imagen en canales con audio MP2: el reproductor ahora usa UN SOLO decodificador (antes abría un 2º en segundo plano para el respaldo de enlaces, que saturaba los TVs/equipos lentos)\n• El cambio automático al siguiente enlace sigue activo: ahora precalienta la conexión en vez de abrir un 2º reproductor → salto rápido (puede tener un parpadeo mínimo)\n• Todas las funciones intactas",
+  "changelog": "• Estabilidad mejorada: recuperado el cambio PROACTIVO de enlace → salta al respaldo ANTES de que se congele la imagen (no solo cuando ya falló), y sigue con UN SOLO decodificador (sin recargar el equipo, sin el lag MP2)\n• Tres capas anti-pausa: proactivo (antes del corte) + rápido (3s congelado) + red de seguridad (7s), todas sobre la conexión del siguiente enlace ya precalentada, con tope para no hacer ping-pong\n• Todas las funciones intactas",
   "mandatory": true
 }
