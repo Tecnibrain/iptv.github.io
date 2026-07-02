@@ -1,7 +1,7 @@
 {
-  "versionCode": 92,
-  "versionName": "1.9.23",
+  "versionCode": 93,
+  "versionName": "1.9.24",
   "apkUrl": "https://github.com/Tecnibrain/iptv.github.io/releases/latest/download/app-debug.apk",
-  "changelog": "• Salto de enlace aún más fluido: al cambiar la app reusa el mismo reproductor (no lo reconstruye) → no reengancha la pantalla y reaprovecha el decodificador → el cambio se siente casi imperceptible\n• Combinado con la pre-carga de datos del enlace de respaldo, el salto continúa casi al instante con lo ya cargado (sin 2º reproductor, sin lag MP2)\n• Todas las funciones intactas",
+  "changelog": "• Salto de enlace más suave: la pre-carga del enlace de respaldo ahora empieza ANTES (apenas cae el buffer) y el salto espera a que tenga datos suficientes → se reduce el saltito al cambiar\n• Si el enlace actual se agota o se congela antes, salta igual con lo que haya\n• Protegido para no cambiar en falso en canales estables de poco buffer. Todas las funciones intactas",
   "mandatory": true
 }
