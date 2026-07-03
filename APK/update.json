@@ -1,7 +1,7 @@
 {
-  "versionCode": 95,
-  "versionName": "1.9.26",
+  "versionCode": 96,
+  "versionName": "1.9.27",
   "apkUrl": "https://github.com/Tecnibrain/iptv.github.io/releases/latest/download/app-debug.apk",
-  "changelog": "• Arreglado el failover: cuando un enlace se quedaba sin buffer, a veces reintentaba el MISMO enlace hasta 6s. Ahora, si se congela, salta al de respaldo en ~3s usando lo ya pre-cargado\n• Se separó el salto suave (anticipado) del salto por congelamiento (inmediato, sin esperar)\n• Más gracia para enlaces nuevos que aún arrancan. Todas las funciones intactas",
+  "changelog": "• Cambio de enlace más LIMPIO: cuando la app salta a un enlace de respaldo por su cuenta, ya no aparece la interfaz/controles — solo un cartelito breve que indica a qué enlace pasó\n• Al cambiar de canal tú mismo, sí se muestran los controles + info como siempre\n• Todas las funciones intactas",
   "mandatory": true
 }
