@@ -121,9 +121,9 @@ http://38.210.105.10:8000/play/a0ha/index.m3u8
 http://45.228.233.60:8000/play/a00k/index.m3u8
 
 #EXTINF:-1 tvg-chno="25" group-title="Cine" tvg-id="cine4" tvg-name="HBO HD" tvg-logo="https://raw.githubusercontent.com/Tecnibrain/iptv.github.io/main/LOGOS/025_HBO_HD.png", HBO HD
-http://190.61.101.11:7050/play/a050/index.m3u8
-http://200.115.120.1:8000/play/ca137/index.m3u8
-http://190.217.66.92:8000/play/a0pt/index.m3u8u?hls
+http://181.119.108.43:9001/play/a054/index.m3u8
+http://200.37.201.35:8000/play/a07h/index.m3u8
+http://200.37.201.98:8000/play/a06x/index.m3u8
 
 #EXTINF:-1 tvg-chno="26" group-title="Cine" tvg-id="cine5" tvg-name="HBO XTREME HD" tvg-logo="https://raw.githubusercontent.com/Tecnibrain/iptv.github.io/main/LOGOS/026_HBO_XTREME_HD.png", HBO XTREME HD
 http://190.60.48.151:8010/play/a09x/index.m3u8
