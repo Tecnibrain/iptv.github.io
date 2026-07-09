@@ -554,6 +554,9 @@ http://190.90.154.112:8000/play/a01n/index.m3u8
 http://190.90.154.112:8000/play/a01o/index.m3u8
 http://190.90.154.112:8000/play/a01o/index.m3u8
 
+#EXTINF:-1 tvg-chno="120" group-title="Entretenimiento Adulto" tvg-id="adulto6" tvg-name="BRAZZERS TV" tvg-logo="https://raw.githubusercontent.com/Tecnibrain/iptv.github.io/main/LOGOS/120_BRAZZERS_TV.png", BRAZZERS TV
+http://200.115.120.1:8000/play/ca98/index.m3u8
+
 #EXTINF:-1 tvg-chno="121" group-title="Deportes" tvg-id="deportes15" tvg-name="DIRECTV SPORTS" tvg-logo="https://raw.githubusercontent.com/Tecnibrain/iptv.github.io/main/LOGOS/121_DIRECTV_SPORTS.png", DIRECTV SPORTS
 http://190.108.93.180:8000/play/a054/index.m3u8
 http://45.5.57.58:8000/play/a07p/index.m3u8
