@@ -628,3 +628,23 @@ http://45.228.233.60:8000/play/a00x/index.m3u8
 http://181.78.197.59:8000/play/a07a/index.m3u8
 http://45.182.22.53:8000/play/a07q/index.m3u8
 http://181.119.108.43:9001/play/a04q/index.m3u8
+
+#EXTINF:-1 tvg-chno="134" group-title="Noticias" tvg-id="noticias3" tvg-name="DW ESPANOL" tvg-logo="https://raw.githubusercontent.com/Tecnibrain/iptv.github.io/main/LOGOS/134_DW_ESPANOL.png", DW ESPANOL
+http://181.78.82.130:8000/play/a0o8/index.m3u8
+http://181.78.84.78:8910/play/a01q/index.m3u8?hls
+http://181.118.153.15:8000/play/tx00/index.m3u8?hls
+
+#EXTINF:-1 tvg-chno="135" group-title="Noticias" tvg-id="noticias4" tvg-name="FRANCE 24 ESPANOL" tvg-logo="https://raw.githubusercontent.com/Tecnibrain/iptv.github.io/main/LOGOS/135_FRANCE_24_ESPANOL.png", FRANCE 24 ESPANOL
+http://181.78.84.78:8910/play/a0gu/index.m3u8?hls
+http://45.182.22.53:8000/play/a08l/index.m3u8
+http://186.33.25.234:8125/play/a08f/index.m3u8
+
+#EXTINF:-1 tvg-chno="136" group-title="Infantil" tvg-id="infantil9" tvg-name="CARTOONITO" tvg-logo="https://raw.githubusercontent.com/Tecnibrain/iptv.github.io/main/LOGOS/136_CARTOONITO.png", CARTOONITO
+http://181.78.8.199:8000/play/a09f/index.m3u8
+http://181.78.82.130:8000/play/a0q3/index.m3u8
+http://190.238.43.117:9000/play/a0ig/index.m3u8
+
+#EXTINF:-1 tvg-chno="137" group-title="Anime" tvg-id="Anime4" tvg-name="TOONCAST" tvg-logo="https://raw.githubusercontent.com/Tecnibrain/iptv.github.io/main/LOGOS/137_TOONCAST.png", TOONCAST
+http://181.78.8.199:8000/play/a09g/index.m3u8
+http://181.78.84.78:8910/play/a06z/index.m3u8?hls
+http://181.118.153.15:8000/play/my84/index.m3u8?hls
