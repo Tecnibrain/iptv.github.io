@@ -541,7 +541,7 @@ http://190.60.48.151:8010/play/a09m/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
 https://liveingesta118.cdnmedia.tv/televidtvlive/smil:rtmp01.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="114" group-title="Cine" tvg-id="cine22" tvg-name="ADULT SWIM HD" tvg-logo="https://raw.githubusercontent.com/Tecnibrain/iptv.github.io/main/LOGOS/114_ADULT_SWIM_HD.png", ADULT SWIM HD
+#EXTINF:-1 tvg-chno="114" group-title="Anime" tvg-id="Anime1" tvg-name="ADULT SWIM HD" tvg-logo="https://raw.githubusercontent.com/Tecnibrain/iptv.github.io/main/LOGOS/114_ADULT_SWIM_HD.png", ADULT SWIM HD
 http://190.238.43.117:9000/play/a0il/index.m3u8
 http://181.78.8.199:8000/play/a0ah/index.m3u8
 http://181.118.153.15:8000/play/zu33/index.m3u8?hls
@@ -615,16 +615,16 @@ http://181.78.8.199:8000/play/a0dp/index.m3u8
 #EXTINF:-1 tvg-chno="130" group-title="Religioso" tvg-id="Religioso4" tvg-name="TV Familia" tvg-logo="https://raw.githubusercontent.com/Tecnibrain/iptv.github.io/main/LOGOS/130_TV_FAMILIA.png", TV Familia
 https://59d39900ebfb8.streamlock.net/tvfamilia_480p/tvfamilia_480p/chunklist_w1359855435.m3u8
 
-#EXTINF:-1 tvg-chno="131" group-title="Cine" tvg-id="cine30" tvg-name="ANIMASH" tvg-logo="https://raw.githubusercontent.com/Tecnibrain/iptv.github.io/main/LOGOS/131_ANIMASH.png", ANIMASH
+#EXTINF:-1 tvg-chno="131" group-title="Anime" tvg-id="Anime2" tvg-name="ANIMASH" tvg-logo="https://raw.githubusercontent.com/Tecnibrain/iptv.github.io/main/LOGOS/131_ANIMASH.png", ANIMASH
 http://38.7.195.44:8000/play/a0ce
 http://38.210.105.10:8000/play/a07p/index.m3u8
 
-#EXTINF:-1 tvg-chno="132" group-title="Cine" tvg-id="cine31" tvg-name="MAX ANIME" tvg-logo="https://raw.githubusercontent.com/Tecnibrain/iptv.github.io/main/LOGOS/132_MAX_ANIME.png", MAX ANIME
+#EXTINF:-1 tvg-chno="132" group-title="Anime" tvg-id="Anime3" tvg-name="MAX ANIME" tvg-logo="https://raw.githubusercontent.com/Tecnibrain/iptv.github.io/main/LOGOS/132_MAX_ANIME.png", MAX ANIME
 http://181.78.50.91:8000/play/a011/index.m3u8
 http://190.61.101.11:7050/play/a0ae/index.m3u8?hls
 http://45.228.233.60:8000/play/a00x/index.m3u8
 
-#EXTINF:-1 tvg-chno="133" group-title="Cine" tvg-id="cine32" tvg-name="GOLDEN PREMIER 2" tvg-logo="https://raw.githubusercontent.com/Tecnibrain/iptv.github.io/main/LOGOS/133_GOLDEN_PREMIER_2.png", GOLDEN PREMIER 2
+#EXTINF:-1 tvg-chno="133" group-title="Cine" tvg-id="cine30" tvg-name="GOLDEN PREMIER 2" tvg-logo="https://raw.githubusercontent.com/Tecnibrain/iptv.github.io/main/LOGOS/133_GOLDEN_PREMIER_2.png", GOLDEN PREMIER 2
 http://181.78.197.59:8000/play/a07a/index.m3u8
 http://45.182.22.53:8000/play/a07q/index.m3u8
 http://181.119.108.43:9001/play/a04q/index.m3u8
