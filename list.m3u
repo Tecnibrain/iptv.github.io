@@ -504,7 +504,7 @@ http://209.87.175.160:5001/play/a0mp/index.m3u8
 http://45.166.93.156:9999/play/a0et/index.m3u8
 http://186.33.25.234:8125/play/a050/index.m3u8
 
-#EXTINF:-1 tvg-chno="109" group-title="Entretenimiento" tvg-id="entretenimiento31" tvg-name="UNIVISION HD" tvg-logo="https://raw.githubusercontent.com/Tecnibrain/iptv.github.io/main/LOGOS/109_UNIVISION_HD.png", UNIVISION HD
+#EXTINF:-1 tvg-chno="109" group-title="Entretenimiento" tvg-id="entretenimiento32" tvg-name="UNIVISION HD" tvg-logo="https://raw.githubusercontent.com/Tecnibrain/iptv.github.io/main/LOGOS/109_UNIVISION_HD.png", UNIVISION HD
 http://190.108.80.138:8000/play/a0ge/index.m3u8
 http://45.166.93.156:9999/play/a0i7/index.m3u8
 http://181.78.197.59:8000/play/a089/index.m3u8
