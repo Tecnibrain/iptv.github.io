@@ -157,6 +157,10 @@ http://200.59.191.177:8000/play/a0pv/index.m3u8
 http://190.60.48.151:8010/play/a09o/index.m3u8
 http://190.60.48.151:8010/play/a0aw/index.m3u8
 
+#EXTINF:-1 tvg-chno="33" group-title="Documentales" tvg-id="documentales11" tvg-name="DISCOVERY SCIENCE HD" tvg-logo="https://raw.githubusercontent.com/Tecnibrain/iptv.github.io/main/LOGOS/033_DISCOVERY_SCIENCE_HD.png", DISCOVERY SCIENCE HD
+http://200.115.120.1:8000/play/ca054/index.m3u8
+http://181.78.82.130:8000/play/a0oj/index.m3u8
+
 #EXTINF:-1 tvg-chno="34" group-title="Documentales" tvg-id="documentales3" tvg-name="NAT GEO HD" tvg-logo="https://raw.githubusercontent.com/Tecnibrain/iptv.github.io/main/LOGOS/034_NAT_GEO_HD.png", NAT GEO HD
 http://190.61.101.11:7050/play/a05f/index.m3u8?hls
 http://190.60.48.151:8010/play/NAT_GEO_TVV/index.m3u8
@@ -374,6 +378,11 @@ http://190.60.48.151:8010/play/a046/index.m3u8
 http://200.10.30.241:8000/play/a06b/index.m3u8
 http://181.78.8.199:8000/play/a07l/index.m3u8
 
+#EXTINF:-1 tvg-chno="79" group-title="Cine" tvg-id="cine28" tvg-name="HBO SIGNATURE" tvg-logo="https://raw.githubusercontent.com/Tecnibrain/iptv.github.io/main/LOGOS/079_HBO_SIGNATURE.png", HBO SIGNATURE
+http://38.224.231.176:8000/play/a01e/index.m3u8
+http://181.66.249.246:8000/play/a0ic/index.m3u8
+http://38.224.48.4:8000/play/a0t0/index.m3u8
+
 #EXTINF:-1 tvg-chno="80" group-title="Entretenimiento" tvg-id="entretenimiento30" tvg-name="UNIVERSAL COMEDY HD" tvg-logo="https://raw.githubusercontent.com/Tecnibrain/iptv.github.io/main/LOGOS/080_UNIVERSAL_COMEDY_HD.png", UNIVERSAL COMEDY HD
 http://45.228.233.60:8000/play/a03u/index.m3u8
 http://186.33.25.234:8125/play/a052/index.m3u8
@@ -388,6 +397,11 @@ http://190.108.93.71:8000/play/a0bh/index.m3u8
 http://181.118.153.15:8000/play/up74/index.m3u8?hls
 http://181.78.8.199:8000/play/a09h/index.m3u8
 http://181.78.8.199:8000/play/a0bq/index.m3u8
+
+#EXTINF:-1 tvg-chno="83" group-title="Cine" tvg-id="cine29" tvg-name="SONY MOVIES HD" tvg-logo="https://raw.githubusercontent.com/Tecnibrain/iptv.github.io/main/LOGOS/083_SONY_MOVIES_HD.png", SONY MOVIES HD
+http://181.119.108.43:9001/play/a0pm/index.m3u8
+http://181.78.8.199:8000/play/a0af/index.m3u8
+http://45.5.118.152:8000/play/a02m/index.m3u8
 
 #EXTINF:-1 tvg-chno="84" group-title="Nacionales" tvg-id="Nacionales2" tvg-name="CANAL 1 HD" tvg-logo="https://raw.githubusercontent.com/Tecnibrain/iptv.github.io/main/LOGOS/084_CANAL_1_HD.png", CANAL 1 HD
 http://181.118.153.15:8000/play/ht22/index.m3u8?hls
@@ -542,6 +556,11 @@ http://181.78.8.199:8000/play/a0ab/index.m3u8
 http://38.44.109.41:8003/play/a002/index.m3u8
 http://181.118.153.15:8000/play/qa67/index.m3u8?hls
 
+#EXTINF:-1 tvg-chno="117" group-title="Entretenimiento Adulto" tvg-id="adultO7" tvg-name="SEXTREME" tvg-logo="https://raw.githubusercontent.com/Tecnibrain/iptv.github.io/main/LOGOS/117_SEXTREME.png", SEXTREME
+http://190.108.93.71:8000/play/a0cl/index.m3u8
+http://177.53.153.21:8000/play/a17t/index.m3u8
+http://181.66.249.246:8000/play/a0ha/index.m3u8
+
 #EXTINF:-1 tvg-chno="118" group-title="Nacionales" tvg-id="Nacionales4" tvg-name="CARACOL HD2" tvg-logo="https://raw.githubusercontent.com/Tecnibrain/iptv.github.io/main/LOGOS/118_CARACOL_HD2.png", CARACOL HD2
 http://190.60.32.178:8178/play/a0aj/index.m3u8
 http://179.1.199.50:9000/play/a0a1/index.m3u8
@@ -595,3 +614,17 @@ http://181.78.8.199:8000/play/a0dp/index.m3u8
 
 #EXTINF:-1 tvg-chno="130" group-title="Religioso" tvg-id="Religioso4" tvg-name="TV Familia" tvg-logo="https://raw.githubusercontent.com/Tecnibrain/iptv.github.io/main/LOGOS/130_TV_FAMILIA.png", TV Familia
 https://59d39900ebfb8.streamlock.net/tvfamilia_480p/tvfamilia_480p/chunklist_w1359855435.m3u8
+
+#EXTINF:-1 tvg-chno="131" group-title="Cine" tvg-id="cine30" tvg-name="ANIMASH" tvg-logo="https://raw.githubusercontent.com/Tecnibrain/iptv.github.io/main/LOGOS/131_ANIMASH.png", ANIMASH
+http://38.7.195.44:8000/play/a0ce
+http://38.210.105.10:8000/play/a07p/index.m3u8
+
+#EXTINF:-1 tvg-chno="132" group-title="Cine" tvg-id="cine31" tvg-name="MAX ANIME" tvg-logo="https://raw.githubusercontent.com/Tecnibrain/iptv.github.io/main/LOGOS/132_MAX_ANIME.png", MAX ANIME
+http://181.78.50.91:8000/play/a011/index.m3u8
+http://190.61.101.11:7050/play/a0ae/index.m3u8?hls
+http://45.228.233.60:8000/play/a00x/index.m3u8
+
+#EXTINF:-1 tvg-chno="133" group-title="Cine" tvg-id="cine32" tvg-name="GOLDEN PREMIER 2" tvg-logo="https://raw.githubusercontent.com/Tecnibrain/iptv.github.io/main/LOGOS/133_GOLDEN_PREMIER_2.png", GOLDEN PREMIER 2
+http://181.78.197.59:8000/play/a07a/index.m3u8
+http://45.182.22.53:8000/play/a07q/index.m3u8
+http://181.119.108.43:9001/play/a04q/index.m3u8
