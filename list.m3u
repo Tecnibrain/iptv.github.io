@@ -103,7 +103,7 @@ http://38.87.224.19:2220/play/a02y/index.m3u8
 http://181.78.8.199:8000/play/a08o/index.m3u8
 http://181.78.8.199:8000/play/a0bx/index.m3u8
 
-#EXTINF:-1 tvg-chno="22" group-title="Entretenimiento" tvg-id="entretenimiento9" tvg-name="FX HD" tvg-logo="https://raw.githubusercontent.com/Tecnibrain/iptv.github.io/main/LOGOS/022_FX_HD.png", FX HD
+#EXTINF:-1 tvg-chno="22" group-title="Cine" tvg-id="cine27" tvg-name="FX HD" tvg-logo="https://raw.githubusercontent.com/Tecnibrain/iptv.github.io/main/LOGOS/022_FX_HD.png", FX HD
 http://181.118.153.15:8000/play/kd90/index.m3u8?hls
 http://181.78.8.199:8000/play/a0ds/index.m3u8
 http://38.224.175.2:8000/play/a0sz/index.m3u8
