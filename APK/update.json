@@ -1,7 +1,7 @@
 {
-  "versionCode": 98,
-  "versionName": "1.9.29",
+  "versionCode": 99,
+  "versionName": "1.9.30",
   "apkUrl": "https://github.com/Tecnibrain/iptv.github.io/releases/latest/download/app-debug.apk",
-  "changelog": "• Canales de tipo DIRECTO (sin .m3u8): se acabaron los cambios de enlace por falso positivo. Esos streams tienen poco buffer por naturaleza (~1s); antes la app creía que iban mal y saltaba sin necesidad\n• Ahora en esos canales el respaldo se prepara solo ante un atasco REAL y el cambio ocurre solo si de verdad se congela o falla; los HLS (.m3u8) siguen igual\n• Extra: el diagnóstico ahora lista todas las pistas de audio detectadas\n• Todas las funciones intactas",
+  "changelog": "• ARREGLADO: en canales de tipo DIRECTO (sin .m3u8), si el buffer se vaciaba del todo el reproductor se quedaba CONGELADO y no cambiaba de enlace\n• Ahora detecta el buffer prácticamente vacío (aunque el reproductor diga que sigue reproduciendo) y salta al respaldo en ~3s\n• Se mantiene: no cambia de enlace por el buffer bajo NORMAL (~1s) de esos canales; los HLS (.m3u8) siguen igual\n• Todas las funciones intactas",
   "mandatory": true
 }
