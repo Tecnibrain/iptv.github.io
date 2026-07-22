@@ -410,7 +410,8 @@ http://200.122.223.13:55000/play/canal-1-tdt/index.m3u8
 
 #EXTINF:-1 tvg-chno="85" group-title="Nacionales" tvg-id="Nacionales3" tvg-name="CARACOL HD" tvg-logo="https://raw.githubusercontent.com/Tecnibrain/iptv.github.io/main/LOGOS/085_CARACOL_HD.png", CARACOL HD
 http://181.78.74.146:18000/play/a03e
-http://190.90.154.112:8000/play/a01l/index.m3u8
+http://190.90.154.112:8000/play/a01l/index.m3u8
+http://138.186.20.20:8000/play/a035/index.m3u8
 
 #EXTINF:-1 tvg-chno="86" group-title="Noticias" tvg-id="noticias2" tvg-name="NTN 24" tvg-logo="https://raw.githubusercontent.com/Tecnibrain/iptv.github.io/main/LOGOS/086_NTN_24.png", NTN 24
 http://181.78.8.199:8000/play/a0a6/index.m3u8
@@ -559,7 +560,6 @@ http://181.118.153.15:8000/play/qa67/index.m3u8?hls
 http://190.108.93.71:8000/play/a0cl/index.m3u8
 http://177.53.153.21:8000/play/a17t/index.m3u8
 http://181.66.249.246:8000/play/a0ha/index.m3u8
-http://181.78.8.199:8000/play/a0hw/index.m3u8
 
 #EXTINF:-1 tvg-chno="118" group-title="Nacionales" tvg-id="Nacionales4" tvg-name="CARACOL HD2" tvg-logo="https://raw.githubusercontent.com/Tecnibrain/iptv.github.io/main/LOGOS/118_CARACOL_HD2.png", CARACOL HD2
 http://190.60.32.178:8178/play/a0aj/index.m3u8
