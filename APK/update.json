@@ -1,7 +1,7 @@
 {
-  "versionCode": 100,
-  "versionName": "1.9.31",
+  "versionCode": 101,
+  "versionName": "1.9.32",
   "apkUrl": "https://github.com/Tecnibrain/iptv.github.io/releases/latest/download/app-debug.apk",
-  "changelog": "• Preview en vivo en la lista: ahora ACTIVO por defecto (incluida la TV). Se puede apagar en Ajustes → Interfaz\n• Datos técnicos (ventanita verde al mantener pulsado el video): ahora es una opción en Ajustes → Interfaz, DESACTIVADA por defecto\n• Ahorro en segundo plano: al dejar la app atrás (apagar TV / Home sin PIP) libera el reproductor a los ~8s; al volver recarga solo\n• Auto-cierre: la app se cierra sola tras 20 min en segundo plano (configurable Nunca/20/40/60). No aplica en PIP\n• El PIP sigue igual. Todas las funciones intactas",
+  "changelog": "• Zapping circular: al llegar al ÚLTIMO canal, \"siguiente\" vuelve al PRIMERO; y en el primero, \"anterior\" salta al ÚLTIMO (como el control de una TV normal)\n• Aplica en botones, deslizar y control remoto (CH+/CH−, D-pad)\n• Todas las funciones intactas",
   "mandatory": true
 }
