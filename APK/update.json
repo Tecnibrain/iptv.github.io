@@ -1,7 +1,7 @@
 {
-  "versionCode": 99,
-  "versionName": "1.9.30",
+  "versionCode": 100,
+  "versionName": "1.9.31",
   "apkUrl": "https://github.com/Tecnibrain/iptv.github.io/releases/latest/download/app-debug.apk",
-  "changelog": "• ARREGLADO: en canales de tipo DIRECTO (sin .m3u8), si el buffer se vaciaba del todo el reproductor se quedaba CONGELADO y no cambiaba de enlace\n• Ahora detecta el buffer prácticamente vacío (aunque el reproductor diga que sigue reproduciendo) y salta al respaldo en ~3s\n• Se mantiene: no cambia de enlace por el buffer bajo NORMAL (~1s) de esos canales; los HLS (.m3u8) siguen igual\n• Todas las funciones intactas",
+  "changelog": "• Preview en vivo en la lista: ahora ACTIVO por defecto (incluida la TV). Se puede apagar en Ajustes → Interfaz\n• Datos técnicos (ventanita verde al mantener pulsado el video): ahora es una opción en Ajustes → Interfaz, DESACTIVADA por defecto\n• Ahorro en segundo plano: al dejar la app atrás (apagar TV / Home sin PIP) libera el reproductor a los ~8s; al volver recarga solo\n• Auto-cierre: la app se cierra sola tras 20 min en segundo plano (configurable Nunca/20/40/60). No aplica en PIP\n• El PIP sigue igual. Todas las funciones intactas",
   "mandatory": true
 }
