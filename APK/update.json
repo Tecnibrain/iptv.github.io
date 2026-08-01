@@ -1,7 +1,7 @@
 {
-  "versionCode": 103,
-  "versionName": "1.9.34",
+  "versionCode": 104,
+  "versionName": "1.9.35",
   "apkUrl": "https://github.com/Tecnibrain/iptv.github.io/releases/latest/download/app-debug.apk",
-  "changelog": "🧓 MODO TV SIMPLE (adulto mayor) — en Ajustes → Interfaz (desactivado por defecto)\n• La app abre DIRECTO en el último canal visto y se pasan canales como una TV convencional (sin menús ni controles avanzados)\n• NUEVO: ahora sí puedes ver la LISTA de canales para buscar rápido → botón OK (control) o tocar la pantalla (celular). Se abre en el canal que estás viendo; se cierra con ATRÁS corto\n• Para salir del modo: mantener pulsado ATRÁS 3 segundos (TV) o el video 3 segundos (celular)\n• Todo lo demás sigue igual",
+  "changelog": "• La lista de canales ahora muestra el NÚMERO del canal delante del nombre (ej. \"114 · ADULT SWIM HD\"), para ubicarlo de un vistazo como en una TV\n• Modo TV simple (Ajustes → Interfaz): abre en el último canal visto, se pasan canales como una TV, y con OK o tocando la pantalla se ve la lista para buscar rápido\n• Para salir del modo: mantener pulsado ATRÁS 3 segundos (TV) o el video 3 segundos (celular)\n• Todo lo demás sigue igual",
   "mandatory": true
 }
