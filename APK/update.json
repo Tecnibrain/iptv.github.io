@@ -1,7 +1,7 @@
 {
-  "versionCode": 101,
-  "versionName": "1.9.32",
+  "versionCode": 102,
+  "versionName": "1.9.33",
   "apkUrl": "https://github.com/Tecnibrain/iptv.github.io/releases/latest/download/app-debug.apk",
-  "changelog": "• Zapping circular: al llegar al ÚLTIMO canal, \"siguiente\" vuelve al PRIMERO; y en el primero, \"anterior\" salta al ÚLTIMO (como el control de una TV normal)\n• Aplica en botones, deslizar y control remoto (CH+/CH−, D-pad)\n• Todas las funciones intactas",
+  "changelog": "🧓 NUEVO: MODO TV SIMPLE (adulto mayor) — en Ajustes → Interfaz (desactivado por defecto)\n• Con el modo activo, la app abre DIRECTO en el último canal visto y solo se pasan canales, como una TV convencional\n• Sin menús, sin lista y sin controles avanzados: solo un cartel grande con el número y nombre del canal\n• Para salir: mantener pulsado ATRÁS 3 segundos (TV) o mantener pulsado el video 3 segundos (celular)\n• Todo lo demás sigue igual",
   "mandatory": true
 }
