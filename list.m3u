@@ -264,8 +264,7 @@ http://190.61.101.11:7050/play/a06o/index.m3u8?hls
 
 #EXTINF:-1 tvg-chno="54" group-title="Deportes" tvg-id="deportes9" tvg-name="WIN SPORTS HD" tvg-logo="https://raw.githubusercontent.com/Tecnibrain/iptv.github.io/main/LOGOS/054_WIN_SPORTS_HD.png", WIN SPORTS HD
 http://181.118.153.15:8000/play/op88/index.m3u8?hls
-http://181.78.8.199:8000/play/a09s/index.m3u8
-http://190.60.32.178:8178/play/a0fk/index.m3u8
+http://181.78.8.199:8000/play/a09s/index.m3u8
 
 #EXTINF:-1 tvg-chno="55" group-title="Deportes" tvg-id="deportes10" tvg-name="WIN SPORTS+ HD" tvg-logo="https://raw.githubusercontent.com/Tecnibrain/iptv.github.io/main/LOGOS/055_WIN_SPORTS_HD_OP1.png", WIN SPORTS+ HD
 http://181.79.87.131:8000/play/a0eu/index.m3u8
@@ -273,6 +272,7 @@ http://179.1.199.50:9000/play/a01s/index.m3u8
 http://201.182.249.201:8000/play/a0in/index.m3u8
 http://186.33.57.100:8000/play/a2la/index.m3u8
 http://181.78.6.106:45000/play/a014
+http://190.60.32.178:8178/play/a0fk/index.m3u8
 
 #EXTINF:-1 tvg-chno="56" group-title="Religioso" tvg-id="Religioso1" tvg-name="ENLACE" tvg-logo="https://raw.githubusercontent.com/Tecnibrain/iptv.github.io/main/LOGOS/056_ENLACE.png", ENLACE
 http://177.53.153.207:8000/play/a01b/index.m3u8
