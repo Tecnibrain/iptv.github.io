@@ -266,8 +266,7 @@ http://190.61.101.11:7050/play/a06o/index.m3u8?hls
 http://181.118.153.15:8000/play/op88/index.m3u8?hls
 http://181.78.8.199:8000/play/a09s/index.m3u8
 
-#EXTINF:-1 tvg-chno="55" group-title="Deportes" tvg-id="deportes10" tvg-name="WIN SPORTS+ HD" tvg-logo="https://raw.githubusercontent.com/Tecnibrain/iptv.github.io/main/LOGOS/055_WIN_SPORTS_HD_OP1.png", WIN SPORTS+ HD
-http://181.79.87.131:8000/play/a0eu/index.m3u8
+#EXTINF:-1 tvg-chno="55" group-title="Deportes" tvg-id="deportes10" tvg-name="WIN SPORTS+ HD" tvg-logo="https://raw.githubusercontent.com/Tecnibrain/iptv.github.io/main/LOGOS/055_WIN_SPORTS_HD_OP1.png", WIN SPORTS+ HD
 http://179.1.199.50:9000/play/a01s/index.m3u8
 http://201.182.249.201:8000/play/a0in/index.m3u8
 http://186.33.57.100:8000/play/a2la/index.m3u8
